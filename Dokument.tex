@@ -1,0 +1,178 @@
+% ==========================
+%  LaTeX 2e - Dokument
+%  Editor: Dragan Kozulovic
+% ==========================
+\documentclass[11pt,a4paper,fleqn,twoside]{report}
+\usepackage[dvips,final]{graphicx}               %% epsfig 
+\usepackage[utf8]{inputenc}                    %% ISO-Text 
+\usepackage[T1]{fontenc}                         %% 
+\usepackage[german]{babel}                       %% BABEL 
+\usepackage{parskip}                             %% 
+\usepackage{fancyhdr}                            %% 
+\usepackage[hang,bf]{caption}                    %% 
+\usepackage{color}                               %% Farben
+\usepackage{multirow}                            %% 
+%\usepackage{natbib}
+\usepackage{float}
+\usepackage{siunitx}
+
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[onehalfspacing]{setspace}
+%\usepackage[flushleft]{threeparttable}
+\usepackage{blindtext}
+\usepackage{amssymb}
+%\usepackage{esvect}
+%\usepackage[breaklinks]{hyperref} 
+
+
+
+% Einzubindende Dateien 
+\includeonly{Titelseite,
+             Letzte_Seite,
+	     eid_erkl,
+	     Nomenklatur}
+\graphicspath{{Bilder/}}                         %% Pfad fuer einzubindende Graphiken
+
+
+% Seiten-Layout
+\oddsidemargin   0.0cm                           %% Anpassung DIN A4-Format (symmetrisch)
+\evensidemargin  0.0cm                           %% Anpassung DIN A4-Format (symmetrisch)
+\topmargin      -1.0cm         
+\textheight     25.0cm
+\textwidth      16.0cm
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{\thechapter.\ #1}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
+\fancyhf{}                                %Clears all header and footer fields, in preparation.
+\fancyhead[LE,RO]{\thepage}               %Displays the page number in bold in the header,
+                                          % to the left on even pages and to the right on odd pages.
+\fancyhead[RE]{\nouppercase{\leftmark}}   %Displays the upper-level (chapter) information---
+                                          % as determined above---in non-upper case in the header, to the right on even pages.
+\fancyhead[LO]{\rightmark}                %Displays the lower-level (section) information---as
+                                          % determined above---in the header, to the left on odd pages.
+\renewcommand{\headrulewidth}{0.5pt}      %Underlines the header. (Set to 0pt if not required).
+
+%\sloppy                                         %% lockerer Zeilenumbruch
+%\flushbottom                                    %% buendige letzte Zeile
+
+
+% Trennungskorrekturen
+%\hyphenation{Bei-spiel}
+%\hyphenation{}
+%\hyphenation{}
+%\hyphenation{}
+%\hyphenation{}
+%\hyphenation{}
+
+
+% Umbenennungen (babel) (siehe LaTeX-Begleiter, Abschn. 9.2.3)
+\addto\extrasgerman{\renewcommand{\figurename}{Abb.}}
+
+
+% Listen
+\newcommand{\bl}{\begin{list}{\textbullet}%         %% kleine Aufzaehlung/Liste
+{\topsep0pt\partopsep0pt\itemsep0pt\parsep0pt\leftmargin1.5em\labelwidth1em\labelsep0.5em}}
+\newcommand{\el}{\end{list}}
+\newcommand{\cit}[1]{\textit{\cite{#1}}}
+
+
+% Literaturverzeichnis
+\usepackage[backend=biber,						% Bibtex-Backend biber mit ACII und Latin 1 Unterst�tzung
+bibencoding=auto,
+natbib=true,									% natbib Zitierbefehle
+bibstyle=numeric,								% Numerisches Literaturverzeichnis
+giveninits=true,								% Vor- und Mittelnamen als Initialien
+citestyle=numeric,								% Numrische Zitierweise
+url=false,										% Schreibe nicht die URL ins Literaturverzeichnis
+maxbibnames=3,									% Maximal 3 Autoren im Literaturverteichnis
+minbibnames=3									% Maximal 3 Autoren im Literaturverteichnis
+]{biblatex}
+\bibliography{Literatur}		% Pfad zur *.bib-Datei
+\DeclareNameAlias{default}{last-first}			% Nachname, Vorname in Literaturverzeichnis
+\renewcommand{\labelnamepunct}{\addcolon\space}	% Doppelpunkt nach Autoren vor Titel
+\renewbibmacro*{journal+issuetitle}{			% number in Klammern
+  \usebibmacro{journal}%
+  \setunit*{\addspace}%
+  \iffieldundef{series}
+    {}
+    {\newunit
+     \printfield{series}%
+     \setunit{\addspace}}%
+  \printfield{volume}%
+  \iffieldundef{number}
+     {}
+      {\mkbibparens{\printfield{number}}}%
+  \setunit{\addcomma\space}%
+  \printfield{eid}%
+  \setunit{\addspace}%
+  \usebibmacro{issue+date}%
+  \setunit{\addcolon\space}%
+  \usebibmacro{issue}%
+  \newunit}
+
+\usepackage{calc}								% Arithmetische Latex-Befehle
+
+
+
+
+
+\begin{document}
+% Titelseite
+\input{Kapitel/Titelseite}
+\include{Kapitel/Letzte_Seite}
+
+\pagenumbering{roman}\setcounter{page}{1} 
+
+
+%% Eidesstattliche Erklaerung (fuer DA, MA und BA)
+\include{Kapitel/eid_erkl}
+%\include{empty_page}
+
+
+% Uebersicht
+%\include{abstract}
+%\include{empty_page}
+
+
+% Inhaltsverzeichnis
+\fancyhead[RE]{Inhaltsverzeichnis}
+\fancyhead[LO]{Inhaltsverzeichnis}
+{ 
+   \renewcommand{\baselinestretch}{0.85}    %% Zeilenabstand / TOC
+   \small\normalsize                        %% neuen Zeilenabstand aktivieren
+   \tableofcontents
+}
+% ATTENTION: comment out if contents sides are even number
+%\include{empty_page}
+
+
+% Nomenklatur
+\newpage
+\fancyhead[RE]{Nomenklatur}
+\fancyhead[LO]{Nomenklatur}
+\input{Kapitel/Nomenklatur}
+
+
+% alle Kapitel
+\pagenumbering{arabic}\setcounter{page}{1}
+\fancyhead[RE]{\nouppercase{\leftmark}}
+\fancyhead[LO]{\rightmark}
+
+\input{Kapitel/Einleitung}
+\input{Kapitel/Metallurgie}
+\input{Kapitel/Experimentelle_Methoden}
+\input{Kapitel/Ergebnisse}
+\input{Kapitel/Diskussion_der_Ergebnisse}
+\input{Kapitel/Fazit_und_Ausblick}
+
+
+\input{Kapitel/Letzte_Seite}
+
+% Literaturverzeichnis
+\newpage
+\addcontentsline{toc}{chapter}{Literatur}
+\printbibliography
+
+
+\end{document}
