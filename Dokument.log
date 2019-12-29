@@ -1,14 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.12)  27 DEC 2019 11:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.8)  29 DEC 2019 15:52
 entering extended mode
 **./Dokument.tex
 (Dokument.tex
-LaTeX2e <2018-12-01>
-
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cl
-s"
-Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fleqn.clo
-"
+LaTeX2e <2019-10-01> patch level 3
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls"
+Document Class: report 2019/10/25 v1.4k Standard LaTeX document class
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fleqn.clo"
 File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
 \mathindent=\dimen102
 Applying: [2015/01/01] Make \[ robust on input line 50.
@@ -17,10 +14,9 @@ Already applied: [0000/00/00] Make \[ robust on input line 62.
 Applying: [2015/01/01] Make \] robust on input line 74.
 LaTeX Info: Redefining \] on input line 75.
 Already applied: [0000/00/00] Make \] robust on input line 83.
-)
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size11.cl
+) ("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size11.cl
 o"
-File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+File: size11.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@chapter=\count81
@@ -35,126 +31,127 @@ File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen103
 )
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graph
-icx.sty"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
+x.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyva
-l.sty"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.
+sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graph
-ics.sty"
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
+s.sty"
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.
-sty"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.st
+y"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\g
-raphics.cfg"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gra
+phics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: dvips.def on input line 99.
+Package graphics Info: Driver file: dvips.def on input line 105.
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\d
-vips.def"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\dvi
+ps.def"
 File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
 ))
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.
-sty"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.st
+y"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
 )
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.s
-ty"
-Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
-
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty
 "
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+ ("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def"
 File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.
-sty"
-Package: babel 2019/05/04 3.31 The Babel package
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.st
+y"
+Package: babel 2019/11/14 3.36 The Babel package
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch
-.def"
-File: switch.def 2019/05/04 3.31 Babel switching mechanism
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.d
+ef"
+File: switch.def 2019/11/14 3.36 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.
-cfg"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cf
+g"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-german\g
-erman.ldf"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-german\ger
+man.ldf"
 Language: german 2018/12/08 v2.11 German support for babel (pre-1996 orthograph
 y)
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-german\g
-ermanb.ldf"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-german\ger
+manb.ldf"
 Language: germanb 2018/12/08 v2.11 German support for babel (pre-1996 orthograp
 hy)
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.
-def"
-File: babel.def 2019/05/04 3.31 Babel common definitions
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.de
+f"
+File: babel.def 2019/11/14 3.36 Babel common definitions
 \babel@savecnt=\count89
 \U@D=\dimen106
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbab
-el.def")
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel
+.def")
 \bbl@dirlevel=\count90
 )
 Package babel Info: Making " an active character on input line 135.
 )))
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/parskip\parski
-p.sty"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/parskip\parskip.
+sty"
 Package: parskip 2019-01-16 v2.0c non-zero parskip adjustments
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvopt
-ions.sty"
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvopti
+ons.sty"
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltx
-cmds.sty"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcm
+ds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvs
-etkeys.sty"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvset
+keys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\inf
-warerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infw
+arerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ete
-xcmds.sty"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexc
+mds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifl
-uatex.sty"
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-))))
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etool
-box.sty"
-Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex
+.sty"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.st
+y"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)))))
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbo
+x.sty"
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count91
 ))
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancy
-hdr.sty"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhd
+r.sty"
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip43
@@ -167,13 +164,13 @@ s
 \f@nch@O@olf=\skip50
 \f@nch@O@orf=\skip51
 )
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\captio
-n.sty"
-Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.
+sty"
+Package: caption 2019/10/18 v3.4a Customizing captions (AR)
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\captio
-n3.sty"
-Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3
+.sty"
+Package: caption3 2019/09/09 v1.8e caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
 \captionmargin=\dimen107
 \captionmargin@=\dimen108
@@ -182,34 +179,34 @@ Package caption3 Info: TeX engine: e-TeX on input line 64.
 \caption@indent=\dimen111
 \caption@parindent=\dimen112
 \caption@hangindent=\dimen113
+Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count92
-\c@ContinuedFloat=\count93
+\c@continuedfloat=\count93
 )
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color
-.sty"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.s
+ty"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\c
-olor.cfg"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\col
+or.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\p
-dftex.def"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdf
+tex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multi
-row.sty"
-Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multiro
+w.sty"
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
 \multirow@colwidth=\skip52
 \multirow@cntb=\count94
 \multirow@dima=\skip53
 \bigstrutjot=\dimen114
 )
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.st
-y"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count95
 \float@exts=\toks17
@@ -217,27 +214,29 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks18
 \@floatcapt=\box28
 )
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siunit
-x.sty"
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3
-.sty"
-Package: expl3 2019-05-28 L3 programming layer (loader) 
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siunitx.
+sty"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.s
+ty"
+Package: expl3 2019-11-07 L3 programming layer (loader) 
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3
--code.tex"
-Package: expl3 2019-05-28 L3 programming layer (code)
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3-c
+ode.tex"
+Package: expl3 2019-11-07 L3 programming layer (code)
 \c_max_int=\count96
 \l_tmpa_int=\count97
 \l_tmpb_int=\count98
 \g_tmpa_int=\count99
 \g_tmpb_int=\count100
-\g__kernel_prg_map_int=\count101
-\c__ior_term_ior=\count102
-\c_log_iow=\count103
-\l_iow_line_count_int=\count104
-\l__iow_line_target_int=\count105
-\l__iow_one_indent_int=\count106
-\l__iow_indent_int=\count107
+\l__seq_internal_a_int=\count101
+\l__seq_internal_b_int=\count102
+\g__kernel_prg_map_int=\count103
+\c__ior_term_noprompt_ior=\count104
+\c_log_iow=\count105
+\l_iow_line_count_int=\count106
+\l__iow_line_target_int=\count107
+\l__iow_one_indent_int=\count108
+\l__iow_indent_int=\count109
 \c_zero_dim=\dimen115
 \c_max_dim=\dimen116
 \l_tmpa_dim=\dimen117
@@ -256,78 +255,80 @@ Package: expl3 2019-05-28 L3 programming layer (code)
 \l_tmpb_muskip=\muskip13
 \g_tmpa_muskip=\muskip14
 \g_tmpb_muskip=\muskip15
-\l_keys_choice_int=\count108
-\l__intarray_loop_int=\count109
+\l_keys_choice_int=\count110
+\l__intarray_loop_int=\count111
 \c__intarray_sp_dim=\dimen121
-\g__intarray_font_int=\count110
-\c__fp_leading_shift_int=\count111
-\c__fp_middle_shift_int=\count112
-\c__fp_trailing_shift_int=\count113
-\c__fp_big_leading_shift_int=\count114
-\c__fp_big_middle_shift_int=\count115
-\c__fp_big_trailing_shift_int=\count116
-\c__fp_Bigg_leading_shift_int=\count117
-\c__fp_Bigg_middle_shift_int=\count118
-\c__fp_Bigg_trailing_shift_int=\count119
-\c__kernel_randint_max_int=\count120
-\g__fp_array_int=\count121
-\l__fp_array_loop_int=\count122
-\l__sort_length_int=\count123
-\l__sort_min_int=\count124
-\l__sort_top_int=\count125
-\l__sort_max_int=\count126
-\l__sort_true_max_int=\count127
-\l__sort_block_int=\count128
-\l__sort_begin_int=\count129
-\l__sort_end_int=\count130
-\l__sort_A_int=\count131
-\l__sort_B_int=\count132
-\l__sort_C_int=\count133
-\l__tl_analysis_normal_int=\count134
-\l__tl_analysis_index_int=\count135
-\l__tl_analysis_nesting_int=\count136
-\l__tl_analysis_type_int=\count137
-\l__regex_internal_a_int=\count138
-\l__regex_internal_b_int=\count139
-\l__regex_internal_c_int=\count140
-\l__regex_balance_int=\count141
-\l__regex_group_level_int=\count142
-\l__regex_mode_int=\count143
-\c__regex_cs_in_class_mode_int=\count144
-\c__regex_cs_mode_int=\count145
-\l__regex_catcodes_int=\count146
-\l__regex_default_catcodes_int=\count147
-\c__regex_catcode_D_int=\count148
-\c__regex_catcode_S_int=\count149
-\c__regex_catcode_L_int=\count150
-\c__regex_catcode_O_int=\count151
-\c__regex_catcode_A_int=\count152
-\c__regex_all_catcodes_int=\count153
-\l__regex_show_lines_int=\count154
-\l__regex_min_state_int=\count155
-\l__regex_max_state_int=\count156
-\l__regex_left_state_int=\count157
-\l__regex_right_state_int=\count158
-\l__regex_capturing_group_int=\count159
-\l__regex_min_pos_int=\count160
-\l__regex_max_pos_int=\count161
-\l__regex_curr_pos_int=\count162
-\l__regex_start_pos_int=\count163
-\l__regex_success_pos_int=\count164
-\l__regex_curr_char_int=\count165
-\l__regex_curr_catcode_int=\count166
-\l__regex_last_char_int=\count167
-\l__regex_case_changed_char_int=\count168
-\l__regex_curr_state_int=\count169
-\l__regex_step_int=\count170
-\l__regex_min_active_int=\count171
-\l__regex_max_active_int=\count172
-\l__regex_replacement_csnames_int=\count173
-\l__regex_match_count_int=\count174
-\l__regex_min_submatch_int=\count175
-\l__regex_submatch_int=\count176
-\l__regex_zeroth_submatch_int=\count177
-\g__regex_trace_regex_int=\count178
+\g__intarray_font_int=\count112
+\c__fp_leading_shift_int=\count113
+\c__fp_middle_shift_int=\count114
+\c__fp_trailing_shift_int=\count115
+\c__fp_big_leading_shift_int=\count116
+\c__fp_big_middle_shift_int=\count117
+\c__fp_big_trailing_shift_int=\count118
+\c__fp_Bigg_leading_shift_int=\count119
+\c__fp_Bigg_middle_shift_int=\count120
+\c__fp_Bigg_trailing_shift_int=\count121
+\c__kernel_randint_max_int=\count122
+\g__fp_array_int=\count123
+\l__fp_array_loop_int=\count124
+\l__sort_length_int=\count125
+\l__sort_min_int=\count126
+\l__sort_top_int=\count127
+\l__sort_max_int=\count128
+\l__sort_true_max_int=\count129
+\l__sort_block_int=\count130
+\l__sort_begin_int=\count131
+\l__sort_end_int=\count132
+\l__sort_A_int=\count133
+\l__sort_B_int=\count134
+\l__sort_C_int=\count135
+\l__str_internal_int=\count136
+\c__str_replacement_char_int=\count137
+\l__tl_analysis_normal_int=\count138
+\l__tl_analysis_index_int=\count139
+\l__tl_analysis_nesting_int=\count140
+\l__tl_analysis_type_int=\count141
+\l__regex_internal_a_int=\count142
+\l__regex_internal_b_int=\count143
+\l__regex_internal_c_int=\count144
+\l__regex_balance_int=\count145
+\l__regex_group_level_int=\count146
+\l__regex_mode_int=\count147
+\c__regex_cs_in_class_mode_int=\count148
+\c__regex_cs_mode_int=\count149
+\l__regex_catcodes_int=\count150
+\l__regex_default_catcodes_int=\count151
+\c__regex_catcode_D_int=\count152
+\c__regex_catcode_S_int=\count153
+\c__regex_catcode_L_int=\count154
+\c__regex_catcode_O_int=\count155
+\c__regex_catcode_A_int=\count156
+\c__regex_all_catcodes_int=\count157
+\l__regex_show_lines_int=\count158
+\l__regex_min_state_int=\count159
+\l__regex_max_state_int=\count160
+\l__regex_left_state_int=\count161
+\l__regex_right_state_int=\count162
+\l__regex_capturing_group_int=\count163
+\l__regex_min_pos_int=\count164
+\l__regex_max_pos_int=\count165
+\l__regex_curr_pos_int=\count166
+\l__regex_start_pos_int=\count167
+\l__regex_success_pos_int=\count168
+\l__regex_curr_char_int=\count169
+\l__regex_curr_catcode_int=\count170
+\l__regex_last_char_int=\count171
+\l__regex_case_changed_char_int=\count172
+\l__regex_curr_state_int=\count173
+\l__regex_step_int=\count174
+\l__regex_min_active_int=\count175
+\l__regex_max_active_int=\count176
+\l__regex_replacement_csnames_int=\count177
+\l__regex_match_count_int=\count178
+\l__regex_min_submatch_int=\count179
+\l__regex_submatch_int=\count180
+\l__regex_zeroth_submatch_int=\count181
+\g__regex_trace_regex_int=\count182
 \c_empty_box=\box29
 \l_tmpa_box=\box30
 \l_tmpb_box=\box31
@@ -371,40 +372,40 @@ Package: expl3 2019-05-28 L3 programming layer (code)
 \l__coffin_display_offset_dim=\dimen144
 \l__coffin_display_x_dim=\dimen145
 \l__coffin_display_y_dim=\dimen146
-\g__file_internal_ior=\read1
-\l__seq_internal_a_int=\count179
-\l__seq_internal_b_int=\count180
-\c__deprecation_minus_one=\count181
-)
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\l3pdf
-mode.def"
-File: l3pdfmode.def 2019-04-06 v L3 Experimental driver: PDF mode
-\l__driver_internal_box=\box47
-\l__driver_color_stack_int=\count182
-))
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xpa
-rse\xparse.sty"
-Package: xparse 2019-05-28 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count183
-\g__xparse_grabber_int=\count184
-\l__xparse_m_args_int=\count185
-\l__xparse_v_nesting_int=\count186
-)
-Package: siunitx 2018/05/17 v2.7s A comprehensive (SI) units package
+\g__char_data_ior=\read1
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstex
-t.sty"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\l3depre
+cation.def"
+File: l3deprecation.def 2019-04-06 v L3 Deprecated functions
+))
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3back
+end-pdfmode.def"
+File: l3backend-pdfmode.def 2019-04-06 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count183
+\l__pdf_internal_box=\box47
+))
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xpars
+e\xparse.sty"
+Package: xparse 2019-10-11 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count184
+\g__xparse_grabber_int=\count185
+\l__xparse_m_args_int=\count186
+\l__xparse_v_nesting_int=\count187
+)
+Package: siunitx 2019/10/10 v2.7t A comprehensive (SI) units package
+
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.
+sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen
-.sty"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.s
+ty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks19
 \ex@=\dimen147
 ))
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.st
-y"
-Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen148
 \ar@mcellbox=\box48
 \extrarowheight=\dimen149
@@ -413,33 +414,33 @@ Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
 \backup@length=\skip61
 \ar@cellbox=\box49
 )
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/l3k
-eys2e\l3keys2e.sty"
-Package: l3keys2e 2019-05-28 LaTeX2e option processing using LaTeX3 keys
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/l3key
+s2e\l3keys2e.sty"
+Package: l3keys2e 2019-10-11 LaTeX2e option processing using LaTeX3 keys
 )
 \l__siunitx_tmp_box=\box50
 \l__siunitx_tmp_dim=\dimen150
-\l__siunitx_tmp_int=\count187
-\l__siunitx_number_mantissa_length_int=\count188
-\l__siunitx_number_uncert_length_int=\count189
-\l__siunitx_round_int=\count190
-\l__siunitx_process_decimal_int=\count191
-\l__siunitx_process_uncertainty_int=\count192
-\l__siunitx_process_fixed_int=\count193
-\l__siunitx_process_integer_min_int=\count194
-\l__siunitx_process_precision_int=\count195
-\l__siunitx_group_min_int=\count196
+\l__siunitx_tmp_int=\count188
+\l__siunitx_number_mantissa_length_int=\count189
+\l__siunitx_number_uncert_length_int=\count190
+\l__siunitx_round_int=\count191
+\l__siunitx_process_decimal_int=\count192
+\l__siunitx_process_uncertainty_int=\count193
+\l__siunitx_process_fixed_int=\count194
+\l__siunitx_process_integer_min_int=\count195
+\l__siunitx_process_precision_int=\count196
+\l__siunitx_group_min_int=\count197
 \l__siunitx_angle_marker_box=\box51
 \l__siunitx_angle_unit_box=\box52
 \l__siunitx_angle_marker_dim=\dimen151
 \l__siunitx_angle_unit_dim=\dimen152
-\l__siunitx_unit_int=\count197
-\l__siunitx_unit_denominator_int=\count198
-\l__siunitx_unit_numerator_int=\count199
-\l__siunitx_unit_prefix_int=\count266
-\l__siunitx_unit_prefix_base_int=\count267
-\l__siunitx_unit_prefix_gram_int=\count268
-\l__siunitx_number_product_int=\count269
+\l__siunitx_unit_int=\count198
+\l__siunitx_unit_denominator_int=\count199
+\l__siunitx_unit_numerator_int=\count266
+\l__siunitx_unit_prefix_int=\count267
+\l__siunitx_unit_prefix_base_int=\count268
+\l__siunitx_unit_prefix_gram_int=\count269
+\l__siunitx_number_product_int=\count270
 \c__siunitx_one_fill_skip=\skip62
 \l__siunitx_table_unit_align_skip=\skip63
 \l__siunitx_table_exponent_dim=\dimen153
@@ -458,50 +459,50 @@ Package: l3keys2e 2019-05-28 LaTeX2e option processing using LaTeX3 keys
 \l__siunitx_table_number_align_skip=\skip64
 \l__siunitx_table_text_align_skip=\skip65
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\tra
-nslator.sty"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\trans
+lator.sty"
 Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
 ))
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmat
-h.sty"
-Package: amsmath 2018/12/01 v2.17b AMS math features
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.
+sty"
+Package: amsmath 2019/11/16 v2.17d AMS math features
 \@mathmargin=\skip66
 
 For additional information on amsmath, use the `?' option.
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy
-.sty"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.s
+ty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen162
 )
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn
-.sty"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.s
+ty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count270
-LaTeX Info: Redefining \frac on input line 223.
-\uproot@=\count271
-\leftroot@=\count272
-LaTeX Info: Redefining \overline on input line 385.
-\classnum@=\count273
-\DOTSCASE@=\count274
-LaTeX Info: Redefining \ldots on input line 482.
-LaTeX Info: Redefining \dots on input line 485.
-LaTeX Info: Redefining \cdots on input line 606.
+\inf@bad=\count271
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count272
+\leftroot@=\count273
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count274
+\DOTSCASE@=\count275
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
 \Mathstrutbox@=\box57
 \strutbox@=\box58
 \big@size=\dimen163
-LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
-\macc@depth=\count275
-\c@MaxMatrixCols=\count276
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count276
+\c@MaxMatrixCols=\count277
 \dotsspace@=\muskip16
-\c@parentequation=\count277
-\dspbrk@lvl=\count278
+\c@parentequation=\count278
+\dspbrk@lvl=\count279
 \tag@help=\toks21
-\row@=\count279
-\column@=\count280
-\maxfields@=\count281
+\row@=\count280
+\column@=\count281
+\maxfields@=\count282
 \andhelp@=\toks22
 \eqnshift@=\dimen164
 \alignsep@=\dimen165
@@ -513,126 +514,121 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 \multlinegap=\skip67
 \multlinetaggap=\skip68
 \mathdisplay@stack=\toks24
-LaTeX Info: Redefining \[ on input line 2844.
-LaTeX Info: Redefining \] on input line 2845.
+LaTeX Info: Redefining \[ on input line 2858.
+LaTeX Info: Redefining \] on input line 2859.
 )
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setsp
-ace.sty"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setspac
+e.sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/blindtext\blin
-dtext.sty"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/blindtext\blindt
+ext.sty"
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\xspace.s
-ty"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\xspace.sty
+"
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count282
-\c@Blindtext=\count283
-\c@blind@countparstart=\count284
-\blind@countxx=\count285
-\blindtext@numBlindtext=\count286
-\blind@countyy=\count287
-\c@blindlist=\count288
-\c@blindlistlevel=\count289
-\c@blindlist@level=\count290
-\blind@listitem=\count291
-\c@blind@listcount=\count292
-\c@blind@levelcount=\count293
-\blind@mathformula=\count294
-\blind@Mathformula=\count295
-\c@blind@randomcount=\count296
-\c@blind@randommax=\count297
-\c@blind@pangramcount=\count298
-\c@blind@pangrammax=\count299
+\c@blindtext=\count283
+\c@Blindtext=\count284
+\c@blind@countparstart=\count285
+\blind@countxx=\count286
+\blindtext@numBlindtext=\count287
+\blind@countyy=\count288
+\c@blindlist=\count289
+\c@blindlistlevel=\count290
+\c@blindlist@level=\count291
+\blind@listitem=\count292
+\c@blind@listcount=\count293
+\c@blind@levelcount=\count294
+\blind@mathformula=\count295
+\blind@Mathformula=\count296
+\c@blind@randomcount=\count297
+\c@blind@randommax=\count298
+\c@blind@pangramcount=\count299
+\c@blind@pangrammax=\count300
 )
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssy
-mb.sty"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb
+.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfo
-nts.sty"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfont
+s.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\bibla
-tex.sty"
-Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblate
+x.sty"
+Package: biblatex 2019/08/31 v3.13a programmable bibliographies (PK/MW)
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdf
-texcmds.sty"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdfte
+xcmds.sty"
 Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.
-sty"
-Package: iftex 2019/11/07 v1.0c TeX engine tests
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.
-sty"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.st
+y"
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count300
+\lrq@indent=\count301
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.
-def"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.de
+f"
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.st
-y"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-) ("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+) ("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count301
-\c@listtotal=\count302
-\c@listcount=\count303
-\c@liststart=\count304
-\c@liststop=\count305
-\c@citecount=\count306
-\c@citetotal=\count307
-\c@multicitecount=\count308
-\c@multicitetotal=\count309
-\c@instcount=\count310
-\c@maxnames=\count311
-\c@minnames=\count312
-\c@maxitems=\count313
-\c@minitems=\count314
-\c@citecounter=\count315
-\c@maxcitecounter=\count316
-\c@savedcitecounter=\count317
-\c@uniquelist=\count318
-\c@uniquename=\count319
-\c@refsection=\count320
-\c@refsegment=\count321
-\c@maxextratitle=\count322
-\c@maxextratitleyear=\count323
-\c@maxextraname=\count324
-\c@maxextradate=\count325
-\c@maxextraalpha=\count326
-\c@abbrvpenalty=\count327
-\c@highnamepenalty=\count328
-\c@lownamepenalty=\count329
-\c@maxparens=\count330
-\c@parenlevel=\count331
-\blx@tempcnta=\count332
-\blx@tempcntb=\count333
-\blx@tempcntc=\count334
-\blx@maxsection=\count335
-\blx@maxsegment@0=\count336
-\blx@notetype=\count337
-\blx@parenlevel@text=\count338
-\blx@parenlevel@foot=\count339
-\blx@sectionciteorder@0=\count340
-\blx@entrysetcounter=\count341
+\c@tabx@nest=\count302
+\c@listtotal=\count303
+\c@listcount=\count304
+\c@liststart=\count305
+\c@liststop=\count306
+\c@citecount=\count307
+\c@citetotal=\count308
+\c@multicitecount=\count309
+\c@multicitetotal=\count310
+\c@instcount=\count311
+\c@maxnames=\count312
+\c@minnames=\count313
+\c@maxitems=\count314
+\c@minitems=\count315
+\c@citecounter=\count316
+\c@maxcitecounter=\count317
+\c@savedcitecounter=\count318
+\c@uniquelist=\count319
+\c@uniquename=\count320
+\c@refsection=\count321
+\c@refsegment=\count322
+\c@maxextratitle=\count323
+\c@maxextratitleyear=\count324
+\c@maxextraname=\count325
+\c@maxextradate=\count326
+\c@maxextraalpha=\count327
+\c@abbrvpenalty=\count328
+\c@highnamepenalty=\count329
+\c@lownamepenalty=\count330
+\c@maxparens=\count331
+\c@parenlevel=\count332
+\blx@tempcnta=\count333
+\blx@tempcntb=\count334
+\blx@tempcntc=\count335
+\blx@maxsection=\count336
+\blx@maxsegment@0=\count337
+\blx@notetype=\count338
+\blx@parenlevel@text=\count339
+\blx@parenlevel@foot=\count340
+\blx@sectionciteorder@0=\count341
+\blx@entrysetcounter=\count342
 \labelnumberwidth=\skip69
 \labelalphawidth=\skip70
 \biblabelsep=\skip71
@@ -643,88 +639,89 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip76
 \blx@bcfin=\read2
 \blx@bcfout=\write3
-\c@mincomprange=\count342
-\c@maxcomprange=\count343
-\c@mincompwidth=\count344
+\blx@langwohyphens=\language78
+\c@mincomprange=\count343
+\c@maxcomprange=\count344
+\c@mincompwidth=\count345
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-d
-m.def"
-File: blx-dm.def 2018/11/02 v3.12 biblatex localization (PK/MW)
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-dm.
+def"
+File: blx-dm.def 2019/08/31 v3.13a biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex citestyle data model...
 Package biblatex Info: ... file 'numeric.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count345
-\c@savedafterword=\count346
-\c@annotator=\count347
-\c@savedannotator=\count348
-\c@author=\count349
-\c@savedauthor=\count350
-\c@bookauthor=\count351
-\c@savedbookauthor=\count352
-\c@commentator=\count353
-\c@savedcommentator=\count354
-\c@editor=\count355
-\c@savededitor=\count356
-\c@editora=\count357
-\c@savededitora=\count358
-\c@editorb=\count359
-\c@savededitorb=\count360
-\c@editorc=\count361
-\c@savededitorc=\count362
-\c@foreword=\count363
-\c@savedforeword=\count364
-\c@holder=\count365
-\c@savedholder=\count366
-\c@introduction=\count367
-\c@savedintroduction=\count368
-\c@namea=\count369
-\c@savednamea=\count370
-\c@nameb=\count371
-\c@savednameb=\count372
-\c@namec=\count373
-\c@savednamec=\count374
-\c@translator=\count375
-\c@savedtranslator=\count376
-\c@shortauthor=\count377
-\c@savedshortauthor=\count378
-\c@shorteditor=\count379
-\c@savedshorteditor=\count380
-\c@labelname=\count381
-\c@savedlabelname=\count382
-\c@institution=\count383
-\c@savedinstitution=\count384
-\c@lista=\count385
-\c@savedlista=\count386
-\c@listb=\count387
-\c@savedlistb=\count388
-\c@listc=\count389
-\c@savedlistc=\count390
-\c@listd=\count391
-\c@savedlistd=\count392
-\c@liste=\count393
-\c@savedliste=\count394
-\c@listf=\count395
-\c@savedlistf=\count396
-\c@location=\count397
-\c@savedlocation=\count398
-\c@organization=\count399
-\c@savedorganization=\count400
-\c@origlocation=\count401
-\c@savedoriglocation=\count402
-\c@origpublisher=\count403
-\c@savedorigpublisher=\count404
-\c@publisher=\count405
-\c@savedpublisher=\count406
-\c@language=\count407
-\c@savedlanguage=\count408
-\c@origlanguage=\count409
-\c@savedoriglanguage=\count410
-\c@pageref=\count411
-\c@savedpageref=\count412
+\c@afterword=\count346
+\c@savedafterword=\count347
+\c@annotator=\count348
+\c@savedannotator=\count349
+\c@author=\count350
+\c@savedauthor=\count351
+\c@bookauthor=\count352
+\c@savedbookauthor=\count353
+\c@commentator=\count354
+\c@savedcommentator=\count355
+\c@editor=\count356
+\c@savededitor=\count357
+\c@editora=\count358
+\c@savededitora=\count359
+\c@editorb=\count360
+\c@savededitorb=\count361
+\c@editorc=\count362
+\c@savededitorc=\count363
+\c@foreword=\count364
+\c@savedforeword=\count365
+\c@holder=\count366
+\c@savedholder=\count367
+\c@introduction=\count368
+\c@savedintroduction=\count369
+\c@namea=\count370
+\c@savednamea=\count371
+\c@nameb=\count372
+\c@savednameb=\count373
+\c@namec=\count374
+\c@savednamec=\count375
+\c@translator=\count376
+\c@savedtranslator=\count377
+\c@shortauthor=\count378
+\c@savedshortauthor=\count379
+\c@shorteditor=\count380
+\c@savedshorteditor=\count381
+\c@labelname=\count382
+\c@savedlabelname=\count383
+\c@institution=\count384
+\c@savedinstitution=\count385
+\c@lista=\count386
+\c@savedlista=\count387
+\c@listb=\count388
+\c@savedlistb=\count389
+\c@listc=\count390
+\c@savedlistc=\count391
+\c@listd=\count392
+\c@savedlistd=\count393
+\c@liste=\count394
+\c@savedliste=\count395
+\c@listf=\count396
+\c@savedlistf=\count397
+\c@location=\count398
+\c@savedlocation=\count399
+\c@organization=\count400
+\c@savedorganization=\count401
+\c@origlocation=\count402
+\c@savedoriglocation=\count403
+\c@origpublisher=\count404
+\c@savedorigpublisher=\count405
+\c@publisher=\count406
+\c@savedpublisher=\count407
+\c@language=\count408
+\c@savedlanguage=\count409
+\c@origlanguage=\count410
+\c@savedoriglanguage=\count411
+\c@pageref=\count412
+\c@savedpageref=\count413
 \shorthandwidth=\skip77
 \shortjournalwidth=\skip78
 \shortserieswidth=\skip79
@@ -742,54 +739,60 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-c
-ompat.def"
-File: blx-compat.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-com
+pat.def"
+File: blx-compat.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\bibla
-tex.def"
-File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
-\c@textcitecount=\count413
-\c@textcitetotal=\count414
-\c@textcitemaxnames=\count415
-\c@biburlnumpenalty=\count416
-\c@biburlucpenalty=\count417
-\c@biburllcpenalty=\count418
-\c@smartand=\count419
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblate
+x.def"
+File: biblatex.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
+\c@textcitecount=\count414
+\c@textcitetotal=\count415
+\c@textcitemaxnames=\count416
+\c@biburlbigbreakpenalty=\count417
+\c@biburlbreakpenalty=\count418
+\c@biburlnumpenalty=\count419
+\c@biburlucpenalty=\count420
+\c@biburllcpenalty=\count421
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count422
 )
 Package biblatex Info: Trying to load natbib compatibility...
 Package biblatex Info: ... file 'blx-natbib.def' found.
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-n
-atbib.def"
-File: blx-natbib.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-nat
+bib.def"
+File: blx-natbib.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
 Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
  overwriting.
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\n
-umeric.bbx"
-File: numeric.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\num
+eric.bbx"
+File: numeric.bbx 2019/08/31 v3.13a biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\s
-tandard.bbx"
-File: standard.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count420
-\c@bbx:relatedtotal=\count421
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\sta
+ndard.bbx"
+File: standard.bbx 2019/08/31 v3.13a biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count423
+\c@bbx:relatedtotal=\count424
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/cbx\n
-umeric.cbx"
-File: numeric.cbx 2018/11/02 v3.12 biblatex citation style (PK/MW)
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/cbx\num
+eric.cbx"
+File: numeric.cbx 2019/08/31 v3.13a biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -805,37 +808,36 @@ Package biblatex Info: Redefining '\smartcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\bibla
-tex.cfg"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblate
+x.cfg"
 File: biblatex.cfg 
 ))
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty
-"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count422
-\calc@Bcount=\count423
+\calc@Acount=\count425
+\calc@Bcount=\count426
 \calc@Adimen=\dimen170
 \calc@Bdimen=\dimen171
 \calc@Askip=\skip91
 \calc@Bskip=\skip92
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count424
+\calc@Ccount=\count427
 \calc@Cskip=\skip93
 )
 Package biblatex Info: Trying to load language 'german'...
 Package biblatex Info: ... file 'german.lbx' found.
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\g
-erman.lbx"
-File: german.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\ger
+man.lbx"
+File: german.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
 )
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count425
-\@quotereset=\count426
+\@quotelevel=\count428
+\@quotereset=\count429
 (Dokument.aux (Kapitel/Letzte_Seite.aux) (Kapitel/eid_erkl.aux))
 \openout1 = `Dokument.aux'.
 
@@ -855,46 +857,32 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\su
-pp-pdf.mkii"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp
+-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count427
+\scratchcounter=\count430
 \scratchdimen=\dimen172
 \scratchbox=\box59
-\nofMPsegments=\count428
-\nofMParguments=\count429
+\nofMPsegments=\count431
+\nofMParguments=\count432
 \everyMPshowfont=\toks25
-\MPscratchCnt=\count430
+\MPscratchCnt=\count433
 \MPscratchDim=\dimen173
-\MPnumerator=\count431
-\makeMPintoPDFobject=\count432
+\MPnumerator=\count434
+\makeMPintoPDFobject=\count435
 \everyMPtoPDFconversion=\toks26
 )
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epsto
-pdf-base.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfex
-t.sty"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvd
-efinekeys.sty"
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-))
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\eps
+topdf-base.sty"
+Package: epstopdf-base 2019-11-30 v2.9 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
+85.
 )
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.df
-u"
-File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.dfu"
+File: ts1enc.dfu 2019/07/11 v1.2j UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00A4 (decimal 164)
@@ -964,14 +952,16 @@ File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
    defining Unicode char U+25E6 (decimal 9702)
    defining Unicode char U+25EF (decimal 9711)
    defining Unicode char U+266A (decimal 9834)
+   defining Unicode char U+27E8 (decimal 10216)
+   defining Unicode char U+27E9 (decimal 10217)
    defining Unicode char U+FEFF (decimal 65279)
 )
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\tra
-nslator-basic-dictionary-English.dict"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\trans
+lator-basic-dictionary-English.dict"
 Dictionary: translator-basic-dictionary, Language: English 
 )
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siunit
-x-abbreviations.cfg"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siunitx-
+abbreviations.cfg"
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -985,16 +975,17 @@ Package biblatex Info: ... file 'Dokument.bbl' not found.
 No file Dokument.bbl.
 Package biblatex Info: Reference section=0 on input line 120.
 Package biblatex Info: Reference segment=0 on input line 120.
-LaTeX Font Info:    Try loading font information for U+msa on input line 120.
-
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.
-fd"
+LaTeX Font Info:    Trying to load font information for U+msa on input line 120
+.
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd
+"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 120.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 120
+.
 
-("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.
-fd"
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd
+"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (Kapitel/Titelseite.tex
 <./Bilder/TUBraunschweig_4C.pdf, id=1, 199.74625pt x 74.2775pt>
@@ -1022,8 +1013,8 @@ Overfull \hbox (19.45007pt too wide) in paragraph at lines 54--66
 Non-PDF special ignored!
 <special> papersize=597.50787pt,845.04684pt
 
-{C:/Users/vrein_000/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Bilde
-r/ifw_logo.pdf> <./Bilder/TUBraunschweig_4C.pdf>]) (Dokument.toc)
+{C:/Users/ZiadBhs/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Bilder/
+ifw_logo.pdf> <./Bilder/TUBraunschweig_4C.pdf>]) (Dokument.toc)
 \tf@toc=\write4
 \openout4 = `Dokument.toc'.
 
@@ -1101,34 +1092,33 @@ Package logreq Info: Writing requests to 'Dokument.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23491 strings out of 492895
- 454518 string characters out of 3121867
- 840807 words of memory out of 3000000
- 27142 multiletter control sequences out of 15000+200000
+ 24628 strings out of 492484
+ 477790 string characters out of 3120695
+ 896649 words of memory out of 3000000
+ 28710 multiletter control sequences out of 15000+200000
  551682 words of font info for 77 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
- 40i,12n,63p,848b,1806s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\vrein_000\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi
-600\ecbx1440.pk> <C:\Users\vrein_000\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/j
-knappen/ec/dpi600\ecbx2074.pk> <C:\Users\vrein_000\AppData\Local\MiKTeX\2.9\fon
-ts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\vrein_000\AppData\Local\
-MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\vrein_000\
-AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Us
-ers\vrein_000\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1
-728.pk> <C:\Users\vrein_000\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/e
-c/dpi600\ecbx1200.pk><C:/Users/vrein_000/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/vrein_000/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/vrein_000/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Use
-rs/vrein_000/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mmi8.pfb><C:/Users/vrein_000/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmr10.pfb><C:/Users/vrein_000/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/vrein_000/AppData/Local/Progr
-ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/vrein_000/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Use
-rs/vrein_000/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-msy6.pfb><C:/Users/vrein_000/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmsy8.pfb>
+ 51i,12n,67p,848b,1813s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\ZiadBhs\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecbx1440.pk> <C:\Users\ZiadBhs\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecbx2074.pk> <C:\Users\ZiadBhs\AppData\Local\MiKTeX\2.9\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\ZiadBhs\AppData\Local\MiKTeX\2
+.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\ZiadBhs\AppData\Lo
+cal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\ZiadBh
+s\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\
+Users\ZiadBhs\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1
+200.pk><C:/Users/ZiadBhs/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmex10.pfb><C:/Users/ZiadBhs/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ZiadBhs/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/ZiadBhs/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Zia
+dBhs/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
+><C:/Users/ZiadBhs/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr6.pfb><C:/Users/ZiadBhs/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr8.pfb><C:/Users/ZiadBhs/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ZiadBhs/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/ZiadBhs/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
 Output written on Dokument.pdf (12 pages, 306066 bytes).
 PDF statistics:
  381 PDF objects out of 1000 (max. 8388607)
