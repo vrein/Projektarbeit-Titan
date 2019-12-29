@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.8)  29 DEC 2019 18:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.8)  29 DEC 2019 19:07
 entering extended mode
 **./Dokument.tex
 (Dokument.tex
@@ -517,6 +517,23 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 LaTeX Info: Redefining \[ on input line 2858.
 LaTeX Info: Redefining \] on input line 2859.
 )
+("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfig\subfig.st
+y"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count283
+\sf@farskip=\skip69
+\sf@captopadj=\dimen170
+\sf@capskip=\skip70
+\sf@nearskip=\skip71
+\c@subfigure=\count284
+\c@subfigure@save=\count285
+\c@lofdepth=\count286
+\c@subtable=\count287
+\c@subtable@save=\count288
+\c@lotdepth=\count289
+\sf@top=\skip72
+\sf@bottom=\skip73
+)
 ("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setspac
 e.sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
@@ -529,24 +546,24 @@ Package: blindtext 2012/01/06 V2.0 blindtext-Package
 "
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count283
-\c@Blindtext=\count284
-\c@blind@countparstart=\count285
-\blind@countxx=\count286
-\blindtext@numBlindtext=\count287
-\blind@countyy=\count288
-\c@blindlist=\count289
-\c@blindlistlevel=\count290
-\c@blindlist@level=\count291
-\blind@listitem=\count292
-\c@blind@listcount=\count293
-\c@blind@levelcount=\count294
-\blind@mathformula=\count295
-\blind@Mathformula=\count296
-\c@blind@randomcount=\count297
-\c@blind@randommax=\count298
-\c@blind@pangramcount=\count299
-\c@blind@pangrammax=\count300
+\c@blindtext=\count290
+\c@Blindtext=\count291
+\c@blind@countparstart=\count292
+\blind@countxx=\count293
+\blindtext@numBlindtext=\count294
+\blind@countyy=\count295
+\c@blindlist=\count296
+\c@blindlistlevel=\count297
+\c@blindlist@level=\count298
+\blind@listitem=\count299
+\c@blind@listcount=\count300
+\c@blind@levelcount=\count301
+\blind@mathformula=\count302
+\blind@Mathformula=\count303
+\c@blind@randomcount=\count304
+\c@blind@randommax=\count305
+\c@blind@pangramcount=\count306
+\c@blind@pangrammax=\count307
 )
 ("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb
 .sty"
@@ -576,7 +593,7 @@ Package pdftexcmds Info: \pdfdraftmode found.
 ("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.st
 y"
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count301
+\lrq@indent=\count308
 
 ("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.de
 f"
@@ -588,61 +605,61 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count302
-\c@listtotal=\count303
-\c@listcount=\count304
-\c@liststart=\count305
-\c@liststop=\count306
-\c@citecount=\count307
-\c@citetotal=\count308
-\c@multicitecount=\count309
-\c@multicitetotal=\count310
-\c@instcount=\count311
-\c@maxnames=\count312
-\c@minnames=\count313
-\c@maxitems=\count314
-\c@minitems=\count315
-\c@citecounter=\count316
-\c@maxcitecounter=\count317
-\c@savedcitecounter=\count318
-\c@uniquelist=\count319
-\c@uniquename=\count320
-\c@refsection=\count321
-\c@refsegment=\count322
-\c@maxextratitle=\count323
-\c@maxextratitleyear=\count324
-\c@maxextraname=\count325
-\c@maxextradate=\count326
-\c@maxextraalpha=\count327
-\c@abbrvpenalty=\count328
-\c@highnamepenalty=\count329
-\c@lownamepenalty=\count330
-\c@maxparens=\count331
-\c@parenlevel=\count332
-\blx@tempcnta=\count333
-\blx@tempcntb=\count334
-\blx@tempcntc=\count335
-\blx@maxsection=\count336
-\blx@maxsegment@0=\count337
-\blx@notetype=\count338
-\blx@parenlevel@text=\count339
-\blx@parenlevel@foot=\count340
-\blx@sectionciteorder@0=\count341
-\blx@entrysetcounter=\count342
-\labelnumberwidth=\skip69
-\labelalphawidth=\skip70
-\biblabelsep=\skip71
-\bibitemsep=\skip72
-\bibnamesep=\skip73
-\bibinitsep=\skip74
-\bibparsep=\skip75
-\bibhang=\skip76
+\c@tabx@nest=\count309
+\c@listtotal=\count310
+\c@listcount=\count311
+\c@liststart=\count312
+\c@liststop=\count313
+\c@citecount=\count314
+\c@citetotal=\count315
+\c@multicitecount=\count316
+\c@multicitetotal=\count317
+\c@instcount=\count318
+\c@maxnames=\count319
+\c@minnames=\count320
+\c@maxitems=\count321
+\c@minitems=\count322
+\c@citecounter=\count323
+\c@maxcitecounter=\count324
+\c@savedcitecounter=\count325
+\c@uniquelist=\count326
+\c@uniquename=\count327
+\c@refsection=\count328
+\c@refsegment=\count329
+\c@maxextratitle=\count330
+\c@maxextratitleyear=\count331
+\c@maxextraname=\count332
+\c@maxextradate=\count333
+\c@maxextraalpha=\count334
+\c@abbrvpenalty=\count335
+\c@highnamepenalty=\count336
+\c@lownamepenalty=\count337
+\c@maxparens=\count338
+\c@parenlevel=\count339
+\blx@tempcnta=\count340
+\blx@tempcntb=\count341
+\blx@tempcntc=\count342
+\blx@maxsection=\count343
+\blx@maxsegment@0=\count344
+\blx@notetype=\count345
+\blx@parenlevel@text=\count346
+\blx@parenlevel@foot=\count347
+\blx@sectionciteorder@0=\count348
+\blx@entrysetcounter=\count349
+\labelnumberwidth=\skip74
+\labelalphawidth=\skip75
+\biblabelsep=\skip76
+\bibitemsep=\skip77
+\bibnamesep=\skip78
+\bibinitsep=\skip79
+\bibparsep=\skip80
+\bibhang=\skip81
 \blx@bcfin=\read2
 \blx@bcfout=\write3
 \blx@langwohyphens=\language78
-\c@mincomprange=\count343
-\c@maxcomprange=\count344
-\c@mincompwidth=\count345
+\c@mincomprange=\count350
+\c@maxcomprange=\count351
+\c@mincompwidth=\count352
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -654,88 +671,88 @@ Package biblatex Info: Trying to load biblatex citestyle data model...
 Package biblatex Info: ... file 'numeric.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count346
-\c@savedafterword=\count347
-\c@annotator=\count348
-\c@savedannotator=\count349
-\c@author=\count350
-\c@savedauthor=\count351
-\c@bookauthor=\count352
-\c@savedbookauthor=\count353
-\c@commentator=\count354
-\c@savedcommentator=\count355
-\c@editor=\count356
-\c@savededitor=\count357
-\c@editora=\count358
-\c@savededitora=\count359
-\c@editorb=\count360
-\c@savededitorb=\count361
-\c@editorc=\count362
-\c@savededitorc=\count363
-\c@foreword=\count364
-\c@savedforeword=\count365
-\c@holder=\count366
-\c@savedholder=\count367
-\c@introduction=\count368
-\c@savedintroduction=\count369
-\c@namea=\count370
-\c@savednamea=\count371
-\c@nameb=\count372
-\c@savednameb=\count373
-\c@namec=\count374
-\c@savednamec=\count375
-\c@translator=\count376
-\c@savedtranslator=\count377
-\c@shortauthor=\count378
-\c@savedshortauthor=\count379
-\c@shorteditor=\count380
-\c@savedshorteditor=\count381
-\c@labelname=\count382
-\c@savedlabelname=\count383
-\c@institution=\count384
-\c@savedinstitution=\count385
-\c@lista=\count386
-\c@savedlista=\count387
-\c@listb=\count388
-\c@savedlistb=\count389
-\c@listc=\count390
-\c@savedlistc=\count391
-\c@listd=\count392
-\c@savedlistd=\count393
-\c@liste=\count394
-\c@savedliste=\count395
-\c@listf=\count396
-\c@savedlistf=\count397
-\c@location=\count398
-\c@savedlocation=\count399
-\c@organization=\count400
-\c@savedorganization=\count401
-\c@origlocation=\count402
-\c@savedoriglocation=\count403
-\c@origpublisher=\count404
-\c@savedorigpublisher=\count405
-\c@publisher=\count406
-\c@savedpublisher=\count407
-\c@language=\count408
-\c@savedlanguage=\count409
-\c@origlanguage=\count410
-\c@savedoriglanguage=\count411
-\c@pageref=\count412
-\c@savedpageref=\count413
-\shorthandwidth=\skip77
-\shortjournalwidth=\skip78
-\shortserieswidth=\skip79
-\shorttitlewidth=\skip80
-\shortauthorwidth=\skip81
-\shorteditorwidth=\skip82
-\locallabelnumberwidth=\skip83
-\locallabelalphawidth=\skip84
-\localshorthandwidth=\skip85
-\localshortjournalwidth=\skip86
-\localshortserieswidth=\skip87
-\localshorttitlewidth=\skip88
-\localshortauthorwidth=\skip89
-\localshorteditorwidth=\skip90
+\c@afterword=\count353
+\c@savedafterword=\count354
+\c@annotator=\count355
+\c@savedannotator=\count356
+\c@author=\count357
+\c@savedauthor=\count358
+\c@bookauthor=\count359
+\c@savedbookauthor=\count360
+\c@commentator=\count361
+\c@savedcommentator=\count362
+\c@editor=\count363
+\c@savededitor=\count364
+\c@editora=\count365
+\c@savededitora=\count366
+\c@editorb=\count367
+\c@savededitorb=\count368
+\c@editorc=\count369
+\c@savededitorc=\count370
+\c@foreword=\count371
+\c@savedforeword=\count372
+\c@holder=\count373
+\c@savedholder=\count374
+\c@introduction=\count375
+\c@savedintroduction=\count376
+\c@namea=\count377
+\c@savednamea=\count378
+\c@nameb=\count379
+\c@savednameb=\count380
+\c@namec=\count381
+\c@savednamec=\count382
+\c@translator=\count383
+\c@savedtranslator=\count384
+\c@shortauthor=\count385
+\c@savedshortauthor=\count386
+\c@shorteditor=\count387
+\c@savedshorteditor=\count388
+\c@labelname=\count389
+\c@savedlabelname=\count390
+\c@institution=\count391
+\c@savedinstitution=\count392
+\c@lista=\count393
+\c@savedlista=\count394
+\c@listb=\count395
+\c@savedlistb=\count396
+\c@listc=\count397
+\c@savedlistc=\count398
+\c@listd=\count399
+\c@savedlistd=\count400
+\c@liste=\count401
+\c@savedliste=\count402
+\c@listf=\count403
+\c@savedlistf=\count404
+\c@location=\count405
+\c@savedlocation=\count406
+\c@organization=\count407
+\c@savedorganization=\count408
+\c@origlocation=\count409
+\c@savedoriglocation=\count410
+\c@origpublisher=\count411
+\c@savedorigpublisher=\count412
+\c@publisher=\count413
+\c@savedpublisher=\count414
+\c@language=\count415
+\c@savedlanguage=\count416
+\c@origlanguage=\count417
+\c@savedoriglanguage=\count418
+\c@pageref=\count419
+\c@savedpageref=\count420
+\shorthandwidth=\skip82
+\shortjournalwidth=\skip83
+\shortserieswidth=\skip84
+\shorttitlewidth=\skip85
+\shortauthorwidth=\skip86
+\shorteditorwidth=\skip87
+\locallabelnumberwidth=\skip88
+\locallabelalphawidth=\skip89
+\localshorthandwidth=\skip90
+\localshortjournalwidth=\skip91
+\localshortserieswidth=\skip92
+\localshorttitlewidth=\skip93
+\localshortauthorwidth=\skip94
+\localshorteditorwidth=\skip95
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -749,19 +766,19 @@ Package biblatex Info: ... file 'biblatex.def' found.
 ("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblate
 x.def"
 File: biblatex.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
-\c@textcitecount=\count414
-\c@textcitetotal=\count415
-\c@textcitemaxnames=\count416
-\c@biburlbigbreakpenalty=\count417
-\c@biburlbreakpenalty=\count418
-\c@biburlnumpenalty=\count419
-\c@biburlucpenalty=\count420
-\c@biburllcpenalty=\count421
+\c@textcitecount=\count421
+\c@textcitetotal=\count422
+\c@textcitemaxnames=\count423
+\c@biburlbigbreakpenalty=\count424
+\c@biburlbreakpenalty=\count425
+\c@biburlnumpenalty=\count426
+\c@biburlucpenalty=\count427
+\c@biburllcpenalty=\count428
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count422
+\c@smartand=\count429
 )
 Package biblatex Info: Trying to load natbib compatibility...
 Package biblatex Info: ... file 'blx-natbib.def' found.
@@ -784,8 +801,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 ("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\sta
 ndard.bbx"
 File: standard.bbx 2019/08/31 v3.13a biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count423
-\c@bbx:relatedtotal=\count424
+\c@bbx:relatedcount=\count430
+\c@bbx:relatedtotal=\count431
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
@@ -814,16 +831,16 @@ File: biblatex.cfg
 ))
 ("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count425
-\calc@Bcount=\count426
-\calc@Adimen=\dimen170
-\calc@Bdimen=\dimen171
-\calc@Askip=\skip91
-\calc@Bskip=\skip92
+\calc@Acount=\count432
+\calc@Bcount=\count433
+\calc@Adimen=\dimen171
+\calc@Bdimen=\dimen172
+\calc@Askip=\skip96
+\calc@Bskip=\skip97
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count427
-\calc@Cskip=\skip93
+\calc@Ccount=\count434
+\calc@Cskip=\skip98
 )
 Package biblatex Info: Trying to load language 'german'...
 Package biblatex Info: ... file 'german.lbx' found.
@@ -836,40 +853,41 @@ File: german.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count428
-\@quotereset=\count429
+\@quotelevel=\count435
+\@quotereset=\count436
 (Dokument.aux (Kapitel/Letzte_Seite.aux) (Kapitel/eid_erkl.aux))
 \openout1 = `Dokument.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 120.
-LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 121.
+LaTeX Font Info:    ... okay on input line 121.
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
 ("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp
 -pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count430
-\scratchdimen=\dimen172
+\scratchcounter=\count437
+\scratchdimen=\dimen173
 \scratchbox=\box59
-\nofMPsegments=\count431
-\nofMParguments=\count432
+\nofMPsegments=\count438
+\nofMParguments=\count439
 \everyMPshowfont=\toks25
-\MPscratchCnt=\count433
-\MPscratchDim=\dimen173
-\MPnumerator=\count434
-\makeMPintoPDFobject=\count435
+\MPscratchCnt=\count440
+\MPscratchDim=\dimen174
+\MPnumerator=\count441
+\makeMPintoPDFobject=\count442
 \everyMPtoPDFconversion=\toks26
 )
 ("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\eps
@@ -973,15 +991,15 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Dokument.bbl' not found.
 
 No file Dokument.bbl.
-Package biblatex Info: Reference section=0 on input line 120.
-Package biblatex Info: Reference segment=0 on input line 120.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 120
+Package biblatex Info: Reference section=0 on input line 121.
+Package biblatex Info: Reference segment=0 on input line 121.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 121
 .
 ("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd
 "
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 120
+LaTeX Font Info:    Trying to load font information for U+msb on input line 121
 .
 
 ("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd
@@ -1025,8 +1043,7 @@ ifw_logo.pdf> <./Bilder/TUBraunschweig_4C.pdf>]) (Dokument.toc)
 ]
 (Kapitel/Nomenklatur.tex [2
 
-]) (Kapitel/Einleitung.tex) (Kapitel/Metallurgie.tex) (Kapitel/Experimentelle_M
-ethoden.tex
+]) (Kapitel/Einleitung.tex) (Kapitel/Metallurgie.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
 Make it at least 13.59999pt.
@@ -1035,6 +1052,167 @@ This may cause the page layout to be inconsistent, however.
 
 [1]
 Kapitel 1.
+<Bilder/Phasendiagram.png, id=32, 387.69844pt x 379.4175pt>
+File: Bilder/Phasendiagram.png Graphic file (type png)
+<use Bilder/Phasendiagram.png>
+Package pdftex.def Info: Bilder/Phasendiagram.png  used on input line 15.
+(pdftex.def)             Requested size: 227.62204pt x 222.76018pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2
+
+ <./Bilder/Phasendiagram.png>]
+Overfull \hbox (2.12244pt too wide) in paragraph at lines 50--51
+\T1/cmr/m/n/10.95 la-ti-on microstructure-microtexture-propri�t�s m�-ca-ni-ques
+-del'alliagedetitaneTi6242. Au-tre. ISAE-
+ []
+
+
+Overfull \hbox (2.17982pt too wide) in paragraph at lines 50--51
+\T1/cmr/m/n/10.95 ENSMAEcoleNationaleSup�rieuredeM�canique et d'A�rotechique - 
+Poi-tiers, 2016. Fran�ais. NNT:
+ []
+
+<Bilder/WB.png, id=40, 532.99126pt x 201.75375pt>
+File: Bilder/WB.png Graphic file (type png)
+<use Bilder/WB.png>
+Package pdftex.def Info: Bilder/WB.png  used on input line 59.
+(pdftex.def)             Requested size: 455.24408pt x 172.32884pt.
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.65 ...ormalerweise  Ti6242 für  8 h  bei 595 °
+                                                  C angelassen. (Aerospace M...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[3 <./Bilder/WB.png>]
+Overfull \hbox (58.40297pt too wide) in paragraph at lines 75--87
+ [][] 
+ []
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.94 ...ionstemperatur von Ti-6242 liegt bei 995°
+                                                  C +- 15°C. Die Abweichung...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.94 ...ratur von Ti-6242 liegt bei 995°C +- 15°
+                                                  C. Die Abweichung hängt  ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.95 ...b der von Reinem Titan, die bei 882 +- 2°
+                                                  C liegt.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.114 ...00°C/AC )  [Titanium : Technical guide]}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.114 ...00°C/AC )  [Titanium : Technical guide]}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.114 ...00°C/AC )  [Titanium : Technical guide]}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.114 ...00°C/AC )  [Titanium : Technical guide]}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.137 ...Stabilität bei hohen Temperaturen (538°
+                                                  C - 595 °C) hauptsächlic...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.137 ...t bei hohen Temperaturen (538°C - 595 °
+                                                  C) hauptsächlich in der L...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--139
+
+ []
+
+[4]
+<Bilder/Compressor spool.png, id=50, 408.77719pt x 475.02469pt>
+File: Bilder/Compressor spool.png Graphic file (type png)
+<use Bilder/Compressor spool.png>
+Package pdftex.def Info: Bilder/Compressor spool.png  used on input line 145.
+(pdftex.def)             Requested size: 227.62204pt x 264.51161pt.
+<Bilder/Impeller.png, id=51, 424.58624pt x 348.55219pt>
+File: Bilder/Impeller.png Graphic file (type png)
+<use Bilder/Impeller.png>
+Package pdftex.def Info: Bilder/Impeller.png  used on input line 148.
+(pdftex.def)             Requested size: 227.62204pt x 186.85915pt.
+) (Kapitel/Experimentelle_Methoden.tex [5 <./Bilder/Compressor spool.png> <./Bi
+lder/Impeller.png>]
+Kapitel 2.
 
 Overfull \hbox (23.17194pt too wide) in paragraph at lines 16--18
 \T1/cmr/m/n/10.95 Die ge-trenn-ten Pro-ben wer-den in War-mein-bett-pres-sen (B
@@ -1044,7 +1222,7 @@ ueh-ler Sim-pli-met Moun-ting Press 1000/4000)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[2
+[6
 
 ]
 ! Missing $ inserted.
@@ -1066,8 +1244,8 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-[3]) (Kapitel/Durchfuehrung.tex [4]
-Kapitel 2.
+[7]) (Kapitel/Durchfuehrung.tex [8]
+Kapitel 3.
 ! Undefined control sequence.
 <argument> \textdegree 
                        
@@ -1079,7 +1257,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-<Bilder/ts-stda.png, id=48, 523.9575pt x 355.3275pt>
+<Bilder/ts-stda.png, id=72, 523.9575pt x 355.3275pt>
 File: Bilder/ts-stda.png Graphic file (type png)
 <use Bilder/ts-stda.png>
 Package pdftex.def Info: Bilder/ts-stda.png  used on input line 17.
@@ -1087,7 +1265,7 @@ Package pdftex.def Info: Bilder/ts-stda.png  used on input line 17.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5
+ [9
 
 ]
 ! Undefined control sequence.
@@ -1123,21 +1301,21 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-) (Kapitel/Ergebnisse.tex [6 <./Bilder/ts-stda.png>]
-Kapitel 3.
-) (Kapitel/Diskussion_der_Ergebnisse.tex [7
-
-]
+) (Kapitel/Ergebnisse.tex [10 <./Bilder/ts-stda.png>]
 Kapitel 4.
-) (Kapitel/Fazit_und_Ausblick.tex [8
+) (Kapitel/Diskussion_der_Ergebnisse.tex [11
 
 ]
 Kapitel 5.
-) (Kapitel/Letzte_Seite.tex [9
+) (Kapitel/Fazit_und_Ausblick.tex [12
 
-]) [10]
+]
+Kapitel 6.
+) (Kapitel/Letzte_Seite.tex [13
 
-LaTeX Warning: Empty bibliography on input line 176.
+]) [14]
+
+LaTeX Warning: Empty bibliography on input line 177.
 
 (Dokument.aux (Kapitel/Letzte_Seite.aux) (Kapitel/eid_erkl.aux))
 Package logreq Info: Writing requests to 'Dokument.run.xml'.
@@ -1145,38 +1323,41 @@ Package logreq Info: Writing requests to 'Dokument.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 24650 strings out of 492484
- 478102 string characters out of 3120695
- 896659 words of memory out of 3000000
- 28727 multiletter control sequences out of 15000+200000
- 552371 words of font info for 78 fonts, out of 3000000 for 9000
+ 24844 strings out of 492484
+ 481390 string characters out of 3120695
+ 900825 words of memory out of 3000000
+ 28909 multiletter control sequences out of 15000+200000
+ 555025 words of font info for 85 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  51i,12n,67p,848b,1813s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\ZiadBhs\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
 0\ecti1095.pk> <C:\Users\ZiadBhs\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecbx1440.pk> <C:\Users\ZiadBhs\AppData\Local\MiKTeX\2.9\fonts/pk/
-ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\ZiadBhs\AppData\Local\MiKTeX\2
-.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\ZiadBhs\AppData\Lo
-cal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\ZiadBh
-s\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\
-Users\ZiadBhs\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1
-728.pk> <C:\Users\ZiadBhs\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/
-dpi600\ecbx1200.pk><C:/Users/ZiadBhs/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmex10.pfb><C:/Users/ZiadBhs/AppData/Local/Programs/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ZiadBhs/AppData/Loca
-l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/ZiadB
-hs/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
-C:/Users/ZiadBhs/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmr10.pfb><C:/Users/ZiadBhs/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmr6.pfb><C:/Users/ZiadBhs/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/ZiadBhs/AppData/Local/Programs
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ZiadBhs/AppData
-/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Z
-iadBhs/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.p
-fb>
-Output written on Dokument.pdf (13 pages, 355047 bytes).
+pen/ec/dpi600\ecrm0900.pk> <C:\Users\ZiadBhs\AppData\Local\MiKTeX\2.9\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\ZiadBhs\AppData\Local\MiKTeX\2
+.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\ZiadBhs\AppData\Lo
+cal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\ZiadBh
+s\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\
+Users\ZiadBhs\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2
+488.pk> <C:\Users\ZiadBhs\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/
+dpi600\ecrm1095.pk> <C:\Users\ZiadBhs\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/
+jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\ZiadBhs\AppData\Local\MiKTeX\2.9\font
+s/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\ZiadBhs\AppData\Local\MiK
+TeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk><C:/Users/ZiadBhs/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users
+/ZiadBhs/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi1
+0.pfb><C:/Users/ZiadBhs/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmmi12.pfb><C:/Users/ZiadBhs/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/ZiadBhs/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ZiadBhs/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/ZiadBhs
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/
+Users/ZiadBhs/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb><C:/Users/ZiadBhs/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmsy6.pfb><C:/Users/ZiadBhs/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on Dokument.pdf (17 pages, 853098 bytes).
 PDF statistics:
- 412 PDF objects out of 1000 (max. 8388607)
+ 548 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 22 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 42 words of extra memory for PDF output out of 10000 (max. 10000000)
 
