@@ -1,20 +1,27 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {german}{}
-\contentsline {chapter}{Nomenklatur}{ii}% 
-\contentsline {chapter}{\numberline {1}Experimentelle Methoden}{2}% 
-\contentsline {section}{\numberline {1.1}Metallografische Pr\IeC {\"a}paration}{2}% 
-\contentsline {subsection}{\numberline {1.1.1}Ofenbehandlung }{2}% 
-\contentsline {subsection}{\numberline {1.1.2}Trennen}{2}% 
-\contentsline {subsection}{\numberline {1.1.3}Einbetten}{2}% 
-\contentsline {subsection}{\numberline {1.1.4}Schleifen/Polieren}{2}% 
-\contentsline {subsection}{\numberline {1.1.5}\IeC {\"A}tzen}{3}% 
-\contentsline {section}{\numberline {1.2}Mechanische Pr\IeC {\"u}fverfahren}{3}% 
-\contentsline {subsection}{\numberline {1.2.1}H\IeC {\"a}rtepr\IeC {\"u}fung}{3}% 
-\contentsline {subsection}{\numberline {1.2.2}Zugversuch}{4}% 
-\contentsline {chapter}{\numberline {2}Durchf\IeC {\"u}hrung}{5}% 
-\contentsline {section}{\numberline {2.1}$\alpha _p$-Studie}{5}% 
-\contentsline {section}{\numberline {2.2}Martensit-Bildung}{5}% 
-\contentsline {section}{\numberline {2.3}Martensit-Zerfall}{5}% 
-\contentsline {chapter}{\numberline {3}Ergebnisse}{6}% 
-\contentsline {chapter}{\numberline {4}Diskussion der Ergebnisse}{7}% 
-\contentsline {chapter}{\numberline {5}Fazit und Ausblick}{8}% 
+\contentsline {chapter}{Nomenklatur}{ii}%
+\contentsline {chapter}{\numberline {1}Metallurgie}{2}%
+\contentsline {section}{\numberline {1.1}Metallurgie Titanlegierungen}{2}%
+\contentsline {section}{\numberline {1.2}Ti-6242}{2}%
+\contentsline {subsubsection}{Kristallstruktur}{3}%
+\contentsline {subsubsection}{ Physikalische und mechanische Eigenschaften }{4}%
+\contentsline {subsubsection}{Verwendung}{4}%
+\contentsline {chapter}{\numberline {2}Experimentelle Methoden}{6}%
+\contentsline {section}{\numberline {2.1}Metallografische Präparation}{6}%
+\contentsline {subsection}{\numberline {2.1.1}Ofenbehandlung }{6}%
+\contentsline {subsection}{\numberline {2.1.2}Trennen}{6}%
+\contentsline {subsection}{\numberline {2.1.3}Einbetten}{6}%
+\contentsline {subsection}{\numberline {2.1.4}Schleifen/Polieren}{6}%
+\contentsline {subsection}{\numberline {2.1.5}Ätzen}{7}%
+\contentsline {section}{\numberline {2.2}Mechanische Prüfverfahren}{7}%
+\contentsline {subsection}{\numberline {2.2.1}Härteprüfung}{7}%
+\contentsline {subsection}{\numberline {2.2.2}Zugversuch}{8}%
+\contentsline {chapter}{\numberline {3}Durchführung}{9}%
+\contentsline {section}{\numberline {3.1}$\alpha _p$-Studie}{9}%
+\contentsline {section}{\numberline {3.2}Martensit-Bildung}{9}%
+\contentsline {section}{\numberline {3.3}Martensit-Zerfall}{10}%
+\contentsline {chapter}{\numberline {4}Ergebnisse}{11}%
+\contentsline {chapter}{\numberline {5}Diskussion der Ergebnisse}{12}%
+\contentsline {section}{\numberline {5.1}Martensitbildung}{12}%
+\contentsline {chapter}{\numberline {6}Fazit und Ausblick}{13}%
