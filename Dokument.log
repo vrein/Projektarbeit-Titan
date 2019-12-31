@@ -1,11 +1,14 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.8)  30 DEC 2019 16:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.12)  31 DEC 2019 09:21
 entering extended mode
 **./Dokument.tex
 (Dokument.tex
-LaTeX2e <2019-10-01> patch level 3
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls"
-Document Class: report 2019/10/25 v1.4k Standard LaTeX document class
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fleqn.clo"
+LaTeX2e <2018-12-01>
+
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cl
+s"
+Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fleqn.clo
+"
 File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
 \mathindent=\dimen102
 Applying: [2015/01/01] Make \[ robust on input line 50.
@@ -14,9 +17,10 @@ Already applied: [0000/00/00] Make \[ robust on input line 62.
 Applying: [2015/01/01] Make \] robust on input line 74.
 LaTeX Info: Redefining \] on input line 75.
 Already applied: [0000/00/00] Make \] robust on input line 83.
-) ("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size11.cl
+)
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size11.cl
 o"
-File: size11.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@chapter=\count81
@@ -31,127 +35,126 @@ File: size11.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen103
 )
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
-x.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graph
+icx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.
-sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyva
+l.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
-s.sty"
-Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graph
+ics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.st
-y"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.
+sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gra
-phics.cfg"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\g
+raphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: dvips.def on input line 105.
+Package graphics Info: Driver file: dvips.def on input line 99.
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\dvi
-ps.def"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\d
+vips.def"
 File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
 ))
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.st
-y"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.
+sty"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
 )
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty
-"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.s
+ty"
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
- ("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def"
+
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def
+"
 File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.st
-y"
-Package: babel 2019/11/14 3.36 The Babel package
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.
+sty"
+Package: babel 2019/05/04 3.31 The Babel package
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.d
-ef"
-File: switch.def 2019/11/14 3.36 Babel switching mechanism
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch
+.def"
+File: switch.def 2019/05/04 3.31 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cf
-g"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.
+cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-german\ger
-man.ldf"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-german\g
+erman.ldf"
 Language: german 2018/12/08 v2.11 German support for babel (pre-1996 orthograph
 y)
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-german\ger
-manb.ldf"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-german\g
+ermanb.ldf"
 Language: germanb 2018/12/08 v2.11 German support for babel (pre-1996 orthograp
 hy)
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.de
-f"
-File: babel.def 2019/11/14 3.36 Babel common definitions
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.
+def"
+File: babel.def 2019/05/04 3.31 Babel common definitions
 \babel@savecnt=\count89
 \U@D=\dimen106
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel
-.def")
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbab
+el.def")
 \bbl@dirlevel=\count90
 )
 Package babel Info: Making " an active character on input line 135.
 )))
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/parskip\parskip.
-sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/parskip\parski
+p.sty"
 Package: parskip 2019-01-16 v2.0c non-zero parskip adjustments
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvopti
-ons.sty"
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvopt
+ions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcm
-ds.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltx
+cmds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvset
-keys.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvs
+etkeys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infw
-arerr.sty"
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\inf
+warerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexc
-mds.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ete
+xcmds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex
-.sty"
-Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.st
-y"
-Package: iftex 2019/11/07 v1.0c TeX engine tests
-)))))
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbo
-x.sty"
-Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifl
+uatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etool
+box.sty"
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count91
 ))
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhd
-r.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancy
+hdr.sty"
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip43
@@ -164,13 +167,13 @@ s
 \f@nch@O@olf=\skip50
 \f@nch@O@orf=\skip51
 )
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.
-sty"
-Package: caption 2019/10/18 v3.4a Customizing captions (AR)
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\captio
+n.sty"
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3
-.sty"
-Package: caption3 2019/09/09 v1.8e caption3 kernel (AR)
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\captio
+n3.sty"
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
 \captionmargin=\dimen107
 \captionmargin@=\dimen108
@@ -179,34 +182,34 @@ Package caption3 Info: TeX engine: e-TeX on input line 64.
 \caption@indent=\dimen111
 \caption@parindent=\dimen112
 \caption@hangindent=\dimen113
-Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count92
-\c@continuedfloat=\count93
+\c@ContinuedFloat=\count93
 )
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.s
-ty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color
+.sty"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\col
-or.cfg"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\c
+olor.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdf
-tex.def"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\p
+dftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multiro
-w.sty"
-Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multi
+row.sty"
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
 \multirow@colwidth=\skip52
 \multirow@cntb=\count94
 \multirow@dima=\skip53
 \bigstrutjot=\dimen114
 )
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.st
+y"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count95
 \float@exts=\toks17
@@ -214,29 +217,27 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks18
 \@floatcapt=\box28
 )
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siunitx.
-sty"
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.s
-ty"
-Package: expl3 2019-11-07 L3 programming layer (loader) 
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siunit
+x.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3
+.sty"
+Package: expl3 2019-05-28 L3 programming layer (loader) 
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3-c
-ode.tex"
-Package: expl3 2019-11-07 L3 programming layer (code)
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3
+-code.tex"
+Package: expl3 2019-05-28 L3 programming layer (code)
 \c_max_int=\count96
 \l_tmpa_int=\count97
 \l_tmpb_int=\count98
 \g_tmpa_int=\count99
 \g_tmpb_int=\count100
-\l__seq_internal_a_int=\count101
-\l__seq_internal_b_int=\count102
-\g__kernel_prg_map_int=\count103
-\c__ior_term_noprompt_ior=\count104
-\c_log_iow=\count105
-\l_iow_line_count_int=\count106
-\l__iow_line_target_int=\count107
-\l__iow_one_indent_int=\count108
-\l__iow_indent_int=\count109
+\g__kernel_prg_map_int=\count101
+\c__ior_term_ior=\count102
+\c_log_iow=\count103
+\l_iow_line_count_int=\count104
+\l__iow_line_target_int=\count105
+\l__iow_one_indent_int=\count106
+\l__iow_indent_int=\count107
 \c_zero_dim=\dimen115
 \c_max_dim=\dimen116
 \l_tmpa_dim=\dimen117
@@ -255,80 +256,78 @@ Package: expl3 2019-11-07 L3 programming layer (code)
 \l_tmpb_muskip=\muskip13
 \g_tmpa_muskip=\muskip14
 \g_tmpb_muskip=\muskip15
-\l_keys_choice_int=\count110
-\l__intarray_loop_int=\count111
+\l_keys_choice_int=\count108
+\l__intarray_loop_int=\count109
 \c__intarray_sp_dim=\dimen121
-\g__intarray_font_int=\count112
-\c__fp_leading_shift_int=\count113
-\c__fp_middle_shift_int=\count114
-\c__fp_trailing_shift_int=\count115
-\c__fp_big_leading_shift_int=\count116
-\c__fp_big_middle_shift_int=\count117
-\c__fp_big_trailing_shift_int=\count118
-\c__fp_Bigg_leading_shift_int=\count119
-\c__fp_Bigg_middle_shift_int=\count120
-\c__fp_Bigg_trailing_shift_int=\count121
-\c__kernel_randint_max_int=\count122
-\g__fp_array_int=\count123
-\l__fp_array_loop_int=\count124
-\l__sort_length_int=\count125
-\l__sort_min_int=\count126
-\l__sort_top_int=\count127
-\l__sort_max_int=\count128
-\l__sort_true_max_int=\count129
-\l__sort_block_int=\count130
-\l__sort_begin_int=\count131
-\l__sort_end_int=\count132
-\l__sort_A_int=\count133
-\l__sort_B_int=\count134
-\l__sort_C_int=\count135
-\l__str_internal_int=\count136
-\c__str_replacement_char_int=\count137
-\l__tl_analysis_normal_int=\count138
-\l__tl_analysis_index_int=\count139
-\l__tl_analysis_nesting_int=\count140
-\l__tl_analysis_type_int=\count141
-\l__regex_internal_a_int=\count142
-\l__regex_internal_b_int=\count143
-\l__regex_internal_c_int=\count144
-\l__regex_balance_int=\count145
-\l__regex_group_level_int=\count146
-\l__regex_mode_int=\count147
-\c__regex_cs_in_class_mode_int=\count148
-\c__regex_cs_mode_int=\count149
-\l__regex_catcodes_int=\count150
-\l__regex_default_catcodes_int=\count151
-\c__regex_catcode_D_int=\count152
-\c__regex_catcode_S_int=\count153
-\c__regex_catcode_L_int=\count154
-\c__regex_catcode_O_int=\count155
-\c__regex_catcode_A_int=\count156
-\c__regex_all_catcodes_int=\count157
-\l__regex_show_lines_int=\count158
-\l__regex_min_state_int=\count159
-\l__regex_max_state_int=\count160
-\l__regex_left_state_int=\count161
-\l__regex_right_state_int=\count162
-\l__regex_capturing_group_int=\count163
-\l__regex_min_pos_int=\count164
-\l__regex_max_pos_int=\count165
-\l__regex_curr_pos_int=\count166
-\l__regex_start_pos_int=\count167
-\l__regex_success_pos_int=\count168
-\l__regex_curr_char_int=\count169
-\l__regex_curr_catcode_int=\count170
-\l__regex_last_char_int=\count171
-\l__regex_case_changed_char_int=\count172
-\l__regex_curr_state_int=\count173
-\l__regex_step_int=\count174
-\l__regex_min_active_int=\count175
-\l__regex_max_active_int=\count176
-\l__regex_replacement_csnames_int=\count177
-\l__regex_match_count_int=\count178
-\l__regex_min_submatch_int=\count179
-\l__regex_submatch_int=\count180
-\l__regex_zeroth_submatch_int=\count181
-\g__regex_trace_regex_int=\count182
+\g__intarray_font_int=\count110
+\c__fp_leading_shift_int=\count111
+\c__fp_middle_shift_int=\count112
+\c__fp_trailing_shift_int=\count113
+\c__fp_big_leading_shift_int=\count114
+\c__fp_big_middle_shift_int=\count115
+\c__fp_big_trailing_shift_int=\count116
+\c__fp_Bigg_leading_shift_int=\count117
+\c__fp_Bigg_middle_shift_int=\count118
+\c__fp_Bigg_trailing_shift_int=\count119
+\c__kernel_randint_max_int=\count120
+\g__fp_array_int=\count121
+\l__fp_array_loop_int=\count122
+\l__sort_length_int=\count123
+\l__sort_min_int=\count124
+\l__sort_top_int=\count125
+\l__sort_max_int=\count126
+\l__sort_true_max_int=\count127
+\l__sort_block_int=\count128
+\l__sort_begin_int=\count129
+\l__sort_end_int=\count130
+\l__sort_A_int=\count131
+\l__sort_B_int=\count132
+\l__sort_C_int=\count133
+\l__tl_analysis_normal_int=\count134
+\l__tl_analysis_index_int=\count135
+\l__tl_analysis_nesting_int=\count136
+\l__tl_analysis_type_int=\count137
+\l__regex_internal_a_int=\count138
+\l__regex_internal_b_int=\count139
+\l__regex_internal_c_int=\count140
+\l__regex_balance_int=\count141
+\l__regex_group_level_int=\count142
+\l__regex_mode_int=\count143
+\c__regex_cs_in_class_mode_int=\count144
+\c__regex_cs_mode_int=\count145
+\l__regex_catcodes_int=\count146
+\l__regex_default_catcodes_int=\count147
+\c__regex_catcode_D_int=\count148
+\c__regex_catcode_S_int=\count149
+\c__regex_catcode_L_int=\count150
+\c__regex_catcode_O_int=\count151
+\c__regex_catcode_A_int=\count152
+\c__regex_all_catcodes_int=\count153
+\l__regex_show_lines_int=\count154
+\l__regex_min_state_int=\count155
+\l__regex_max_state_int=\count156
+\l__regex_left_state_int=\count157
+\l__regex_right_state_int=\count158
+\l__regex_capturing_group_int=\count159
+\l__regex_min_pos_int=\count160
+\l__regex_max_pos_int=\count161
+\l__regex_curr_pos_int=\count162
+\l__regex_start_pos_int=\count163
+\l__regex_success_pos_int=\count164
+\l__regex_curr_char_int=\count165
+\l__regex_curr_catcode_int=\count166
+\l__regex_last_char_int=\count167
+\l__regex_case_changed_char_int=\count168
+\l__regex_curr_state_int=\count169
+\l__regex_step_int=\count170
+\l__regex_min_active_int=\count171
+\l__regex_max_active_int=\count172
+\l__regex_replacement_csnames_int=\count173
+\l__regex_match_count_int=\count174
+\l__regex_min_submatch_int=\count175
+\l__regex_submatch_int=\count176
+\l__regex_zeroth_submatch_int=\count177
+\g__regex_trace_regex_int=\count178
 \c_empty_box=\box29
 \l_tmpa_box=\box30
 \l_tmpb_box=\box31
@@ -372,40 +371,40 @@ Package: expl3 2019-11-07 L3 programming layer (code)
 \l__coffin_display_offset_dim=\dimen144
 \l__coffin_display_x_dim=\dimen145
 \l__coffin_display_y_dim=\dimen146
-\g__char_data_ior=\read1
-
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\l3depre
-cation.def"
-File: l3deprecation.def 2019-04-06 v L3 Deprecated functions
-))
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3back
-end-pdfmode.def"
-File: l3backend-pdfmode.def 2019-04-06 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count183
-\l__pdf_internal_box=\box47
-))
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xpars
-e\xparse.sty"
-Package: xparse 2019-10-11 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count184
-\g__xparse_grabber_int=\count185
-\l__xparse_m_args_int=\count186
-\l__xparse_v_nesting_int=\count187
+\g__file_internal_ior=\read1
+\l__seq_internal_a_int=\count179
+\l__seq_internal_b_int=\count180
+\c__deprecation_minus_one=\count181
 )
-Package: siunitx 2019/10/10 v2.7t A comprehensive (SI) units package
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\l3pdf
+mode.def"
+File: l3pdfmode.def 2019-04-06 v L3 Experimental driver: PDF mode
+\l__driver_internal_box=\box47
+\l__driver_color_stack_int=\count182
+))
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xpa
+rse\xparse.sty"
+Package: xparse 2019-05-28 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count183
+\g__xparse_grabber_int=\count184
+\l__xparse_m_args_int=\count185
+\l__xparse_v_nesting_int=\count186
+)
+Package: siunitx 2018/05/17 v2.7s A comprehensive (SI) units package
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.
-sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstex
+t.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.s
-ty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen
+.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks19
 \ex@=\dimen147
 ))
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
-Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.st
+y"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
 \col@sep=\dimen148
 \ar@mcellbox=\box48
 \extrarowheight=\dimen149
@@ -414,33 +413,33 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \backup@length=\skip61
 \ar@cellbox=\box49
 )
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/l3key
-s2e\l3keys2e.sty"
-Package: l3keys2e 2019-10-11 LaTeX2e option processing using LaTeX3 keys
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/l3k
+eys2e\l3keys2e.sty"
+Package: l3keys2e 2019-05-28 LaTeX2e option processing using LaTeX3 keys
 )
 \l__siunitx_tmp_box=\box50
 \l__siunitx_tmp_dim=\dimen150
-\l__siunitx_tmp_int=\count188
-\l__siunitx_number_mantissa_length_int=\count189
-\l__siunitx_number_uncert_length_int=\count190
-\l__siunitx_round_int=\count191
-\l__siunitx_process_decimal_int=\count192
-\l__siunitx_process_uncertainty_int=\count193
-\l__siunitx_process_fixed_int=\count194
-\l__siunitx_process_integer_min_int=\count195
-\l__siunitx_process_precision_int=\count196
-\l__siunitx_group_min_int=\count197
+\l__siunitx_tmp_int=\count187
+\l__siunitx_number_mantissa_length_int=\count188
+\l__siunitx_number_uncert_length_int=\count189
+\l__siunitx_round_int=\count190
+\l__siunitx_process_decimal_int=\count191
+\l__siunitx_process_uncertainty_int=\count192
+\l__siunitx_process_fixed_int=\count193
+\l__siunitx_process_integer_min_int=\count194
+\l__siunitx_process_precision_int=\count195
+\l__siunitx_group_min_int=\count196
 \l__siunitx_angle_marker_box=\box51
 \l__siunitx_angle_unit_box=\box52
 \l__siunitx_angle_marker_dim=\dimen151
 \l__siunitx_angle_unit_dim=\dimen152
-\l__siunitx_unit_int=\count198
-\l__siunitx_unit_denominator_int=\count199
-\l__siunitx_unit_numerator_int=\count266
-\l__siunitx_unit_prefix_int=\count267
-\l__siunitx_unit_prefix_base_int=\count268
-\l__siunitx_unit_prefix_gram_int=\count269
-\l__siunitx_number_product_int=\count270
+\l__siunitx_unit_int=\count197
+\l__siunitx_unit_denominator_int=\count198
+\l__siunitx_unit_numerator_int=\count199
+\l__siunitx_unit_prefix_int=\count266
+\l__siunitx_unit_prefix_base_int=\count267
+\l__siunitx_unit_prefix_gram_int=\count268
+\l__siunitx_number_product_int=\count269
 \c__siunitx_one_fill_skip=\skip62
 \l__siunitx_table_unit_align_skip=\skip63
 \l__siunitx_table_exponent_dim=\dimen153
@@ -459,50 +458,50 @@ Package: l3keys2e 2019-10-11 LaTeX2e option processing using LaTeX3 keys
 \l__siunitx_table_number_align_skip=\skip64
 \l__siunitx_table_text_align_skip=\skip65
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\trans
-lator.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\tra
+nslator.sty"
 Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
 ))
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.
-sty"
-Package: amsmath 2019/11/16 v2.17d AMS math features
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmat
+h.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
 \@mathmargin=\skip66
 
 For additional information on amsmath, use the `?' option.
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.s
-ty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy
+.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen162
 )
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.s
-ty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn
+.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count271
-LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count272
-\leftroot@=\count273
-LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count274
-\DOTSCASE@=\count275
-LaTeX Info: Redefining \ldots on input line 486.
-LaTeX Info: Redefining \dots on input line 489.
-LaTeX Info: Redefining \cdots on input line 610.
+\inf@bad=\count270
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count271
+\leftroot@=\count272
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count273
+\DOTSCASE@=\count274
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
 \Mathstrutbox@=\box57
 \strutbox@=\box58
 \big@size=\dimen163
-LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count276
-\c@MaxMatrixCols=\count277
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count275
+\c@MaxMatrixCols=\count276
 \dotsspace@=\muskip16
-\c@parentequation=\count278
-\dspbrk@lvl=\count279
+\c@parentequation=\count277
+\dspbrk@lvl=\count278
 \tag@help=\toks21
-\row@=\count280
-\column@=\count281
-\maxfields@=\count282
+\row@=\count279
+\column@=\count280
+\maxfields@=\count281
 \andhelp@=\toks22
 \eqnshift@=\dimen164
 \alignsep@=\dimen165
@@ -514,138 +513,143 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \multlinegap=\skip67
 \multlinetaggap=\skip68
 \mathdisplay@stack=\toks24
-LaTeX Info: Redefining \[ on input line 2858.
-LaTeX Info: Redefining \] on input line 2859.
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
 )
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfig\subfig.st
-y"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfig\subfig.
+sty"
 Package: subfig 2005/06/28 ver: 1.3 subfig package
-\c@KVtest=\count283
+\c@KVtest=\count282
 \sf@farskip=\skip69
 \sf@captopadj=\dimen170
 \sf@capskip=\skip70
 \sf@nearskip=\skip71
-\c@subfigure=\count284
-\c@subfigure@save=\count285
-\c@lofdepth=\count286
-\c@subtable=\count287
-\c@subtable@save=\count288
-\c@lotdepth=\count289
+\c@subfigure=\count283
+\c@subfigure@save=\count284
+\c@lofdepth=\count285
+\c@subtable=\count286
+\c@subtable@save=\count287
+\c@lotdepth=\count288
 \sf@top=\skip72
 \sf@bottom=\skip73
 )
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setspac
-e.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setsp
+ace.sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/blindtext\blindt
-ext.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/blindtext\blin
+dtext.sty"
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\xspace.sty
-"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\xspace.s
+ty"
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count290
-\c@Blindtext=\count291
-\c@blind@countparstart=\count292
-\blind@countxx=\count293
-\blindtext@numBlindtext=\count294
-\blind@countyy=\count295
-\c@blindlist=\count296
-\c@blindlistlevel=\count297
-\c@blindlist@level=\count298
-\blind@listitem=\count299
-\c@blind@listcount=\count300
-\c@blind@levelcount=\count301
-\blind@mathformula=\count302
-\blind@Mathformula=\count303
-\c@blind@randomcount=\count304
-\c@blind@randommax=\count305
-\c@blind@pangramcount=\count306
-\c@blind@pangrammax=\count307
+\c@blindtext=\count289
+\c@Blindtext=\count290
+\c@blind@countparstart=\count291
+\blind@countxx=\count292
+\blindtext@numBlindtext=\count293
+\blind@countyy=\count294
+\c@blindlist=\count295
+\c@blindlistlevel=\count296
+\c@blindlist@level=\count297
+\blind@listitem=\count298
+\c@blind@listcount=\count299
+\c@blind@levelcount=\count300
+\blind@mathformula=\count301
+\blind@Mathformula=\count302
+\c@blind@randomcount=\count303
+\c@blind@randommax=\count304
+\c@blind@pangramcount=\count305
+\c@blind@pangrammax=\count306
 )
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb
-.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssy
+mb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfont
-s.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfo
+nts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
-LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblate
-x.sty"
-Package: biblatex 2019/08/31 v3.13a programmable bibliographies (PK/MW)
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\bibla
+tex.sty"
+Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdfte
-xcmds.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdf
+texcmds.sty"
 Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.
+sty"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.st
-y"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.
+sty"
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count308
+\lrq@indent=\count307
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.de
-f"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/logreq\logreq.
+def"
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.st
+y"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-) ("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+) ("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count309
-\c@listtotal=\count310
-\c@listcount=\count311
-\c@liststart=\count312
-\c@liststop=\count313
-\c@citecount=\count314
-\c@citetotal=\count315
-\c@multicitecount=\count316
-\c@multicitetotal=\count317
-\c@instcount=\count318
-\c@maxnames=\count319
-\c@minnames=\count320
-\c@maxitems=\count321
-\c@minitems=\count322
-\c@citecounter=\count323
-\c@maxcitecounter=\count324
-\c@savedcitecounter=\count325
-\c@uniquelist=\count326
-\c@uniquename=\count327
-\c@refsection=\count328
-\c@refsegment=\count329
-\c@maxextratitle=\count330
-\c@maxextratitleyear=\count331
-\c@maxextraname=\count332
-\c@maxextradate=\count333
-\c@maxextraalpha=\count334
-\c@abbrvpenalty=\count335
-\c@highnamepenalty=\count336
-\c@lownamepenalty=\count337
-\c@maxparens=\count338
-\c@parenlevel=\count339
-\blx@tempcnta=\count340
-\blx@tempcntb=\count341
-\blx@tempcntc=\count342
-\blx@maxsection=\count343
-\blx@maxsegment@0=\count344
-\blx@notetype=\count345
-\blx@parenlevel@text=\count346
-\blx@parenlevel@foot=\count347
-\blx@sectionciteorder@0=\count348
-\blx@entrysetcounter=\count349
+\c@tabx@nest=\count308
+\c@listtotal=\count309
+\c@listcount=\count310
+\c@liststart=\count311
+\c@liststop=\count312
+\c@citecount=\count313
+\c@citetotal=\count314
+\c@multicitecount=\count315
+\c@multicitetotal=\count316
+\c@instcount=\count317
+\c@maxnames=\count318
+\c@minnames=\count319
+\c@maxitems=\count320
+\c@minitems=\count321
+\c@citecounter=\count322
+\c@maxcitecounter=\count323
+\c@savedcitecounter=\count324
+\c@uniquelist=\count325
+\c@uniquename=\count326
+\c@refsection=\count327
+\c@refsegment=\count328
+\c@maxextratitle=\count329
+\c@maxextratitleyear=\count330
+\c@maxextraname=\count331
+\c@maxextradate=\count332
+\c@maxextraalpha=\count333
+\c@abbrvpenalty=\count334
+\c@highnamepenalty=\count335
+\c@lownamepenalty=\count336
+\c@maxparens=\count337
+\c@parenlevel=\count338
+\blx@tempcnta=\count339
+\blx@tempcntb=\count340
+\blx@tempcntc=\count341
+\blx@maxsection=\count342
+\blx@maxsegment@0=\count343
+\blx@notetype=\count344
+\blx@parenlevel@text=\count345
+\blx@parenlevel@foot=\count346
+\blx@sectionciteorder@0=\count347
+\blx@entrysetcounter=\count348
 \labelnumberwidth=\skip74
 \labelalphawidth=\skip75
 \biblabelsep=\skip76
@@ -656,89 +660,88 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip81
 \blx@bcfin=\read2
 \blx@bcfout=\write3
-\blx@langwohyphens=\language78
-\c@mincomprange=\count350
-\c@maxcomprange=\count351
-\c@mincompwidth=\count352
+\c@mincomprange=\count349
+\c@maxcomprange=\count350
+\c@mincompwidth=\count351
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-dm.
-def"
-File: blx-dm.def 2019/08/31 v3.13a biblatex localization (PK/MW)
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-d
+m.def"
+File: blx-dm.def 2018/11/02 v3.12 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex citestyle data model...
 Package biblatex Info: ... file 'numeric.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count353
-\c@savedafterword=\count354
-\c@annotator=\count355
-\c@savedannotator=\count356
-\c@author=\count357
-\c@savedauthor=\count358
-\c@bookauthor=\count359
-\c@savedbookauthor=\count360
-\c@commentator=\count361
-\c@savedcommentator=\count362
-\c@editor=\count363
-\c@savededitor=\count364
-\c@editora=\count365
-\c@savededitora=\count366
-\c@editorb=\count367
-\c@savededitorb=\count368
-\c@editorc=\count369
-\c@savededitorc=\count370
-\c@foreword=\count371
-\c@savedforeword=\count372
-\c@holder=\count373
-\c@savedholder=\count374
-\c@introduction=\count375
-\c@savedintroduction=\count376
-\c@namea=\count377
-\c@savednamea=\count378
-\c@nameb=\count379
-\c@savednameb=\count380
-\c@namec=\count381
-\c@savednamec=\count382
-\c@translator=\count383
-\c@savedtranslator=\count384
-\c@shortauthor=\count385
-\c@savedshortauthor=\count386
-\c@shorteditor=\count387
-\c@savedshorteditor=\count388
-\c@labelname=\count389
-\c@savedlabelname=\count390
-\c@institution=\count391
-\c@savedinstitution=\count392
-\c@lista=\count393
-\c@savedlista=\count394
-\c@listb=\count395
-\c@savedlistb=\count396
-\c@listc=\count397
-\c@savedlistc=\count398
-\c@listd=\count399
-\c@savedlistd=\count400
-\c@liste=\count401
-\c@savedliste=\count402
-\c@listf=\count403
-\c@savedlistf=\count404
-\c@location=\count405
-\c@savedlocation=\count406
-\c@organization=\count407
-\c@savedorganization=\count408
-\c@origlocation=\count409
-\c@savedoriglocation=\count410
-\c@origpublisher=\count411
-\c@savedorigpublisher=\count412
-\c@publisher=\count413
-\c@savedpublisher=\count414
-\c@language=\count415
-\c@savedlanguage=\count416
-\c@origlanguage=\count417
-\c@savedoriglanguage=\count418
-\c@pageref=\count419
-\c@savedpageref=\count420
+\c@afterword=\count352
+\c@savedafterword=\count353
+\c@annotator=\count354
+\c@savedannotator=\count355
+\c@author=\count356
+\c@savedauthor=\count357
+\c@bookauthor=\count358
+\c@savedbookauthor=\count359
+\c@commentator=\count360
+\c@savedcommentator=\count361
+\c@editor=\count362
+\c@savededitor=\count363
+\c@editora=\count364
+\c@savededitora=\count365
+\c@editorb=\count366
+\c@savededitorb=\count367
+\c@editorc=\count368
+\c@savededitorc=\count369
+\c@foreword=\count370
+\c@savedforeword=\count371
+\c@holder=\count372
+\c@savedholder=\count373
+\c@introduction=\count374
+\c@savedintroduction=\count375
+\c@namea=\count376
+\c@savednamea=\count377
+\c@nameb=\count378
+\c@savednameb=\count379
+\c@namec=\count380
+\c@savednamec=\count381
+\c@translator=\count382
+\c@savedtranslator=\count383
+\c@shortauthor=\count384
+\c@savedshortauthor=\count385
+\c@shorteditor=\count386
+\c@savedshorteditor=\count387
+\c@labelname=\count388
+\c@savedlabelname=\count389
+\c@institution=\count390
+\c@savedinstitution=\count391
+\c@lista=\count392
+\c@savedlista=\count393
+\c@listb=\count394
+\c@savedlistb=\count395
+\c@listc=\count396
+\c@savedlistc=\count397
+\c@listd=\count398
+\c@savedlistd=\count399
+\c@liste=\count400
+\c@savedliste=\count401
+\c@listf=\count402
+\c@savedlistf=\count403
+\c@location=\count404
+\c@savedlocation=\count405
+\c@organization=\count406
+\c@savedorganization=\count407
+\c@origlocation=\count408
+\c@savedoriglocation=\count409
+\c@origpublisher=\count410
+\c@savedorigpublisher=\count411
+\c@publisher=\count412
+\c@savedpublisher=\count413
+\c@language=\count414
+\c@savedlanguage=\count415
+\c@origlanguage=\count416
+\c@savedoriglanguage=\count417
+\c@pageref=\count418
+\c@savedpageref=\count419
 \shorthandwidth=\skip82
 \shortjournalwidth=\skip83
 \shortserieswidth=\skip84
@@ -756,60 +759,54 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-com
-pat.def"
-File: blx-compat.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-c
+ompat.def"
+File: blx-compat.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblate
-x.def"
-File: biblatex.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
-\c@textcitecount=\count421
-\c@textcitetotal=\count422
-\c@textcitemaxnames=\count423
-\c@biburlbigbreakpenalty=\count424
-\c@biburlbreakpenalty=\count425
-\c@biburlnumpenalty=\count426
-\c@biburlucpenalty=\count427
-\c@biburllcpenalty=\count428
-\biburlbigskip=\muskip18
-\biburlnumskip=\muskip19
-\biburlucskip=\muskip20
-\biburllcskip=\muskip21
-\c@smartand=\count429
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\bibla
+tex.def"
+File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+\c@textcitecount=\count420
+\c@textcitetotal=\count421
+\c@textcitemaxnames=\count422
+\c@biburlnumpenalty=\count423
+\c@biburlucpenalty=\count424
+\c@biburllcpenalty=\count425
+\c@smartand=\count426
 )
 Package biblatex Info: Trying to load natbib compatibility...
 Package biblatex Info: ... file 'blx-natbib.def' found.
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-nat
-bib.def"
-File: blx-natbib.def 2019/08/31 v3.13a biblatex compatibility (PK/MW)
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\blx-n
+atbib.def"
+File: blx-natbib.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
 Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
  overwriting.
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\num
-eric.bbx"
-File: numeric.bbx 2019/08/31 v3.13a biblatex bibliography style (PK/MW)
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\n
+umeric.bbx"
+File: numeric.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\sta
-ndard.bbx"
-File: standard.bbx 2019/08/31 v3.13a biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count430
-\c@bbx:relatedtotal=\count431
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/bbx\s
+tandard.bbx"
+File: standard.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count427
+\c@bbx:relatedtotal=\count428
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/cbx\num
-eric.cbx"
-File: numeric.cbx 2019/08/31 v3.13a biblatex citation style (PK/MW)
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/cbx\n
+umeric.cbx"
+File: numeric.cbx 2018/11/02 v3.12 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -825,37 +822,38 @@ Package biblatex Info: Redefining '\smartcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\biblate
-x.cfg"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex\bibla
+tex.cfg"
 File: biblatex.cfg 
 ))
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty
+"
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count432
-\calc@Bcount=\count433
+\calc@Acount=\count429
+\calc@Bcount=\count430
 \calc@Adimen=\dimen171
 \calc@Bdimen=\dimen172
 \calc@Askip=\skip96
 \calc@Bskip=\skip97
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count434
+\calc@Ccount=\count431
 \calc@Cskip=\skip98
 )
 Package biblatex Info: Trying to load language 'german'...
 Package biblatex Info: ... file 'german.lbx' found.
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\ger
-man.lbx"
-File: german.lbx 2019/08/31 v3.13a biblatex localization (PK/MW)
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/biblatex/lbx\g
+erman.lbx"
+File: german.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
 )
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count435
-\@quotereset=\count436
-(Dokument.aux)
+\@quotelevel=\count432
+\@quotereset=\count433
+(Dokument.aux (Kapitel/Letzte_Seite.aux) (Kapitel/eid_erkl.aux))
 \openout1 = `Dokument.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 121.
@@ -875,32 +873,46 @@ Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp
--pdf.mkii"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\su
+pp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count437
+\scratchcounter=\count434
 \scratchdimen=\dimen173
 \scratchbox=\box59
-\nofMPsegments=\count438
-\nofMParguments=\count439
+\nofMPsegments=\count435
+\nofMParguments=\count436
 \everyMPshowfont=\toks25
-\MPscratchCnt=\count440
+\MPscratchCnt=\count437
 \MPscratchDim=\dimen174
-\MPnumerator=\count441
-\makeMPintoPDFobject=\count442
+\MPnumerator=\count438
+\makeMPintoPDFobject=\count439
 \everyMPtoPDFconversion=\toks26
 )
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\eps
-topdf-base.sty"
-Package: epstopdf-base 2019-11-30 v2.9 Base part for package epstopdf
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epsto
+pdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfex
+t.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvd
+efinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
 )
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.dfu"
-File: ts1enc.dfu 2019/07/11 v1.2j UTF-8 support for inputenc
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.df
+u"
+File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00A4 (decimal 164)
@@ -970,16 +982,14 @@ File: ts1enc.dfu 2019/07/11 v1.2j UTF-8 support for inputenc
    defining Unicode char U+25E6 (decimal 9702)
    defining Unicode char U+25EF (decimal 9711)
    defining Unicode char U+266A (decimal 9834)
-   defining Unicode char U+27E8 (decimal 10216)
-   defining Unicode char U+27E9 (decimal 10217)
    defining Unicode char U+FEFF (decimal 65279)
 )
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\trans
-lator-basic-dictionary-English.dict"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\tra
+nslator-basic-dictionary-English.dict"
 Dictionary: translator-basic-dictionary, Language: English 
 )
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siunitx-
-abbreviations.cfg"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siunit
+x-abbreviations.cfg"
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -993,35 +1003,890 @@ Package biblatex Info: ... file 'Dokument.bbl' not found.
 No file Dokument.bbl.
 Package biblatex Info: Reference section=0 on input line 121.
 Package biblatex Info: Reference segment=0 on input line 121.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 121
-.
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd
-"
+LaTeX Font Info:    Try loading font information for U+msa on input line 121.
+
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.
+fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 121
-.
+LaTeX Font Info:    Try loading font information for U+msb on input line 121.
 
-("C:\Users\ZiadBhs\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd
-"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.
+fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (Kapitel/Titelseite.tex
-! I can't write on file `Dokument.pdf'.
-Please type another file name for output
-! Emergency stop.
-<argument> \pdfximage 
-                      \ifnum 0\ifx \Gin@decode \@empty \else 1\fi \ifGin@int...
-l.11 ...textwidth]{./Bilder/TUBraunschweig_4C.pdf}
-                                                   &		 					\includegraphics...
-*** (job aborted, file error in nonstop mode)
+<./Bilder/TUBraunschweig_4C.pdf, id=1, 199.74625pt x 74.2775pt>
+File: ./Bilder/TUBraunschweig_4C.pdf Graphic file (type pdf)
+<use ./Bilder/TUBraunschweig_4C.pdf>
+Package pdftex.def Info: ./Bilder/TUBraunschweig_4C.pdf  used on input line 11.
 
- 
+(pdftex.def)             Requested size: 227.62204pt x 84.64775pt.
+<./Bilder/ifw_logo.pdf, id=2, 657.2053pt x 189.70876pt>
+File: ./Bilder/ifw_logo.pdf Graphic file (type pdf)
+<use ./Bilder/ifw_logo.pdf>
+Package pdftex.def Info: ./Bilder/ifw_logo.pdf  used on input line 11.
+(pdftex.def)             Requested size: 273.14922pt x 78.84634pt.
+
+Overfull \hbox (263.62207pt too wide) in paragraph at lines 8--14
+ [] 
+ []
+
+
+Overfull \hbox (19.45007pt too wide) in paragraph at lines 54--66
+ [] 
+ []
+
+[1
+Non-PDF special ignored!
+<special> papersize=597.50787pt,845.04684pt
+
+{C:/Users/vrein_000/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Bilde
+r/ifw_logo.pdf> <./Bilder/TUBraunschweig_4C.pdf>]) (Dokument.toc)
+\tf@toc=\write4
+\openout4 = `Dokument.toc'.
+
+ [1
+
+
+
+]
+(Kapitel/Nomenklatur.tex [2
+
+]) (Kapitel/Einleitung.tex
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 13.59999pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[1]
+Kapitel 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--4
+
+ []
+
+) (Kapitel/Metallurgie.tex [2
+
+]
+Kapitel 2.
+
+LaTeX Warning: Reference `bib:' on page 3 undefined on input line 6.
+
+<Bilder/hcp.png, id=36, 181.42781pt x 198.7425pt>
+File: Bilder/hcp.png Graphic file (type png)
+<use Bilder/hcp.png>
+Package pdftex.def Info: Bilder/hcp.png  used on input line 11.
+(pdftex.def)             Requested size: 182.09485pt x 199.47891pt.
+<Bilder/krz.png, id=37, 178.41656pt x 178.41656pt>
+File: Bilder/krz.png Graphic file (type png)
+<use Bilder/krz.png>
+Package pdftex.def Info: Bilder/krz.png  used on input line 14.
+(pdftex.def)             Requested size: 182.09485pt x 182.10225pt.
+<Bilder/Phasendiagram.png, id=38, 387.69844pt x 379.4175pt>
+File: Bilder/Phasendiagram.png Graphic file (type png)
+<use Bilder/Phasendiagram.png>
+Package pdftex.def Info: Bilder/Phasendiagram.png  used on input line 36.
+(pdftex.def)             Requested size: 227.62204pt x 222.76018pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3
+
+]
+[4 <./Bilder/hcp.png (PNG copy)> <./Bilder/krz.png (PNG copy)> <./Bilder/Phasen
+diagram.png>]
+Overfull \hbox (2.12244pt too wide) in paragraph at lines 73--75
+\T1/cmr/m/n/10.95 la-ti-on microstructure-microtexture-propri�t�s m�-ca-ni-ques
+-del'alliagedetitaneTi6242. Au-tre. ISAE-
+ []
+
+
+Overfull \hbox (2.17982pt too wide) in paragraph at lines 73--75
+\T1/cmr/m/n/10.95 ENSMAEcoleNationaleSup�rieuredeM�canique et d'A�rotechique - 
+Poi-tiers, 2016. Fran�ais. NNT:
+ []
+
+<Bilder/WB.png, id=50, 532.99126pt x 201.75375pt>
+File: Bilder/WB.png Graphic file (type png)
+<use Bilder/WB.png>
+Package pdftex.def Info: Bilder/WB.png  used on input line 85.
+(pdftex.def)             Requested size: 455.24408pt x 172.32884pt.
+
+! LaTeX Error: File `Bilder/LM-975-1h-AC' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.94 ...[width=0.9\textwidth]{Bilder/LM-975-1h-AC}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.100 ...  Ti6242 oder Ti6242S für  8 h bei 595°
+                                                  C angelassen. Dieser Schri...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.100 ...von $\alpha_2$ in $\alpha$, die ca. 650°
+                                                  C beträgt.(Titanium lütj...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.101 ...Si berücksichtigt, die knapp unter 600°
+                                                  C liegt. Silizide ($Ti_5Si...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: File `Bilder/TiAl' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106 ...raphics[width=0.6\textwidth]{Bilder/TiAl}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[5 <./Bilder/WB.png>]
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.131 		Schmelzpunkt & 1700°
+                             C \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.132 		$T_{\beta}$ &  995°
+                            C $\pm$ 15°C \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.132 		$T_{\beta}$ &  995°C $\pm$ 15°
+                                        C \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.157 ...r $T_{\beta}$ von Ti-6242 liegt bei 995°
+                                                  C $\pm$ 15°C . Die Abweic...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.157 ...$ von Ti-6242 liegt bei 995°C $\pm$ 15°
+                                                  C . Die Abweichung hängt ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.158 ...r von Reinem Titan, die bei 882 $\pm$ 2°
+                                                  C liegt.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: File `Bilder/TiMo' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.163 ...aphics[width= 0.6\textwidth]{Bilder/TiMo}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+\u8:° ->\IeC {\textdegree 
+                           }
+l.184 ...00°C/AC )  [Titanium : Technical guide]}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\u8:° ->\IeC {\textdegree 
+                           }
+l.184 ...00°C/AC )  [Titanium : Technical guide]}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.184 ...00°C/AC )  [Titanium : Technical guide]}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.184 ...00°C/AC )  [Titanium : Technical guide]}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.184 ...00°C/AC )  [Titanium : Technical guide]}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.184 ...00°C/AC )  [Titanium : Technical guide]}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[6]
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.206 ... können in Temperaturen bis zu 500-550°
+                                                  C eingesetzt werden. [Tita...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--208
+
+ []
+
+
+! LaTeX Error: File `Bilder/Compressor spool' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.214 ...0.45\textwidth]{Bilder/Compressor spool}}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Bilder/Impeller.png, id=59, 424.58624pt x 348.55219pt>
+File: Bilder/Impeller.png Graphic file (type png)
+<use Bilder/Impeller.png>
+Package pdftex.def Info: Bilder/Impeller.png  used on input line 217.
+(pdftex.def)             Requested size: 204.85844pt x 168.17537pt.
+
+Overfull \hbox (1003.58295pt too wide) in paragraph at lines 214--218
+ [][] 
+ []
+
+
+! LaTeX Error: File `Bilder/Titan' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.220 ...hics[width=0.45\textwidth]{Bilder/Titan}}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (30.6897pt too wide) in paragraph at lines 220--220
+[][]|\T1/cmr/m/n/9 Im-
+ []
+
+
+Overfull \hbox (31.72209pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 pel-
+ []
+
+
+Overfull \hbox (26.86215pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 ler
+ []
+
+
+Overfull \hbox (34.59915pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 used
+ []
+
+
+Overfull \hbox (24.26904pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 in
+ []
+
+
+Overfull \hbox (27.91675pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 as-
+ []
+
+
+Overfull \hbox (34.03055pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 mall
+ []
+
+
+Overfull \hbox (28.8964pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 en-
+ []
+
+
+Overfull \hbox (26.83786pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 gi-
+ []
+
+
+Overfull \hbox (25.81381pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 ne
+ []
+
+
+Overfull \hbox (27.62932pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 for
+ []
+
+
+Overfull \hbox (27.37592pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 re-
+ []
+
+
+Overfull \hbox (31.46173pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 gio-
+ []
+
+
+Overfull \hbox (28.89291pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 nal
+ []
+
+
+Overfull \hbox (33.31473pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 jets,
+ []
+
+
+Overfull \hbox (31.9755pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 dia-
+ []
+
+
+Overfull \hbox (31.46521pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 me-
+ []
+
+
+Overfull \hbox (27.88966pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 ter
+ []
+
+
+Overfull \hbox (25.81033pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 35
+ []
+
+
+Overfull \hbox (30.94795pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 cm.
+ []
+
+
+Overfull \hbox (32.49272pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 The
+ []
+
+
+Overfull \hbox (26.83786pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 al-
+ []
+
+
+Overfull \hbox (28.37914pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 loy
+ []
+
+
+Overfull \hbox (22.77911pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 is
+ []
+
+
+Overfull \hbox (28.8929pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 Ti-
+ []
+
+
+Overfull \hbox (35.05807pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 6242
+ []
+
+
+Overfull \hbox (34.54428pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 with
+ []
+
+
+Overfull \hbox (21.18646pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 a
+ []
+
+
+Overfull \hbox (27.35162pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 bi-
+ []
+
+
+Overfull \hbox (100.68013pt too wide) in paragraph at lines 220--220
+\T1/cmr/m/n/9 modalmicrostructure| 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7])
+(Kapitel/Experimentelle_Methoden.tex [8 <./Bilder/Impeller.png>]
+Kapitel 3.
+
+Overfull \hbox (23.17194pt too wide) in paragraph at lines 16--18
+\T1/cmr/m/n/10.95 Die ge-trenn-ten Pro-ben wer-den in War-mein-bett-pres-sen (B
+ueh-ler Sim-pli-met Moun-ting Press 1000/4000)
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9
+
+]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.78 		Salpetersäure (HNO_
+                           {3})	& $6ml$
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.78 		Salpetersäure (HNO_{3})	&
+                                  $6ml$
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[10]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.107 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.108 	\sigma
+             =\frac{F}{S_0} ~~~~
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+) (Kapitel/Durchfuehrung.tex [11]
+Kapitel 4.
+
+LaTeX Warning: Reference `bib:' on page 12 undefined on input line 4.
+
+<Bilder/Phasendiagramm_beta.png, id=83, 353.06906pt x 274.77657pt>
+File: Bilder/Phasendiagramm_beta.png Graphic file (type png)
+<use Bilder/Phasendiagramm_beta.png>
+Package pdftex.def Info: Bilder/Phasendiagramm_beta.png  used on input line 10.
+
+(pdftex.def)             Requested size: 353.06819pt x 274.77588pt.
+[12
+
+ <./Bilder/Phasendiagramm_beta.png>]
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.42 ...usammengefasst wird, für 1 min  bei 930°
+                                                  C erwärmt und dann  auf R...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.53 ...usammengefasst wird, für 1 min  bei 930°
+                                                  C erwärmt und dann  auf R...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Bilder/ts-stda.png, id=89, 523.9575pt x 355.3275pt>
+File: Bilder/ts-stda.png Graphic file (type png)
+<use Bilder/ts-stda.png>
+Package pdftex.def Info: Bilder/ts-stda.png  used on input line 58.
+(pdftex.def)             Requested size: 409.71689pt x 277.85916pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.63 ...Anneal für 8 und 16 min jeweils bei 930°
+                                                  C und 950°C wärmebehandelt.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.63 ... 8 und 16 min jeweils bei 930°C und 950°
+                                                  C wärmebehandelt.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.66 ...ärmebehandlung werden AR-Proben bei 983°
+                                                  C für 1h erwärmt und was...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.76 580°
+           C / 8 min / WQ	393 HV		Std. Abweichung von 	2.02
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.77 580°
+           C / 16 min / WQ	392 HV		Std. Abweichung von 	4.15
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.78 610°
+           C / 8 min / WQ	399 HV		Std. Abweichung von 	2.32
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.79 610°
+           C / 16 min / WQ	392 HV		Std. Abweichung von 	2.57
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.80 983°
+          C/1h/WQ+610°C/16min/AC	405 HV		Std. A. 	6.22
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.80 983°C/1h/WQ+610°
+                       C/16min/AC	405 HV		Std. A. 	6.22
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.81 983°
+          C/1h/WQ+610°C/30min/AC	400 HV		Std. A. 	2.81
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.81 983°C/1h/WQ+610°
+                       C/30min/AC	400 HV		Std. A. 	2.81
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[14 <./Bilder/ts-stda.png>]
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.83 ... aus der 2. Wärmebehandlung ist bei 950°
+                                                   C / 16 min / WQ mit 376 H...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.84 ...zu sehen. Beim Glühen der Probe bei 983°
+                                                   C / 1h / Wasser gekühlt ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) (Kapitel/Ergebnisse.tex [15]
+Kapitel 5.
+) (Kapitel/Diskussion_der_Ergebnisse.tex [16
+
+]
+Kapitel 6.
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.6 ..., war  bei den ersten Proben, die bei 930°
+                                                  C für 8   oder 16 min WQ ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.6 ...nflusst wurde. D.h es konnte sich bei 930°
+                                                  C das $\beta$ nicht schnel...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.11 ...�rt dass die Dauer des Anlassens bei 930°
+                                                  C nur einen geringen bis k...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.13 Das zeigt, dass 930°
+                          C zu niedrig  für die Diffusionskinetik von $\bet...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.17 Bei 983°
+              C  liegt die Legierung in dem  Zwei-Phasengebiet mit ca. 84\% ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) (Kapitel/Fazit_und_Ausblick.tex [17
+
+]
+Kapitel 7.
+) (Kapitel/Letzte_Seite.tex [18
+
+]) [19]
+
+LaTeX Warning: Empty bibliography on input line 177.
+
+(Dokument.aux (Kapitel/Letzte_Seite.aux) (Kapitel/eid_erkl.aux))
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package logreq Info: Writing requests to 'Dokument.run.xml'.
+\openout1 = `Dokument.run.xml'.
+
+ ) 
 Here is how much of TeX's memory you used:
- 24648 strings out of 492484
- 477002 string characters out of 3120695
- 892592 words of memory out of 3000000
- 28787 multiletter control sequences out of 15000+200000
- 539164 words of font info for 49 fonts, out of 3000000 for 9000
+ 23731 strings out of 492895
+ 458243 string characters out of 3121867
+ 846055 words of memory out of 3000000
+ 27346 multiletter control sequences out of 15000+200000
+ 555025 words of font info for 85 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
- 51i,11n,67p,848b,743s stack positions out of 5000i,500n,10000p,200000b,50000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 40i,12n,63p,878b,1820s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\vrein_000\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi
+600\ecrm0900.pk> <C:\Users\vrein_000\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/j
+knappen/ec/dpi600\ecbx0900.pk> <C:\Users\vrein_000\AppData\Local\MiKTeX\2.9\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\vrein_000\AppData\Local\
+MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\vrein_000\
+AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Us
+ers\vrein_000\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2
+074.pk> <C:\Users\vrein_000\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/e
+c/dpi600\ecbx2488.pk> <C:\Users\vrein_000\AppData\Local\MiKTeX\2.9\fonts/pk/ljf
+our/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\vrein_000\AppData\Local\MiKTeX\2.
+9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\vrein_000\AppData\L
+ocal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\vrein
+_000\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk><C
+:/Users/vrein_000/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmex10.pfb><C:/Users/vrein_000/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmmi10.pfb><C:/Users/vrein_000/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/vrein_000/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/vrei
+n_000/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pf
+b><C:/Users/vrein_000/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmr6.pfb><C:/Users/vrein_000/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmr8.pfb><C:/Users/vrein_000/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/vrein_000/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/vrei
+n_000/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pf
+b>
+Output written on Dokument.pdf (22 pages, 773468 bytes).
+PDF statistics:
+ 621 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 52 words of extra memory for PDF output out of 10000 (max. 10000000)
+
