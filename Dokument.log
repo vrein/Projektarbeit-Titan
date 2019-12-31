@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.12)  31 DEC 2019 10:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.12)  31 DEC 2019 10:26
 entering extended mode
 **./Dokument.tex
 (Dokument.tex
@@ -1086,21 +1086,6 @@ Package pdftex.def Info: Bilder/krz.png  used on input line 14.
 [3
 
 ]
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.32 \newline
-              Wenn $\alpha$-Stabilisatoren als Legierungselemente dem reinen...
-
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
 Overfull \hbox (0.71112pt too wide) in paragraph at lines 35--36
 \T1/cmr/m/n/10.95 Raum-tem-pe-ra-tur. Die be-kann-te-sten $\OML/cmm/m/it/10.95 
 $\T1/cmr/m/n/10.95 +$\OML/cmm/m/it/10.95 $ \T1/cmr/m/n/10.95 Le-gie-run-gen s
@@ -2014,7 +1999,7 @@ my insertion and my current dilemma will both disappear.
 ! Undefined control sequence.
 <argument> \textasciiacute 
                            
-l.111 ...eta-phase vor. Da wird den Martensit (a´
+l.112 ...eta-phase vor. Da wird den Martensit (a´
                                                   ) Phase in Alpha- und Beta...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2025,7 +2010,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \textdegree 
                        
-l.112 ...�r den nächsten Vorgang. Die Probe 983°
+l.113 ...�r den nächsten Vorgang. Die Probe 983°
                                                   /1h/AC + 950/16min/WC ist ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2036,7 +2021,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \textdegree 
                        
-l.112 ...die gemacht. Untersucht wird ob bei 580°
+l.113 ...die gemacht. Untersucht wird ob bei 580°
                                                    und 610° ein Unterschied...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2047,7 +2032,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \textdegree 
                        
-l.112 ...t. Untersucht wird ob bei 580° und 610°
+l.113 ...t. Untersucht wird ob bei 580° und 610°
                                                    ein Unterschied an der H�...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2058,7 +2043,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \textdegree 
                        
-l.112 ...ezeigt ist. Für die ersten Proben: 580°
+l.113 ...ezeigt ist. Für die ersten Proben: 580°
                                                    C. Und für die zweite Te...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2069,7 +2054,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \textdegree 
                        
-l.112 ...ite Temperatur, sind 30K gestiegen (610°
+l.113 ...ite Temperatur, sind 30K gestiegen (610°
                                                    C). Untersucht wird, ob e...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2077,7 +2062,6 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[17]
 ! Undefined control sequence.
 <argument> \textasciiacute 
                            
@@ -2122,10 +2106,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [18]
+[17] [18]
 ! Missing $ inserted.
 <inserted text> 
                 $
@@ -2153,44 +2134,30 @@ File: Bilder/Phasendiagramm_beta.png Graphic file (type png)
 Package pdftex.def Info: Bilder/Phasendiagramm_beta.png  used on input line 10.
 
 (pdftex.def)             Requested size: 353.06819pt x 274.77588pt.
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.39 ...usammengefasst wird, für 1 min  bei 930°
+                                                  C erwärmt und dann  auf R...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 [20
 
  <./Bilder/Phasendiagramm_beta.png>]
-! Undefined control sequence.
-<argument> \textdegree 
-                       
-l.42 ...usammengefasst wird, für 1 min  bei 930°
-                                                  C erwärmt und dann  auf R...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \textdegree 
-                       
-l.53 ...usammengefasst wird, für 1 min  bei 930°
-                                                  C erwärmt und dann  auf R...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 <Bilder/ts-stda.png, id=118, 523.9575pt x 355.3275pt>
 File: Bilder/ts-stda.png Graphic file (type png)
 <use Bilder/ts-stda.png>
-Package pdftex.def Info: Bilder/ts-stda.png  used on input line 58.
+Package pdftex.def Info: Bilder/ts-stda.png  used on input line 43.
 (pdftex.def)             Requested size: 409.71689pt x 277.85916pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [21]
 ! Undefined control sequence.
 <argument> \textdegree 
                        
-l.63 ...Anneal für 8 und 16 min jeweils bei 930°
+l.48 ...Anneal für 8 und 16 min jeweils bei 930°
                                                   C und 950°C wärmebehandelt.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2201,7 +2168,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \textdegree 
                        
-l.63 ... 8 und 16 min jeweils bei 930°C und 950°
+l.48 ... 8 und 16 min jeweils bei 930°C und 950°
                                                   C wärmebehandelt.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2212,7 +2179,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \textdegree 
                        
-l.66 ...ärmebehandlung werden AR-Proben bei 983°
+l.51 ...ärmebehandlung werden AR-Proben bei 983°
                                                   C für 1h erwärmt und was...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2220,10 +2187,38 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+[21 <./Bilder/ts-stda.png>]) (Kapitel/Ergebnisse.tex [22]
+Kapitel 5.
+! Too many }'s.
+l.11 ...ind folgenden Werte in HV gemessen worden}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+! LaTeX Error: \begin{document} ended by \end{rden}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 \end{rden}
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.13 \end{rden}
+               
+Things are pretty mixed up, but I think the worst is over.
+
 ! Undefined control sequence.
 <argument> \textdegree 
                        
-l.76 580°
+l.14 580°
            C / 8 min / WQ	393 HV		Std. Abweichung von 	2.02
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2234,7 +2229,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \textdegree 
                        
-l.77 580°
+l.15 580°
            C / 16 min / WQ	392 HV		Std. Abweichung von 	4.15
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2245,7 +2240,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \textdegree 
                        
-l.78 610°
+l.16 610°
            C / 8 min / WQ	399 HV		Std. Abweichung von 	2.32
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2256,7 +2251,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \textdegree 
                        
-l.79 610°
+l.17 610°
            C / 16 min / WQ	392 HV		Std. Abweichung von 	2.57
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2267,7 +2262,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \textdegree 
                        
-l.80 983°
+l.18 983°
           C/1h/WQ+610°C/16min/AC	405 HV		Std. A. 	6.22
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2278,7 +2273,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \textdegree 
                        
-l.80 983°C/1h/WQ+610°
+l.18 983°C/1h/WQ+610°
                        C/16min/AC	405 HV		Std. A. 	6.22
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2289,7 +2284,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \textdegree 
                        
-l.81 983°
+l.19 983°
           C/1h/WQ+610°C/30min/AC	400 HV		Std. A. 	2.81
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2300,7 +2295,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \textdegree 
                        
-l.81 983°C/1h/WQ+610°
+l.19 983°C/1h/WQ+610°
                        C/30min/AC	400 HV		Std. A. 	2.81
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2308,11 +2303,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[22 <./Bilder/ts-stda.png>]
 ! Undefined control sequence.
 <argument> \textdegree 
                        
-l.83 ... aus der 2. Wärmebehandlung ist bei 950°
+l.21 ... aus der 2. Wärmebehandlung ist bei 950°
                                                    C / 16 min / WQ mit 376 H...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2323,7 +2317,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \textdegree 
                        
-l.84 ...zu sehen. Beim Glühen der Probe bei 983°
+l.22 ...zu sehen. Beim Glühen der Probe bei 983°
                                                    C / 1h / Wasser gekühlt ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -2331,9 +2325,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-) (Kapitel/Ergebnisse.tex [23]
-Kapitel 5.
-) (Kapitel/Diskussion_der_Ergebnisse.tex [24
+) (Kapitel/Diskussion_der_Ergebnisse.tex [23
 
 ]
 Kapitel 6.
@@ -2392,13 +2384,13 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-) (Kapitel/Fazit_und_Ausblick.tex [25
+) (Kapitel/Fazit_und_Ausblick.tex [24
 
 ]
 Kapitel 7.
-) (Kapitel/Letzte_Seite.tex [26
+) (Kapitel/Letzte_Seite.tex [25
 
-]) [27]
+]) [26]
 
 LaTeX Warning: Empty bibliography on input line 177.
 
@@ -2411,10 +2403,10 @@ Package logreq Info: Writing requests to 'Dokument.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 23737 strings out of 492895
- 458564 string characters out of 3121867
- 849061 words of memory out of 3000000
- 27363 multiletter control sequences out of 15000+200000
+ 23738 strings out of 492895
+ 458571 string characters out of 3121867
+ 850061 words of memory out of 3000000
+ 27364 multiletter control sequences out of 15000+200000
  555025 words of font info for 85 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
  40i,12n,63p,1800b,1811s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2444,9 +2436,9 @@ eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/vrein_000/AppData/Lo
 cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/vrei
 n_000/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pf
 b>
-Output written on Dokument.pdf (30 pages, 1935167 bytes).
+Output written on Dokument.pdf (29 pages, 1934896 bytes).
 PDF statistics:
- 678 PDF objects out of 1000 (max. 8388607)
+ 676 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  72 words of extra memory for PDF output out of 10000 (max. 10000000)
 
