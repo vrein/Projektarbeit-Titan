@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.8)  30 DEC 2019 16:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.8)  31 DEC 2019 08:53
 entering extended mode
 **./Dokument.tex
 (Dokument.tex
@@ -855,7 +855,7 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count435
 \@quotereset=\count436
-(Dokument.aux)
+(Dokument.aux (Kapitel/Letzte_Seite.aux) (Kapitel/eid_erkl.aux))
 \openout1 = `Dokument.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 121.
@@ -1006,22 +1006,757 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 121
 "
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (Kapitel/Titelseite.tex
-! I can't write on file `Dokument.pdf'.
-Please type another file name for output
-! Emergency stop.
-<argument> \pdfximage 
-                      \ifnum 0\ifx \Gin@decode \@empty \else 1\fi \ifGin@int...
-l.11 ...textwidth]{./Bilder/TUBraunschweig_4C.pdf}
-                                                   &		 					\includegraphics...
-*** (job aborted, file error in nonstop mode)
+<./Bilder/TUBraunschweig_4C.pdf, id=1, 199.74625pt x 74.2775pt>
+File: ./Bilder/TUBraunschweig_4C.pdf Graphic file (type pdf)
+<use ./Bilder/TUBraunschweig_4C.pdf>
+Package pdftex.def Info: ./Bilder/TUBraunschweig_4C.pdf  used on input line 11.
 
- 
+(pdftex.def)             Requested size: 227.62204pt x 84.64775pt.
+<./Bilder/ifw_logo.pdf, id=2, 657.2053pt x 189.70876pt>
+File: ./Bilder/ifw_logo.pdf Graphic file (type pdf)
+<use ./Bilder/ifw_logo.pdf>
+Package pdftex.def Info: ./Bilder/ifw_logo.pdf  used on input line 11.
+(pdftex.def)             Requested size: 273.14922pt x 78.84634pt.
+
+Overfull \hbox (263.62207pt too wide) in paragraph at lines 8--14
+ [] 
+ []
+
+
+Overfull \hbox (19.45007pt too wide) in paragraph at lines 54--66
+ [] 
+ []
+
+[1
+Non-PDF special ignored!
+<special> papersize=597.50787pt,845.04684pt
+
+{C:/Users/ZiadBhs/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Bilder/
+ifw_logo.pdf> <./Bilder/TUBraunschweig_4C.pdf>]) (Dokument.toc)
+\tf@toc=\write4
+\openout4 = `Dokument.toc'.
+
+ [1
+
+
+
+]
+(Kapitel/Nomenklatur.tex [2
+
+]) (Kapitel/Einleitung.tex
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 13.59999pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[1]
+Kapitel 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--4
+
+ []
+
+) (Kapitel/Metallurgie.tex [2
+
+]
+Kapitel 2.
+<Bilder/Phasendiagram.png, id=36, 387.69844pt x 379.4175pt>
+File: Bilder/Phasendiagram.png Graphic file (type png)
+<use Bilder/Phasendiagram.png>
+Package pdftex.def Info: Bilder/Phasendiagram.png  used on input line 20.
+(pdftex.def)             Requested size: 227.62204pt x 222.76018pt.
+[3
+
+ <./Bilder/Phasendiagram.png>]
+Overfull \hbox (2.12244pt too wide) in paragraph at lines 57--59
+\T1/cmr/m/n/10.95 la-ti-on microstructure-microtexture-propri�t�s m�-ca-ni-ques
+-del'alliagedetitaneTi6242. Au-tre. ISAE-
+ []
+
+
+Overfull \hbox (2.17982pt too wide) in paragraph at lines 57--59
+\T1/cmr/m/n/10.95 ENSMAEcoleNationaleSup�rieuredeM�canique et d'A�rotechique - 
+Poi-tiers, 2016. Fran�ais. NNT:
+ []
+
+<Bilder/WB.png, id=43, 532.99126pt x 201.75375pt>
+File: Bilder/WB.png Graphic file (type png)
+<use Bilder/WB.png>
+Package pdftex.def Info: Bilder/WB.png  used on input line 69.
+(pdftex.def)             Requested size: 455.24408pt x 172.32884pt.
+[4 <./Bilder/WB.png>]
+<Bilder/LM-975-1h-AC.jpg, id=49, 668.7384pt x 501.072pt>
+File: Bilder/LM-975-1h-AC.jpg Graphic file (type jpg)
+<use Bilder/LM-975-1h-AC.jpg>
+Package pdftex.def Info: Bilder/LM-975-1h-AC.jpg  used on input line 78.
+(pdftex.def)             Requested size: 409.71689pt x 306.99913pt.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.84 ...e  Ti6242 oder Ti6242S für  8 h bei 595°
+                                                  C angelassen. Dieser Schri...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.84 ... von $\alpha_2$ in $\alpha$, die ca. 650°
+                                                  C beträgt.(Titanium lütj...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.85 ... Si berücksichtigt, die knapp unter 600°
+                                                  C liegt. Silizide ($Ti_5Si...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Bilder/TiAl.jpg, id=50, 374.90062pt x 463.7325pt>
+File: Bilder/TiAl.jpg Graphic file (type jpg)
+<use Bilder/TiAl.jpg>
+Package pdftex.def Info: Bilder/TiAl.jpg  used on input line 90.
+(pdftex.def)             Requested size: 273.14922pt x 337.89214pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <./Bilder/LM-975-1h-AC.jpg>]
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.115 		Schmelzpunkt & 1700°
+                             C \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.116 		$T_{\beta}$ &  995°
+                            C $\pm$ 15°C \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.116 		$T_{\beta}$ &  995°C $\pm$ 15°
+                                        C \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[6 <./Bilder/TiAl.jpg>]
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.141 ...r $T_{\beta}$ von Ti-6242 liegt bei 995°
+                                                  C $\pm$ 15°C . Die Abweic...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.141 ...$ von Ti-6242 liegt bei 995°C $\pm$ 15°
+                                                  C . Die Abweichung hängt ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.142 ...r von Reinem Titan, die bei 882 $\pm$ 2°
+                                                  C liegt.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Bilder/TiMo.jpg, id=59, 785.93625pt x 405.01312pt>
+File: Bilder/TiMo.jpg Graphic file (type jpg)
+<use Bilder/TiMo.jpg>
+Package pdftex.def Info: Bilder/TiMo.jpg  used on input line 147.
+(pdftex.def)             Requested size: 273.14922pt x 140.76172pt.
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.168 ...00°C/AC )  [Titanium : Technical guide]}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.168 ...00°C/AC )  [Titanium : Technical guide]}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.168 ...00°C/AC )  [Titanium : Technical guide]}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.168 ...00°C/AC )  [Titanium : Technical guide]}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.190 ... können in Temperaturen bis zu 500-550°
+                                                  C eingesetzt werden. [Tita...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--192
+
+ []
+
+[7 <./Bilder/TiMo.jpg>]
+<Bilder/Compressor spool.png, id=64, 408.77719pt x 475.02469pt>
+File: Bilder/Compressor spool.png Graphic file (type png)
+<use Bilder/Compressor spool.png>
+Package pdftex.def Info: Bilder/Compressor spool.png  used on input line 198.
+(pdftex.def)             Requested size: 204.85844pt x 238.06262pt.
+
+Underfull \hbox (badness 1199) in paragraph at lines 198--198
+[][]|\T1/cmr/m/n/9 Com-pres-sor spool-for GE CF6 class en-gi-ne
+ []
+
+<Bilder/Impeller.png, id=65, 424.58624pt x 348.55219pt>
+File: Bilder/Impeller.png Graphic file (type png)
+<use Bilder/Impeller.png>
+Package pdftex.def Info: Bilder/Impeller.png  used on input line 201.
+(pdftex.def)             Requested size: 204.85844pt x 168.17537pt.
+<Bilder/Titan.jpg, id=66, 505.89pt x 444.15938pt>
+File: Bilder/Titan.jpg Graphic file (type jpg)
+<use Bilder/Titan.jpg>
+Package pdftex.def Info: Bilder/Titan.jpg  used on input line 204.
+(pdftex.def)             Requested size: 204.85844pt x 179.86322pt.
+) (Kapitel/Experimentelle_Methoden.tex [8 <./Bilder/Compressor spool.png> <./Bi
+lder/Impeller.png> <./Bilder/Titan.jpg>]
+Kapitel 3.
+
+Overfull \hbox (23.17194pt too wide) in paragraph at lines 16--18
+\T1/cmr/m/n/10.95 Die ge-trenn-ten Pro-ben wer-den in War-mein-bett-pres-sen (B
+ueh-ler Sim-pli-met Moun-ting Press 1000/4000)
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9
+
+]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.78 		Salpetersäure (HNO_
+                           {3})	& $6ml$
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.78 		Salpetersäure (HNO_{3})	&
+                                  $6ml$
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[10]
+! Undefined control sequence.
+<argument> \textasciiacute 
+                           
+l.111 ...eta-phase vor. Da wird den Martensit (a´
+                                                  ) Phase in Alpha- und Beta...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.112 ...�r den nächsten Vorgang. Die Probe 983°
+                                                  /1h/AC + 950/16min/WC ist ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.112 ...die gemacht. Untersucht wird ob bei 580°
+                                                   und 610° ein Unterschied...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.112 ...t. Untersucht wird ob bei 580° und 610°
+                                                   ein Unterschied an der H�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.112 ...ezeigt ist. Für die ersten Proben: 580°
+                                                   C. Und für die zweite Te...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.112 ...ite Temperatur, sind 30K gestiegen (610°
+                                                   C). Untersucht wird, ob e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[11]
+! Undefined control sequence.
+<argument> \textasciiacute 
+                           
+l.115 Für das Alpha ´
+                        + Primär-Alpha wird auch ein Martensit Zerfall durc...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.115 ...sgewählt. Für eine Temperatur von 610°
+                                                   werden 16 Minuten und 30 ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.116 .... Bei Ti-64 ist eine Temperatur von 580°
+                                                   gewählt. Wir haben 30° ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.116 ...eratur von 580° gewählt. Wir haben 30°
+                                                   dazu gepackt denn unsere ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.139 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.140 	\sigma
+             =\frac{F}{S_0} ~~~~
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+) (Kapitel/Durchfuehrung.tex [13]
+Kapitel 4.
+
+LaTeX Warning: Reference `bib:' on page 14 undefined on input line 4.
+
+<Bilder/Phasendiagramm_beta.png, id=93, 353.06906pt x 274.77657pt>
+File: Bilder/Phasendiagramm_beta.png Graphic file (type png)
+<use Bilder/Phasendiagramm_beta.png>
+Package pdftex.def Info: Bilder/Phasendiagramm_beta.png  used on input line 10.
+
+(pdftex.def)             Requested size: 353.06819pt x 274.77588pt.
+[14
+
+ <./Bilder/Phasendiagramm_beta.png>]
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.42 ...usammengefasst wird, für 1 min  bei 930°
+                                                  C erwärmt und dann  auf R...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.53 ...usammengefasst wird, für 1 min  bei 930°
+                                                  C erwärmt und dann  auf R...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<Bilder/ts-stda.png, id=99, 523.9575pt x 355.3275pt>
+File: Bilder/ts-stda.png Graphic file (type png)
+<use Bilder/ts-stda.png>
+Package pdftex.def Info: Bilder/ts-stda.png  used on input line 58.
+(pdftex.def)             Requested size: 409.71689pt x 277.85916pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.63 ...Anneal für 8 und 16 min jeweils bei 930°
+                                                  C und 950°C wärmebehandelt.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.63 ... 8 und 16 min jeweils bei 930°C und 950°
+                                                  C wärmebehandelt.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.66 ...ärmebehandlung werden AR-Proben bei 983°
+                                                  C für 1h erwärmt und was...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.76 580°
+           C / 8 min / WQ	393 HV		Std. Abweichung von 	2.02
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.77 580°
+           C / 16 min / WQ	392 HV		Std. Abweichung von 	4.15
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.78 610°
+           C / 8 min / WQ	399 HV		Std. Abweichung von 	2.32
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.79 610°
+           C / 16 min / WQ	392 HV		Std. Abweichung von 	2.57
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.80 983°
+          C/1h/WQ+610°C/16min/AC	405 HV		Std. A. 	6.22
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.80 983°C/1h/WQ+610°
+                       C/16min/AC	405 HV		Std. A. 	6.22
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.81 983°
+          C/1h/WQ+610°C/30min/AC	400 HV		Std. A. 	2.81
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.81 983°C/1h/WQ+610°
+                       C/30min/AC	400 HV		Std. A. 	2.81
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[16 <./Bilder/ts-stda.png>]
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.83 ... aus der 2. Wärmebehandlung ist bei 950°
+                                                   C / 16 min / WQ mit 376 H...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.84 ...zu sehen. Beim Glühen der Probe bei 983°
+                                                   C / 1h / Wasser gekühlt ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) (Kapitel/Ergebnisse.tex [17]
+Kapitel 5.
+) (Kapitel/Diskussion_der_Ergebnisse.tex [18
+
+]
+Kapitel 6.
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.6 ..., war  bei den ersten Proben, die bei 930°
+                                                  C für 8   oder 16 min WQ ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.6 ...nflusst wurde. D.h es konnte sich bei 930°
+                                                  C das $\beta$ nicht schnel...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.11 ...�rt dass die Dauer des Anlassens bei 930°
+                                                  C nur einen geringen bis k...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.13 Das zeigt, dass 930°
+                          C zu niedrig  für die Diffusionskinetik von $\bet...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \textdegree 
+                       
+l.17 Bei 983°
+              C  liegt die Legierung in dem  Zwei-Phasengebiet mit ca. 84\% ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) (Kapitel/Fazit_und_Ausblick.tex [19
+
+]
+Kapitel 7.
+) (Kapitel/Letzte_Seite.tex [20
+
+]) [21]
+
+LaTeX Warning: Empty bibliography on input line 177.
+
+(Dokument.aux (Kapitel/Letzte_Seite.aux) (Kapitel/eid_erkl.aux))
+
+LaTeX Warning: There were undefined references.
+
+Package logreq Info: Writing requests to 'Dokument.run.xml'.
+\openout1 = `Dokument.run.xml'.
+
+ ) 
 Here is how much of TeX's memory you used:
- 24648 strings out of 492484
- 477002 string characters out of 3120695
- 892592 words of memory out of 3000000
- 28787 multiletter control sequences out of 15000+200000
- 539164 words of font info for 49 fonts, out of 3000000 for 9000
+ 24900 strings out of 492484
+ 482373 string characters out of 3120695
+ 901911 words of memory out of 3000000
+ 28959 multiletter control sequences out of 15000+200000
+ 555025 words of font info for 85 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
- 51i,11n,67p,848b,743s stack positions out of 5000i,500n,10000p,200000b,50000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 51i,12n,67p,1446b,1813s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\ZiadBhs\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecrm0900.pk> <C:\Users\ZiadBhs\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecbx0900.pk> <C:\Users\ZiadBhs\AppData\Local\MiKTeX\2.9\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\ZiadBhs\AppData\Local\MiKTeX\2
+.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\ZiadBhs\AppData\Lo
+cal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\ZiadBh
+s\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\
+Users\ZiadBhs\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2
+488.pk> <C:\Users\ZiadBhs\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/
+dpi600\ecrm1095.pk> <C:\Users\ZiadBhs\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/
+jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\ZiadBhs\AppData\Local\MiKTeX\2.9\font
+s/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\ZiadBhs\AppData\Local\MiK
+TeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk><C:/Users/ZiadBhs/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users
+/ZiadBhs/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi1
+0.pfb><C:/Users/ZiadBhs/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmmi12.pfb><C:/Users/ZiadBhs/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/ZiadBhs/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ZiadBhs/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/ZiadBhs
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/
+Users/ZiadBhs/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb><C:/Users/ZiadBhs/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmsy6.pfb><C:/Users/ZiadBhs/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on Dokument.pdf (24 pages, 2060374 bytes).
+PDF statistics:
+ 635 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 67 words of extra memory for PDF output out of 10000 (max. 10000000)
+
