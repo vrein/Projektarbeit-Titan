@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {german}{}
 \contentsline {chapter}{Nomenklatur}{ii}% 
@@ -32,3 +33,40 @@
 \contentsline {paragraph}{$\alpha $ + $\alpha ^\prime $}{17}% 
 \contentsline {section}{\numberline {6.2}Martensitzerfall}{17}% 
 \contentsline {chapter}{\numberline {7}Fazit und Ausblick}{18}% 
+=======
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {german}{}
+\contentsline {chapter}{Nomenklatur}{ii}%
+\contentsline {chapter}{\numberline {1}Einleitung}{2}%
+\contentsline {chapter}{\numberline {2}Metallurgie}{3}%
+\contentsline {section}{\numberline {2.1}Metallurgie Titanlegierungen}{3}%
+\contentsline {section}{\numberline {2.2}Ti-6242}{3}%
+\contentsline {subsubsection}{Zusammensetzung}{3}%
+\contentsline {subsubsection}{Zusammensetzung}{3}%
+\contentsline {subsubsection}{Kristallstruktur}{4}%
+\contentsline {subsubsection}{ Physikalische und mechanische Eigenschaften }{6}%
+\contentsline {subsubsection}{Verwendung}{7}%
+\contentsline {chapter}{\numberline {3}Experimentelle Methoden}{9}%
+\contentsline {section}{\numberline {3.1}Metallografische Präparation}{9}%
+\contentsline {subsection}{\numberline {3.1.1}Ofenbehandlung }{9}%
+\contentsline {subsection}{\numberline {3.1.2}Trennen}{9}%
+\contentsline {subsection}{\numberline {3.1.3}Einbetten}{9}%
+\contentsline {subsection}{\numberline {3.1.4}Schleifen/Polieren}{9}%
+\contentsline {subsection}{\numberline {3.1.5}Ätzen}{10}%
+\contentsline {subsubsection}{Lichtmikroskop:}{10}%
+\contentsline {section}{\numberline {3.2}Mechanische Prüfverfahren}{12}%
+\contentsline {subsection}{\numberline {3.2.1}Härteprüfung}{12}%
+\contentsline {subsection}{\numberline {3.2.2}Zugversuch}{13}%
+\contentsline {chapter}{\numberline {4}Durchführung}{14}%
+\contentsline {section}{\numberline {4.1}$\alpha _p$-Studie (VR)}{14}%
+\contentsline {section}{\numberline {4.2}Martensit-Bildung}{15}%
+\contentsline {section}{\numberline {4.3}Martensit-Bildung}{15}%
+\contentsline {section}{\numberline {4.4}Martensit-Zerfall}{16}%
+\contentsline {section}{\numberline {4.5}Martensit-Zerfall}{16}%
+\contentsline {chapter}{\numberline {5}Ergebnisse}{18}%
+\contentsline {chapter}{\numberline {6}Diskussion der Ergebnisse}{19}%
+\contentsline {section}{\numberline {6.1}Martensitbildung}{19}%
+\contentsline {paragraph}{$\alpha $ + $\alpha ^\prime $}{19}%
+\contentsline {section}{\numberline {6.2}Martensitzerfall}{19}%
+\contentsline {chapter}{\numberline {7}Fazit und Ausblick}{20}%
+>>>>>>> master
