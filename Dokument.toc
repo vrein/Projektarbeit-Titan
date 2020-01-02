@@ -1,6 +1,6 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {german}{}
-\contentsline {chapter}{Nomenklatur}{iii}%
+\contentsline {chapter}{Nomenklatur}{ii}%
 \contentsline {chapter}{\numberline {1}Einleitung}{2}%
 \contentsline {chapter}{\numberline {2}Metallurgie}{3}%
 \contentsline {section}{\numberline {2.1}Metallurgie von Titan und Titanlegierungen (PH)}{3}%
@@ -40,11 +40,10 @@
 \contentsline {section}{\numberline {4.3}Martensit-Zerfall (TJ)}{26}%
 \contentsline {subsection}{\numberline {4.3.1}Parallelversuch}{26}%
 \contentsline {chapter}{\numberline {5}Ergebnisse}{27}%
-\contentsline {section}{\numberline {5.1}$\alpha _p$-Studie}{27}%
-\contentsline {section}{\numberline {5.2}Martensit-Bildung}{27}%
-\contentsline {section}{\numberline {5.3}Martensit-Zerfall}{27}%
-\contentsline {chapter}{\numberline {6}Diskussion der Ergebnisse}{28}%
-\contentsline {section}{\numberline {6.1}Martensitbildung}{28}%
-\contentsline {paragraph}{$\alpha $ + $\alpha ^\prime $}{28}%
-\contentsline {section}{\numberline {6.2}Martensit-Zerfall}{29}%
-\contentsline {chapter}{\numberline {7}Fazit und Ausblick}{30}%
+\contentsline {section}{\numberline {5.1}$\alpha _p$-Studie (PH)}{27}%
+\contentsline {section}{\numberline {5.2}Short Time Duplex Heat Treatment (STDA - short Time Duplex Anneal) (PH)}{29}%
+\contentsline {chapter}{\numberline {6}Diskussion der Ergebnisse}{32}%
+\contentsline {section}{\numberline {6.1}Martensitbildung}{32}%
+\contentsline {paragraph}{$\alpha $ + $\alpha ^\prime $}{32}%
+\contentsline {section}{\numberline {6.2}Martensit-Zerfall}{33}%
+\contentsline {chapter}{\numberline {7}Fazit und Ausblick}{34}%
