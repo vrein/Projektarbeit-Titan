@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.12)  3 JAN 2020 16:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.12)  3 JAN 2020 17:25
 entering extended mode
 **./Dokument.tex
 (Dokument.tex
@@ -824,9 +824,9 @@ File: Bilder/krz.png Graphic file (type png)
 <use Bilder/krz.png>
 Package pdftex.def Info: Bilder/krz.png  used on input line 14.
 (pdftex.def)             Requested size: 136.5746pt x 136.58076pt.
-[3
 
- <./Bilder/hcp.png (PNG copy)> <./Bilder/krz.png (PNG copy)>]
+LaTeX Warning: Citation `R.R.Boyer.1996' on page 3 undefined on input line 28.
+
 ! Argument of \language@active@arg" has an extra }.
 <inserted text> 
                 \par 
@@ -863,6 +863,9 @@ I could not locate the file with any of these extensions:
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
+[3
+
+ <./Bilder/hcp.png (PNG copy)> <./Bilder/krz.png (PNG copy)>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -2445,19 +2448,54 @@ and I'll forget about whatever was undefined.
 Kapitel 7.
 ) (Kapitel/Letzte_Seite.tex [49
 
-]) [50] (Dokument.bbl) [51
+]) [50] (Dokument.bbl [51
 
-] (Dokument.aux
-(Kapitel/Letzte_Seite.aux) (Kapitel/eid_erkl.aux))
+]
+Underfull \hbox (badness 1472) in paragraph at lines 108--111
+\T1/cmr/m/n/10.95 re-la-ti-on-ships for ti-6al-2sn-4zr-2mo-0.1si.  \T1/cmr/m/it
+/10.95 ME-TALL-UR-GI-CAL TRAN-SAC-TI-ONS A\T1/cmr/m/n/10.95 ,
+ []
+
+! Undefined control sequence.
+l.115   near-\textgreek
+                       {a} ti--4mo alloy.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.128 ...fects of step-quenching on the \textgreek
+                                                  {a}$''$ martensitic
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.129   transformation, \textgreek
+                                  {a} precipitation, and mechanical properti...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) [52] (Dokument.aux (Kapitel/Letzte_Seite.aux) (Kapitel/eid_erkl.aux))
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 17695 strings out of 492895
- 342534 string characters out of 3121867
+ 17722 strings out of 492895
+ 343092 string characters out of 3121867
  371964 words of memory out of 3000000
- 21341 multiletter control sequences out of 15000+200000
+ 21368 multiletter control sequences out of 15000+200000
  557573 words of font info for 90 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,13n,63p,1792b,1071s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2488,9 +2526,9 @@ X 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/vrein_000/AppData/Local
 000/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
 <C:/Users/vrein_000/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
 ts/cm/cmsy8.pfb>
-Output written on Dokument.pdf (55 pages, 1934749 bytes).
+Output written on Dokument.pdf (56 pages, 1938151 bytes).
 PDF statistics:
- 783 PDF objects out of 1000 (max. 8388607)
+ 785 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  67 words of extra memory for PDF output out of 10000 (max. 10000000)
 
