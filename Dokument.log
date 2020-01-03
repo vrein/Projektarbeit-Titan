@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.2)  2 JAN 2020 22:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.2)  3 JAN 2020 13:47
 entering extended mode
 **./Dokument.tex
 (Dokument.tex
@@ -1045,25 +1045,33 @@ Non-PDF special ignored!
 <special> papersize=597.50787pt,845.04684pt
 
 {C:/Users/Patrick/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Bilder/
-ifw_logo.pdf> <./Bilder/TUBraunschweig_4C.pdf>]) (Dokument.toc)
+ifw_logo.pdf> <./Bilder/TUBraunschweig_4C.pdf>]) (Dokument.toc
+! Missing $ inserted.
+<inserted text> 
+                $
+l.45 ..._p - $\alpha '$ WÃ¤rmebehandlung (PH)}{34}
+                                                  %
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[1
+
+
+
+])
 \tf@toc=\write4
 \openout4 = `Dokument.toc'.
 
- [1
 
-
-
-]
-(Kapitel/Nomenklatur.tex [2
-
-]) (Kapitel/Einleitung.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
 Make it at least 13.59999pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[1]
+[2] (Kapitel/Nomenklatur.tex [3
+
+]) (Kapitel/Einleitung.tex [1]
 Kapitel 1.
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--4
@@ -1077,12 +1085,12 @@ Kapitel 2.
 
 LaTeX Warning: Reference `bib:' on page 3 undefined on input line 6.
 
-<Bilder/hcp.png, id=36, 181.42781pt x 198.7425pt>
+<Bilder/hcp.png, id=40, 181.42781pt x 198.7425pt>
 File: Bilder/hcp.png Graphic file (type png)
 <use Bilder/hcp.png>
 Package pdftex.def Info: Bilder/hcp.png  used on input line 11.
 (pdftex.def)             Requested size: 136.5746pt x 149.61145pt.
-<Bilder/krz.png, id=37, 178.41656pt x 178.41656pt>
+<Bilder/krz.png, id=41, 178.41656pt x 178.41656pt>
 File: Bilder/krz.png Graphic file (type png)
 <use Bilder/krz.png>
 Package pdftex.def Info: Bilder/krz.png  used on input line 14.
@@ -1090,12 +1098,12 @@ Package pdftex.def Info: Bilder/krz.png  used on input line 14.
 [3
 
  <./Bilder/hcp.png (PNG copy)> <./Bilder/krz.png (PNG copy)>]
-<Bilder/Tabelle 1.png, id=43, 1882.78406pt x 852.18375pt>
+<Bilder/Tabelle 1.png, id=47, 1882.78406pt x 852.18375pt>
 File: Bilder/Tabelle 1.png Graphic file (type png)
 <use Bilder/Tabelle 1.png>
 Package pdftex.def Info: Bilder/Tabelle 1.png  used on input line 31.
 (pdftex.def)             Requested size: 455.24408pt x 206.04965pt.
-<Bilder/Tabelle 2.png, id=45, 900.36375pt x 1053.1847pt>
+<Bilder/Tabelle 2.png, id=49, 900.36375pt x 1053.1847pt>
 File: Bilder/Tabelle 2.png Graphic file (type png)
 <use Bilder/Tabelle 2.png>
 Package pdftex.def Info: Bilder/Tabelle 2.png  used on input line 41.
@@ -1118,7 +1126,7 @@ ind Ti6Al4V und Ti6Al2Sn4Zr6Mo
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5 <./Bilder/Tabelle 2.png>]
-<Bilder/Abbildung 2.png, id=55, 876.27374pt x 973.38657pt>
+<Bilder/Abbildung 2.png, id=58, 876.27374pt x 973.38657pt>
 File: Bilder/Abbildung 2.png Graphic file (type png)
 <use Bilder/Abbildung 2.png>
 Package pdftex.def Info: Bilder/Abbildung 2.png  used on input line 66.
@@ -1153,7 +1161,7 @@ I suspect you've forgotten a `}', causing me to apply this
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
-<Bilder/Abbildung 6.png, id=59, 1888.05376pt x 580.41844pt>
+<Bilder/Abbildung 6.png, id=62, 1888.05376pt x 580.41844pt>
 File: Bilder/Abbildung 6.png Graphic file (type png)
 <use Bilder/Abbildung 6.png>
 Package pdftex.def Info: Bilder/Abbildung 6.png  used on input line 81.
@@ -1162,12 +1170,12 @@ Package pdftex.def Info: Bilder/Abbildung 6.png  used on input line 81.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [7 <./Bilder/Abbildung 2.png>]
-<Bilder/Abbildung 7.png, id=64, 1805.9972pt x 679.03688pt>
+<Bilder/Abbildung 7.png, id=67, 1805.9972pt x 679.03688pt>
 File: Bilder/Abbildung 7.png Graphic file (type png)
 <use Bilder/Abbildung 7.png>
 Package pdftex.def Info: Bilder/Abbildung 7.png  used on input line 92.
 (pdftex.def)             Requested size: 409.71689pt x 154.05113pt.
-<Bilder/Abbildung 3.png, id=65, 1127.71312pt x 884.55469pt>
+<Bilder/Abbildung 3.png, id=68, 1127.71312pt x 884.55469pt>
 File: Bilder/Abbildung 3.png Graphic file (type png)
 <use Bilder/Abbildung 3.png>
 Package pdftex.def Info: Bilder/Abbildung 3.png  used on input line 103.
@@ -1180,7 +1188,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8 <./Bilder/Abbildung 6.png> <./Bilder/Abbildung 7.png>]
-<Bilder/Abbildung 4.jpg, id=71, 668.7384pt x 501.072pt>
+<Bilder/Abbildung 4.jpg, id=74, 668.7384pt x 501.072pt>
 File: Bilder/Abbildung 4.jpg Graphic file (type jpg)
 <use Bilder/Abbildung 4.jpg>
 Package pdftex.def Info: Bilder/Abbildung 4.jpg  used on input line 114.
@@ -1211,13 +1219,13 @@ you left one out. Proceed, with fingers crossed.
 Underfull \vbox (badness 6542) has occurred while \output is active []
 
  [9 <./Bilder/Abbildung 3.png> <./Bilder/Abbildung 4.jpg>]
-<Bilder/Abbildung 5.png, id=77, 843.15pt x 618.05907pt>
+<Bilder/Abbildung 5.png, id=81, 843.15pt x 618.05907pt>
 File: Bilder/Abbildung 5.png Graphic file (type png)
 <use Bilder/Abbildung 5.png>
 Package pdftex.def Info: Bilder/Abbildung 5.png  used on input line 124.
 (pdftex.def)             Requested size: 318.66946pt x 233.60115pt.
  [10 <./Bilder/Abbildung 5.png>]
-<Bilder/Tabelle 3.png, id=83, 1604.99625pt x 1106.63437pt>
+<Bilder/Tabelle 3.png, id=86, 1604.99625pt x 1106.63437pt>
 File: Bilder/Tabelle 3.png Graphic file (type png)
 <use Bilder/Tabelle 3.png>
 Package pdftex.def Info: Bilder/Tabelle 3.png  used on input line 155.
@@ -1230,44 +1238,42 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [11]
-Underfull \vbox (badness 1412) has occurred while \output is active []
-
- [12 <./Bilder/Tabelle 3.png>]
-<Bilder/Phasendiagram.png, id=91, 387.69844pt x 379.4175pt>
+[12 <./Bilder/Tabelle 3.png>]
+<Bilder/Phasendiagram.png, id=94, 387.69844pt x 379.4175pt>
 File: Bilder/Phasendiagram.png Graphic file (type png)
 <use Bilder/Phasendiagram.png>
-Package pdftex.def Info: Bilder/Phasendiagram.png  used on input line 178.
+Package pdftex.def Info: Bilder/Phasendiagram.png  used on input line 180.
 (pdftex.def)             Requested size: 227.62204pt x 222.76018pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13 <./Bilder/Phasendiagram.png>]
-Overfull \hbox (2.12244pt too wide) in paragraph at lines 215--217
+Overfull \hbox (2.12244pt too wide) in paragraph at lines 217--219
 \T1/cmr/m/n/10.95 la-ti-on microstructure-microtexture-propriétés mé-ca-ni-ques
 -del'alliagedetitaneTi6242. Au-tre. ISAE-
  []
 
 
-Overfull \hbox (2.17982pt too wide) in paragraph at lines 215--217
+Overfull \hbox (2.17982pt too wide) in paragraph at lines 217--219
 \T1/cmr/m/n/10.95 ENSMAEcoleNationaleSupérieuredeMécanique et d'Aérotechique - 
 Poi-tiers, 2016. Français. NNT:
  []
 
-<Bilder/WB.png, id=96, 532.99126pt x 201.75375pt>
+<Bilder/WB.png, id=99, 532.99126pt x 201.75375pt>
 File: Bilder/WB.png Graphic file (type png)
 <use Bilder/WB.png>
-Package pdftex.def Info: Bilder/WB.png  used on input line 227.
+Package pdftex.def Info: Bilder/WB.png  used on input line 229.
 (pdftex.def)             Requested size: 455.24408pt x 172.32884pt.
 [14 <./Bilder/WB.png>]
-<Bilder/LM-975-1h-AC.jpg, id=101, 668.7384pt x 501.072pt>
+<Bilder/LM-975-1h-AC.jpg, id=104, 668.7384pt x 501.072pt>
 File: Bilder/LM-975-1h-AC.jpg Graphic file (type jpg)
 <use Bilder/LM-975-1h-AC.jpg>
-Package pdftex.def Info: Bilder/LM-975-1h-AC.jpg  used on input line 236.
+Package pdftex.def Info: Bilder/LM-975-1h-AC.jpg  used on input line 238.
 (pdftex.def)             Requested size: 409.71689pt x 306.99913pt.
-<Bilder/TiAl.jpg, id=102, 374.90062pt x 463.7325pt>
+<Bilder/TiAl.jpg, id=105, 374.90062pt x 463.7325pt>
 File: Bilder/TiAl.jpg Graphic file (type jpg)
 <use Bilder/TiAl.jpg>
-Package pdftex.def Info: Bilder/TiAl.jpg  used on input line 248.
+Package pdftex.def Info: Bilder/TiAl.jpg  used on input line 250.
 (pdftex.def)             Requested size: 273.14922pt x 337.89214pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1276,7 +1282,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.273 		Schmelzpunkt & 1700^
+l.275 		Schmelzpunkt & 1700^
                             \circ C \\
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1284,7 +1290,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.274 		$
+l.276 		$
          T_{\beta}$ &  995^\circ C $\pm$ 15^\circ C \\
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1295,7 +1301,7 @@ my insertion and my current dilemma will both disappear.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.274 		$T_{\beta}$ &  995^
+l.276 		$T_{\beta}$ &  995^
                            \circ C $\pm$ 15^\circ C \\
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1303,7 +1309,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.274 		$T_{\beta}$ &  995^\circ C $\pm
+l.276 		$T_{\beta}$ &  995^\circ C $\pm
                                        $ 15^\circ C \\
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1311,7 +1317,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.274 		$T_{\beta}$ &  995^\circ C $\pm$ 15^
+l.276 		$T_{\beta}$ &  995^\circ C $\pm$ 15^
                                             \circ C \\
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
@@ -1319,7 +1325,7 @@ you left one out. Proceed, with fingers crossed.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.275 		\hline
+l.277 		\hline
               
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1328,316 +1334,316 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 [16 <./Bilder/TiAl.jpg>]
-<Bilder/TiMo.jpg, id=111, 785.93625pt x 405.01312pt>
+<Bilder/TiMo.jpg, id=114, 785.93625pt x 405.01312pt>
 File: Bilder/TiMo.jpg Graphic file (type jpg)
 <use Bilder/TiMo.jpg>
-Package pdftex.def Info: Bilder/TiMo.jpg  used on input line 305.
+Package pdftex.def Info: Bilder/TiMo.jpg  used on input line 307.
 (pdftex.def)             Requested size: 273.14922pt x 140.76172pt.
 
-Underfull \hbox (badness 2970) in paragraph at lines 326--326
+Underfull \hbox (badness 2970) in paragraph at lines 328--328
 [][]|\T1/cmr/m/n/10.95 Ela-ti-sche Ei-gen-schaf-ten bei Raum-tem-pe-ra-tur von 
 Ti6242Si (An-nea-led 1h
  []
 
 [17 <./Bilder/TiMo.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 347--350
+Underfull \hbox (badness 10000) in paragraph at lines 349--352
 
  []
 
-<Bilder/Compressor spool.png, id=116, 408.77719pt x 475.02469pt>
+<Bilder/Compressor spool.png, id=119, 408.77719pt x 475.02469pt>
 File: Bilder/Compressor spool.png Graphic file (type png)
 <use Bilder/Compressor spool.png>
-Package pdftex.def Info: Bilder/Compressor spool.png  used on input line 356.
+Package pdftex.def Info: Bilder/Compressor spool.png  used on input line 358.
 (pdftex.def)             Requested size: 204.85844pt x 238.06262pt.
 
-Underfull \hbox (badness 1199) in paragraph at lines 356--356
+Underfull \hbox (badness 1199) in paragraph at lines 358--358
 [][]|\T1/cmr/m/n/9 Com-pres-sor spool-for GE CF6 class en-gi-ne
  []
 
-<Bilder/Impeller.png, id=117, 424.58624pt x 348.55219pt>
+<Bilder/Impeller.png, id=120, 424.58624pt x 348.55219pt>
 File: Bilder/Impeller.png Graphic file (type png)
 <use Bilder/Impeller.png>
-Package pdftex.def Info: Bilder/Impeller.png  used on input line 359.
+Package pdftex.def Info: Bilder/Impeller.png  used on input line 361.
 (pdftex.def)             Requested size: 204.85844pt x 168.17537pt.
 
-Overfull \hbox (30.36156pt too wide) in paragraph at lines 363--363
+Overfull \hbox (30.36156pt too wide) in paragraph at lines 365--365
 [][]|\T1/cmr/m/n/9 Blä-
  []
 
 
-Overfull \hbox (24.91495pt too wide) in paragraph at lines 363--363
+Overfull \hbox (24.91495pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 ser
  []
 
 
-Overfull \hbox (28.9494pt too wide) in paragraph at lines 363--363
+Overfull \hbox (28.9494pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 und
  []
 
 
-Overfull \hbox (30.51357pt too wide) in paragraph at lines 363--363
+Overfull \hbox (30.51357pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 Ver-
  []
 
 
-Overfull \hbox (33.31636pt too wide) in paragraph at lines 363--363
+Overfull \hbox (33.31636pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 dich-
  []
 
 
-Overfull \hbox (24.86357pt too wide) in paragraph at lines 363--363
+Overfull \hbox (24.86357pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 ter
  []
 
 
-Overfull \hbox (26.43542pt too wide) in paragraph at lines 363--363
+Overfull \hbox (26.43542pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 des
  []
 
 
-Overfull \hbox (39.73703pt too wide) in paragraph at lines 363--363
+Overfull \hbox (39.73703pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 JT9D-
  []
 
 
-Overfull \hbox (63.73177pt too wide) in paragraph at lines 363--363
+Overfull \hbox (63.73177pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 Triebwerkes.
  []
 
 
-Overfull \hbox (26.94571pt too wide) in paragraph at lines 363--363
+Overfull \hbox (26.94571pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 das
  []
 
 
-Overfull \hbox (22.78423pt too wide) in paragraph at lines 363--363
+Overfull \hbox (22.78423pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 zu
  []
 
 
-Overfull \hbox (22.78424pt too wide) in paragraph at lines 363--363
+Overfull \hbox (22.78424pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 28
  []
 
 
-Overfull \hbox (21.24295pt too wide) in paragraph at lines 363--363
+Overfull \hbox (21.24295pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 %
  []
 
 
-Overfull \hbox (26.43542pt too wide) in paragraph at lines 363--363
+Overfull \hbox (26.43542pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 des
  []
 
 
-Overfull \hbox (34.98543pt too wide) in paragraph at lines 363--363
+Overfull \hbox (34.98543pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 Flug-
  []
 
 
-Overfull \hbox (25.35654pt too wide) in paragraph at lines 363--363
+Overfull \hbox (25.35654pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 ge-
  []
 
 
-Overfull \hbox (34.85764pt too wide) in paragraph at lines 363--363
+Overfull \hbox (34.85764pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 wich-
  []
 
 
-Overfull \hbox (24.89412pt too wide) in paragraph at lines 363--363
+Overfull \hbox (24.89412pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 tes
  []
 
 
-Overfull \hbox (26.94571pt too wide) in paragraph at lines 363--363
+Overfull \hbox (26.94571pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 aus
  []
 
 
-Overfull \hbox (25.8668pt too wide) in paragraph at lines 363--363
+Overfull \hbox (25.8668pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 Ti-
  []
 
 
-Overfull \hbox (26.89433pt too wide) in paragraph at lines 363--363
+Overfull \hbox (26.89433pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 tan
  []
 
 
-Overfull \hbox (28.9494pt too wide) in paragraph at lines 363--363
+Overfull \hbox (28.9494pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 und
  []
 
 
-Overfull \hbox (29.46313pt too wide) in paragraph at lines 363--363
+Overfull \hbox (29.46313pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 Tit-
  []
 
 
-Overfull \hbox (26.38058pt too wide) in paragraph at lines 363--363
+Overfull \hbox (26.38058pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 an-
  []
 
 
-Overfull \hbox (23.30148pt too wide) in paragraph at lines 363--363
+Overfull \hbox (23.30148pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 le-
  []
 
 
-Overfull \hbox (27.92535pt too wide) in paragraph at lines 363--363
+Overfull \hbox (27.92535pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 gie-
  []
 
 
-Overfull \hbox (30.5115pt too wide) in paragraph at lines 363--363
+Overfull \hbox (30.5115pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 run-
  []
 
 
-Overfull \hbox (27.41159pt too wide) in paragraph at lines 363--363
+Overfull \hbox (27.41159pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 gen
  []
 
 
-Overfull \hbox (26.12718pt too wide) in paragraph at lines 363--363
+Overfull \hbox (26.12718pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 be-
  []
 
 
-Overfull \hbox (35.94pt too wide) in paragraph at lines 363--363
+Overfull \hbox (35.94pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 steht.
  []
 
 
-Overfull \hbox (30.36156pt too wide) in paragraph at lines 363--363
+Overfull \hbox (30.36156pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 Blä-
  []
 
 
-Overfull \hbox (24.91495pt too wide) in paragraph at lines 363--363
+Overfull \hbox (24.91495pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 ser
  []
 
 
-Overfull \hbox (26.94571pt too wide) in paragraph at lines 363--363
+Overfull \hbox (26.94571pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 aus
  []
 
 
-Overfull \hbox (51.80766pt too wide) in paragraph at lines 363--363
+Overfull \hbox (51.80766pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 TiAI6V4.
  []
 
 
-Overfull \hbox (30.51357pt too wide) in paragraph at lines 363--363
+Overfull \hbox (30.51357pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 Ver-
  []
 
 
-Overfull \hbox (33.31636pt too wide) in paragraph at lines 363--363
+Overfull \hbox (33.31636pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 dich-
  []
 
 
-Overfull \hbox (24.86357pt too wide) in paragraph at lines 363--363
+Overfull \hbox (24.86357pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 ter
  []
 
 
-Overfull \hbox (27.4081pt too wide) in paragraph at lines 363--363
+Overfull \hbox (27.4081pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 mit
  []
 
 
-Overfull \hbox (25.8668pt too wide) in paragraph at lines 363--363
+Overfull \hbox (25.8668pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 zu-
  []
 
 
-Overfull \hbox (31.00793pt too wide) in paragraph at lines 363--363
+Overfull \hbox (31.00793pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 neh-
  []
 
 
-Overfull \hbox (33.57675pt too wide) in paragraph at lines 363--363
+Overfull \hbox (33.57675pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 men-
  []
 
 
-Overfull \hbox (26.40488pt too wide) in paragraph at lines 363--363
+Overfull \hbox (26.40488pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 der
  []
 
 
-Overfull \hbox (34.34737pt too wide) in paragraph at lines 363--363
+Overfull \hbox (34.34737pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 Tem-
  []
 
 
-Overfull \hbox (26.12718pt too wide) in paragraph at lines 363--363
+Overfull \hbox (26.12718pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 pe-
  []
 
 
-Overfull \hbox (24.8601pt too wide) in paragraph at lines 363--363
+Overfull \hbox (24.8601pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 ra-
  []
 
 
-Overfull \hbox (25.88762pt too wide) in paragraph at lines 363--363
+Overfull \hbox (25.88762pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 tur
  []
 
 
-Overfull \hbox (26.94571pt too wide) in paragraph at lines 363--363
+Overfull \hbox (26.94571pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 aus
  []
 
 
-Overfull \hbox (51.80766pt too wide) in paragraph at lines 363--363
+Overfull \hbox (51.80766pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 TiAI6V4,
  []
 
 
-Overfull \hbox (25.8668pt too wide) in paragraph at lines 363--363
+Overfull \hbox (25.8668pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 Ti-
  []
 
 
-Overfull \hbox (57.2022pt too wide) in paragraph at lines 363--363
+Overfull \hbox (57.2022pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 Al811folVI
  []
 
 
-Overfull \hbox (28.9494pt too wide) in paragraph at lines 363--363
+Overfull \hbox (28.9494pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 und
  []
 
 
-Overfull \hbox (25.8668pt too wide) in paragraph at lines 363--363
+Overfull \hbox (25.8668pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 Ti-
  []
 
 
-Overfull \hbox (74.1786pt too wide) in paragraph at lines 363--363
+Overfull \hbox (74.1786pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 Al6Zr4Sn2Mo2
  []
 
 
-Overfull \hbox (22.78423pt too wide) in paragraph at lines 363--363
+Overfull \hbox (22.78423pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 [T
  []
 
 
-Overfull \hbox (27.92188pt too wide) in paragraph at lines 363--363
+Overfull \hbox (27.92188pt too wide) in paragraph at lines 365--365
 \T1/cmr/m/n/9 19b| 
  []
 
-<Bilder/Titan.jpg, id=118, 505.89pt x 444.15938pt>
+<Bilder/Titan.jpg, id=121, 505.89pt x 444.15938pt>
 File: Bilder/Titan.jpg Graphic file (type jpg)
 <use Bilder/Titan.jpg>
-Package pdftex.def Info: Bilder/Titan.jpg  used on input line 364.
+Package pdftex.def Info: Bilder/Titan.jpg  used on input line 366.
 (pdftex.def)             Requested size: 204.85844pt x 179.86322pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1685,7 +1691,7 @@ Kapitel 4.
 
 LaTeX Warning: Reference `bib:' on page 24 undefined on input line 4.
 
-<Bilder/Phasendiagramm_beta.png, id=145, 353.06906pt x 274.77657pt>
+<Bilder/Phasendiagramm_beta.png, id=148, 353.06906pt x 274.77657pt>
 File: Bilder/Phasendiagramm_beta.png Graphic file (type png)
 <use Bilder/Phasendiagramm_beta.png>
 Package pdftex.def Info: Bilder/Phasendiagramm_beta.png  used on input line 10.
@@ -1705,7 +1711,7 @@ and I'll forget about whatever was undefined.
 [24
 
  <./Bilder/Phasendiagramm_beta.png>]
-<Bilder/ts-stda.png, id=151, 523.9575pt x 355.3275pt>
+<Bilder/ts-stda.png, id=154, 523.9575pt x 355.3275pt>
 File: Bilder/ts-stda.png Graphic file (type png)
 <use Bilder/ts-stda.png>
 Package pdftex.def Info: Bilder/ts-stda.png  used on input line 43.
@@ -1780,7 +1786,7 @@ and I'll forget about whatever was undefined.
 
 ) (Kapitel/Ergebnisse.tex [26]
 Kapitel 5.
-<Bilder/Abbildung 8.png, id=159, 1722.435pt x 889.07156pt>
+<Bilder/Abbildung 8.png, id=162, 1722.435pt x 889.07156pt>
 File: Bilder/Abbildung 8.png Graphic file (type png)
 <use Bilder/Abbildung 8.png>
 Package pdftex.def Info: Bilder/Abbildung 8.png  used on input line 9.
@@ -1791,7 +1797,7 @@ Package pdftex.def Info: Bilder/Abbildung 8.png  used on input line 9.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [28]
-<Bilder/Abbildung 9.png, id=168, 1391.95032pt x 1075.76906pt>
+<Bilder/Abbildung 9.png, id=171, 1391.95032pt x 1075.76906pt>
 File: Bilder/Abbildung 9.png Graphic file (type png)
 <use Bilder/Abbildung 9.png>
 Package pdftex.def Info: Bilder/Abbildung 9.png  used on input line 78.
@@ -1804,7 +1810,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `!tbp') on input line 87.
 
-<Bilder/Abbildung 10.png, id=173, 1872.9975pt x 402.75468pt>
+<Bilder/Abbildung 10.png, id=176, 1872.9975pt x 402.75468pt>
 File: Bilder/Abbildung 10.png Graphic file (type png)
 <use Bilder/Abbildung 10.png>
 Package pdftex.def Info: Bilder/Abbildung 10.png  used on input line 89.
@@ -1813,7 +1819,7 @@ Package pdftex.def Info: Bilder/Abbildung 10.png  used on input line 89.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `!tbp') on input line 94.
 
-<Bilder/Abbildung 11.png, id=174, 1796.21063pt x 379.4175pt>
+<Bilder/Abbildung 11.png, id=177, 1796.21063pt x 379.4175pt>
 File: Bilder/Abbildung 11.png Graphic file (type png)
 <use Bilder/Abbildung 11.png>
 Package pdftex.def Info: Bilder/Abbildung 11.png  used on input line 96.
@@ -1822,7 +1828,7 @@ Package pdftex.def Info: Bilder/Abbildung 11.png  used on input line 96.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `!tbp') on input line 101.
 
-<Bilder/Abbildung 12.png, id=175, 1689.31125pt x 357.58594pt>
+<Bilder/Abbildung 12.png, id=178, 1689.31125pt x 357.58594pt>
 File: Bilder/Abbildung 12.png Graphic file (type png)
 <use Bilder/Abbildung 12.png>
 Package pdftex.def Info: Bilder/Abbildung 12.png  used on input line 103.
@@ -1831,7 +1837,7 @@ Package pdftex.def Info: Bilder/Abbildung 12.png  used on input line 103.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `!tbp') on input line 108.
 
-<Bilder/Abbildung 13.png, id=176, 1790.94093pt x 375.65344pt>
+<Bilder/Abbildung 13.png, id=179, 1790.94093pt x 375.65344pt>
 File: Bilder/Abbildung 13.png Graphic file (type png)
 <use Bilder/Abbildung 13.png>
 Package pdftex.def Info: Bilder/Abbildung 13.png  used on input line 110.
@@ -1839,9 +1845,125 @@ Package pdftex.def Info: Bilder/Abbildung 13.png  used on input line 110.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (Kapitel/Diskussion_der_Ergebnisse.tex [30 <./Bilder/Abbildung 10.png> <./Bil
-der/Abbildung 11.png> <./Bilder/Abbildung 12.png> <./Bilder/Abbildung 13.png>]
-[31]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30 <./Bilder/Abbildung 10.png> <./Bilder/Abbildung 11.png> <./Bilder/Abbildun
+g 12.png> <./Bilder/Abbildung 13.png>]
+<Bilder/Abbildung 14.png, id=187, 1230.84843pt x 951.555pt>
+File: Bilder/Abbildung 14.png Graphic file (type png)
+<use Bilder/Abbildung 14.png>
+Package pdftex.def Info: Bilder/Abbildung 14.png  used on input line 146.
+(pdftex.def)             Requested size: 409.71689pt x 316.74379pt.
+ [31 <./Bilder/Abbildung 14.png>]
+<Bilder/Abbildung 15.png, id=192, 1077.27469pt x 851.43094pt>
+File: Bilder/Abbildung 15.png Graphic file (type png)
+<use Bilder/Abbildung 15.png>
+Package pdftex.def Info: Bilder/Abbildung 15.png  used on input line 155.
+(pdftex.def)             Requested size: 409.71689pt x 323.81995pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 185.
+
+<Bilder/Abbildung 16.png, id=193, 1536.49031pt x 328.22626pt>
+File: Bilder/Abbildung 16.png Graphic file (type png)
+<use Bilder/Abbildung 16.png>
+Package pdftex.def Info: Bilder/Abbildung 16.png  used on input line 187.
+(pdftex.def)             Requested size: 409.71689pt x 87.52043pt.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 192.
+
+<Bilder/Abbildung 17.png, id=194, 1696.08656pt x 355.3275pt>
+File: Bilder/Abbildung 17.png Graphic file (type png)
+<use Bilder/Abbildung 17.png>
+Package pdftex.def Info: Bilder/Abbildung 17.png  used on input line 194.
+(pdftex.def)             Requested size: 409.71689pt x 85.83336pt.
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `!tbp') on input line 199.
+
+<Bilder/Abbildung 18.png, id=195, 1714.90688pt x 356.0803pt>
+File: Bilder/Abbildung 18.png Graphic file (type png)
+<use Bilder/Abbildung 18.png>
+Package pdftex.def Info: Bilder/Abbildung 18.png  used on input line 201.
+(pdftex.def)             Requested size: 409.71689pt x 85.06981pt.
+[32 <./Bilder/Abbildung 15.png>] [33 <./Bilder/Abbildung 16.png> <./Bilder/Abbi
+ldung 17.png> <./Bilder/Abbildung 18.png>]
+! Undefined control sequence.
+l.237 \pagebraek
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.239 ...lpha_p - $\alpha'$ WÃ¤rmebehandlung (PH)}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34]
+<Bilder/Abbildung 19.png, id=210, 1324.19719pt x 998.22937pt>
+File: Bilder/Abbildung 19.png Graphic file (type png)
+<use Bilder/Abbildung 19.png>
+Package pdftex.def Info: Bilder/Abbildung 19.png  used on input line 248.
+(pdftex.def)             Requested size: 409.71689pt x 308.85387pt.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.249 ...mikroskop bei verschiedenen AuflÃ¶sungen}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.249 ...mikroskop bei verschiedenen AuflÃ¶sungen}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.272 ...ehandlung, $\alpha_p - $\alpha'$ GefÃ¼ge}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.272 ...ehandlung, $\alpha_p - $\alpha'$ GefÃ¼ge}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.279 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+[35 <./Bilder/Abbildung 19.png>]) (Kapitel/Diskussion_der_Ergebnisse.tex
+[36]
 Kapitel 6.
 ! Undefined control sequence.
 <argument> \textdegree 
@@ -1912,7 +2034,7 @@ and I'll forget about whatever was undefined.
 
 Underfull \vbox (badness 5667) has occurred while \output is active []
 
- [32
+ [37
 
 ]
 ! Undefined control sequence.
@@ -1926,11 +2048,11 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-) (Kapitel/Fazit_und_Ausblick.tex [33]
+) (Kapitel/Fazit_und_Ausblick.tex [38]
 Kapitel 7.
-) (Kapitel/Letzte_Seite.tex [34
+) (Kapitel/Letzte_Seite.tex [39
 
-]) [35]
+]) [40]
 
 LaTeX Warning: Empty bibliography on input line 177.
 
@@ -1943,13 +2065,13 @@ Package logreq Info: Writing requests to 'Dokument.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25127 strings out of 492484
- 487669 string characters out of 3120696
- 902148 words of memory out of 3000000
- 29156 multiletter control sequences out of 15000+200000
+ 25184 strings out of 492484
+ 488986 string characters out of 3120696
+ 903250 words of memory out of 3000000
+ 29207 multiletter control sequences out of 15000+200000
  557573 words of font info for 90 fonts, out of 3000000 for 9000
  1143 hyphenation exceptions out of 8191
- 51i,12n,67p,1800b,1813s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 51i,13n,67p,1800b,1824s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
 0\ecrm0900.pk> <C:\Users\Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknap
 pen/ec/dpi600\ecbx0900.pk> <C:\Users\Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/
@@ -1976,9 +2098,9 @@ mr8.pfb><C:/Users/Patrick/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
 amsfonts/cm/cmsy10.pfb><C:/Users/Patrick/AppData/Local/Programs/MiKTeX 2.9/font
 s/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Patrick/AppData/Local/Programs/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Dokument.pdf (38 pages, 16693939 bytes).
+Output written on Dokument.pdf (44 pages, 25583475 bytes).
 PDF statistics:
- 745 PDF objects out of 1000 (max. 8388607)
+ 777 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 152 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 182 words of extra memory for PDF output out of 10000 (max. 10000000)
 
