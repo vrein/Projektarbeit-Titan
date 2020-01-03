@@ -1,7 +1,9 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: Dokument.aux
+The style file: unsrt.bst
 A level-1 auxiliary file: Kapitel/Letzte_Seite.aux
 A level-1 auxiliary file: Kapitel/eid_erkl.aux
-I found no \citation commands---while reading file Dokument.aux
-I found no \bibdata command---while reading file Dokument.aux
-I found no \bibstyle command---while reading file Dokument.aux
-(There were 3 error messages)
+Database file #1: Literatur.bib
+Warning--empty author and editor in Kurzskript
+Warning--empty year in Kurzskript
+Warning--empty year in Skript
+(There were 3 warnings)
