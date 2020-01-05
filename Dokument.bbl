@@ -1,7 +1,7 @@
 \begin{thebibliography}{10}
 
 \bibitem{C.Leyens.2005}
-M.~Peters {C. Leyens}.
+{C. Leyens} and {M. Peters}.
 \newblock {\em Titanium and titanium alloys: Fundamentals and applications}.
 \newblock Wiley-VCH, Weinheim, 1. ed., 2. reprint edition, 2005.
 
@@ -52,27 +52,23 @@ Rodney Boyer, Gerhard Welsch, and E.~W. Collings.
 \newblock An overview on the use of titanium in the aerospace industry.
 \newblock {\em Materials Science and Engineering}, (A 213):103--114, 1996.
 
-\bibitem{A.D.KhawajiaI.K.KutubkhanahaJ.M.Wieb.2008}
-{A.D. Khawajia, I.K. Kutubkhanaha, J.M. Wieb}.
-\newblock Advances in seawater desalination technologies.
-\newblock {\em Desalination}, (221):47--69, 2008.
-
 \bibitem{M.GeethaA.K.SinghR.AsokamaniA.K.Gogia.2009}
 {M. Geetha, A.K. Singh, R. Asokamani, A.K. Gogia}.
 \newblock Ti based biomaterials, the ultimate choice for orthopaedic implants
   -- a review.
 \newblock {\em Progress in Materials Science}, (54):397--425, 2009.
 
+\bibitem{ImmanuelFreiherrvonThungen.}
+{Immanuel Freiherr von Thungen}.
+\newblock {\em Effet dwell: relation
+  microstructure-microtexture-propri{\'e}t{\'e}s
+  m{\'e}caniquesdel'alliagedetitaneTi6242. Autre.}
+\newblock Dissertation.
+
 \bibitem{Zwicker.2014}
 U.~Zwicker.
 \newblock {\em Titan und Titanlegierungen}.
 \newblock Springer, Berlin, Heidelberg, 2014.
-
-\bibitem{DavidBenjamin.19801980}
-{David Benjamin} and {Craig W. Kirkpatrick}.
-\newblock Metals handbook: Stainless steels, tool materials and special-purpose
-  metals.
-\newblock {\em Metals handbook}, 3, 1980.
 
 \bibitem{Davis.1990}
 Joseph~R. Davis, editor.
@@ -91,8 +87,22 @@ N.~Eswara Prasad and R.~J.~H. Wanhill, editors.
 \newblock {\em Aerospace materials and material technologies}.
 \newblock Indian Institute of Metals series. Springer, Singapore, 2017.
 
-\bibitem{.}
-Heat treating of titanium and titanium alloys.
+\bibitem{Morita.2005}
+Tatsuro Morita, Kei Hatsuoka, Takashi Iizuka, and Kazuhiro Kawasaki.
+\newblock Strengthening of ti--6al--4v alloy by short-time duplex heat
+  treatment.
+\newblock {\em MATERIALS TRANSACTIONS}, 46(7):1681--1686, 2005.
+
+\bibitem{A.D.Khawajia.2008}
+{A.D. Khawajia}, {I.K. Kutubkhanaha}, and {J.M. Wieb}.
+\newblock Advances in seawater desalination technologies.
+\newblock {\em Desalination}, (221):47--69, 2008.
+
+\bibitem{DavidBenjamin.1980}
+{David Benjamin} and {Craig W. Kirkpatrick}.
+\newblock Metals handbook: Stainless steels, tool materials and special-purpose
+  metals.
+\newblock {\em Metals handbook}, 3, 1980.
 
 \bibitem{G.LutjeringJ.C.WilliamsA.Gysler.}
 {G. L{\"u}tjering, J. C. Williams, A. Gysler}.
@@ -104,11 +114,6 @@ C.~D. Ingelbrecht.
   microstructure of the titanium alloy ti-4al-4mo-2sn-0.5si (imi 550).
 \newblock {\em Journal of material science}, (20):3034--3040, 1985.
 
-\bibitem{RaghuveerGaddam.}
-{Raghuveer Gaddam}.
-\newblock Microstructure and mechanical properties ti 6242 und ti 64: Influence
-  of h, o and b.
-
 \bibitem{S.L.SEMIATINJ.ETHOMASJr.andP.DADRAS.}
 {S.L. SEMIATIN, J. E THOMAS, Jr., and P. DADRAS}.
 \newblock Processing-microstructure relationships for ti-6al-2sn-4zr-2mo-0.1si.
@@ -117,7 +122,7 @@ C.~D. Ingelbrecht.
 \bibitem{Tarzimoghadam.2015}
 Z.~Tarzimoghadam, S.~Sandl{\"o}bes, K.~G. Pradeep, and D.~Raabe.
 \newblock Microstructure design and mechanical properties in a
-  near-\textgreek{a} ti--4mo alloy.
+  near-$\alpha$ ti--4mo alloy.
 \newblock {\em Acta Materialia}, 97:291--304, 2015.
 
 \bibitem{TIMET.2000}
@@ -130,8 +135,8 @@ TIMET.
 
 \bibitem{Wang.2018}
 C.~H. Wang, H.~Jiang, and G.~H. Cao.
-\newblock Effects of step-quenching on the \textgreek{a}$''$ martensitic
-  transformation, \textgreek{a} precipitation, and mechanical properties of
+\newblock Effects of step-quenching on the $\alpha''$ martensitic
+  transformation, $\alpha$ precipitation, and mechanical properties of
   multiphase ti--10mo alloy.
 \newblock {\em Journal of Materials Science}, 53(16):11765--11778, 2018.
 
