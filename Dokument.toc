@@ -1,58 +1,50 @@
 \babel@toc {german}{}
-\contentsline {chapter}{Nomenklatur}{iii}% 
-\contentsline {chapter}{\numberline {1}Einleitung}{2}% 
-\contentsline {chapter}{\numberline {2}Metallurgie}{3}% 
-\contentsline {section}{\numberline {2.1}Metallurgie von Titan und Titanlegierungen}{3}% 
-\contentsline {subsection}{\numberline {2.1.1}Klassifizierung von Titan und Titanlegierungen}{3}% 
-\contentsline {paragraph}{$\alpha $- und near-$\alpha $-Legierungen}{4}% 
-\contentsline {paragraph}{$\alpha $+$\beta $- Legierungen}{4}% 
-\contentsline {paragraph}{Near-$\beta $- und $\beta $-Legierungen}{4}% 
-\contentsline {paragraph}{CP-Titanium}{5}% 
-\contentsline {section}{\numberline {2.2}Herstellung von Titanlegierungen}{5}% 
-\contentsline {subsection}{\numberline {2.2.1}Herstellung von Titanlegierungen}{7}% 
-\contentsline {subsection}{\numberline {2.2.2}Mikrostrukturen in Titanlegierungen}{8}% 
-\contentsline {section}{\numberline {2.3}Mechanische Eigenschaften von Titanlegierungen}{12}% 
-\contentsline {subsection}{\numberline {2.3.1}Mechanische Eigenschaften von Titanlegierungen}{13}% 
-\contentsline {paragraph}{$\alpha $-Legierungen}{13}% 
-\contentsline {paragraph}{Near-$\alpha $-Legierungen}{13}% 
-\contentsline {paragraph}{$\alpha $ + $\beta $-Legierungen}{14}% 
-\contentsline {paragraph}{Near-$\beta $- and $\beta $-Legierungen}{14}% 
-\contentsline {section}{\numberline {2.4}Verwendung von Titan und Titanlegierungen }{15}% 
-\contentsline {section}{\numberline {2.5}Ti-6242}{16}% 
-\contentsline {subsection}{\numberline {2.5.1}Zusammensetzung}{16}% 
-\contentsline {subsection}{\numberline {2.5.2}Kristallstruktur}{17}% 
-\contentsline {subsection}{\numberline {2.5.3} Physikalische und mechanische Eigenschaften }{19}% 
-\contentsline {subsection}{\numberline {2.5.4}Physikalische und mechanische Eigenschaften }{19}% 
-\contentsline {subsection}{\numberline {2.5.5}Verwendung}{21}% 
-\contentsline {subsection}{\numberline {2.5.6}Verwendung}{21}% 
-\contentsline {chapter}{\numberline {3}Experimentelle Methoden}{23}% 
-\contentsline {section}{\numberline {3.1}Metallografische Pr\IeC {\"a}paration}{23}% 
-\contentsline {subsection}{\numberline {3.1.1}Trennen}{23}% 
-\contentsline {subsection}{\numberline {3.1.2}Einbetten}{23}% 
-\contentsline {subsection}{\numberline {3.1.3}Schleifen/Polieren}{23}% 
-\contentsline {subsection}{\numberline {3.1.4}\IeC {\"A}tzen}{24}% 
-\contentsline {section}{\numberline {3.2}Untersuchung der Mikrostruktur}{24}% 
-\contentsline {subsection}{\numberline {3.2.1}Lichtmikroskop:}{24}% 
-\contentsline {subsection}{\numberline {3.2.2}Rasterelektronenmikroskopie (REM)}{25}% 
-\contentsline {subsection}{\numberline {3.2.3}gro\IeC {\ss }es REM}{26}% 
-\contentsline {section}{\numberline {3.3}Quantitative Analyse der Mikrostruktur}{26}% 
-\contentsline {subsection}{\numberline {3.3.1}Alpha-Prim\IeC {\"a}r Volumenanteil Analyse}{26}% 
-\contentsline {section}{\numberline {3.4}Mechanische Pr\IeC {\"u}fverfahren}{26}% 
-\contentsline {subsection}{\numberline {3.4.1}H\IeC {\"a}rtepr\IeC {\"u}fung}{26}% 
-\contentsline {subsection}{\numberline {3.4.2}Zugversuch}{26}% 
-\contentsline {chapter}{\numberline {4}Durchf\IeC {\"u}hrung}{28}% 
-\contentsline {section}{\numberline {4.1}$\alpha _p$-Studie (VR)}{28}% 
-\contentsline {section}{\numberline {4.2}Martensit-Bildung}{28}% 
-\contentsline {section}{\numberline {4.3}Martensit-Zerfall (TJ)}{29}% 
-\contentsline {subsection}{\numberline {4.3.1}Parallelversuch}{30}% 
-\contentsline {chapter}{\numberline {5}Ergebnisse}{31}% 
-\contentsline {section}{\numberline {5.1}$\alpha _p$-Studie (PH)}{31}% 
-\contentsline {section}{\numberline {5.2}Short Time Duplex Heat Treatment (STDA - short Time Duplex Anneal) (PH)}{33}% 
-\contentsline {section}{\numberline {5.3}$\alpha _p - $\alpha '$ W\IeC {\"a}rmebehandlung (PH)}{44}% 
-\contentsline {section}{\numberline {5.4}Zugversuche (PH)}{46}% 
-\contentsline {chapter}{\numberline {6}Diskussion der Ergebnisse}{47}% 
-\contentsline {section}{\numberline {6.1}Martensitbildung}{47}% 
-\contentsline {paragraph}{$\alpha $ + $\alpha ^\prime $}{47}% 
-\contentsline {section}{\numberline {6.2}Martensit-Zerfall}{48}% 
-\contentsline {chapter}{\numberline {7}Fazit und Ausblick}{49}% 
-\contentsline {chapter}{Literatur}{52}% 
+\contentsline {chapter}{Nomenklatur}{ii}%
+\contentsline {chapter}{\numberline {1}Einleitung}{2}%
+\contentsline {chapter}{\numberline {2}Metallurgie}{3}%
+\contentsline {section}{\numberline {2.1}Metallurgie von Titan und Titanlegierungen (PH)}{3}%
+\contentsline {subsection}{\numberline {2.1.1}Klassifizierung von Titan und Titanlegierungen}{3}%
+\contentsline {paragraph}{CP-Titanium}{5}%
+\contentsline {paragraph}{$\alpha $- und near-$\alpha $-Legierungen}{5}%
+\contentsline {paragraph}{$\alpha $+$\beta $-Legierungen}{6}%
+\contentsline {paragraph}{Metastabile $\beta $-Legierungen}{6}%
+\contentsline {paragraph}{Near-$\beta $- und $\beta $-Legierungen}{6}%
+\contentsline {subsection}{\numberline {2.1.2}Herstellung von Titanlegierungen}{6}%
+\contentsline {subsection}{\numberline {2.1.3}Mikrostrukturen in Titanlegierungen}{7}%
+\contentsline {subsection}{\numberline {2.1.4}Mechanische Eigenschaften von Titanlegierungen}{10}%
+\contentsline {paragraph}{$\alpha $-Legierungen}{10}%
+\contentsline {paragraph}{Near-$\alpha $-Legierungen}{10}%
+\contentsline {paragraph}{$\alpha +\beta $-Legierungen}{10}%
+\contentsline {paragraph}{Near-$\beta $- and $\beta $-Legierungen}{11}%
+\contentsline {subsection}{\numberline {2.1.5}Verwendung von Titan und Titanlegierungen}{12}%
+\contentsline {chapter}{\numberline {3}Experimentelle Methoden}{13}%
+\contentsline {section}{\numberline {3.1}Metallografische Präparation}{13}%
+\contentsline {subsection}{\numberline {3.1.1}Trennen}{13}%
+\contentsline {subsection}{\numberline {3.1.2}Einbetten}{13}%
+\contentsline {subsection}{\numberline {3.1.3}Schleifen/Polieren}{13}%
+\contentsline {subsection}{\numberline {3.1.4}Ätzen}{14}%
+\contentsline {section}{\numberline {3.2}Untersuchung der Mikrostruktur}{14}%
+\contentsline {subsection}{\numberline {3.2.1}Lichtmikroskop:}{14}%
+\contentsline {subsection}{\numberline {3.2.2}Rasterelektronenmikroskopie (REM)}{15}%
+\contentsline {subsection}{\numberline {3.2.3}großes REM}{16}%
+\contentsline {section}{\numberline {3.3}Quantitative Analyse der Mikrostruktur}{16}%
+\contentsline {subsection}{\numberline {3.3.1}Alpha-Primär Volumenanteil Analyse}{16}%
+\contentsline {section}{\numberline {3.4}Mechanische Prüfverfahren}{16}%
+\contentsline {subsection}{\numberline {3.4.1}Härteprüfung}{16}%
+\contentsline {subsection}{\numberline {3.4.2}Zugversuch}{16}%
+\contentsline {chapter}{\numberline {4}Durchführung}{18}%
+\contentsline {section}{\numberline {4.1}$\alpha _p$-Studie (VR)}{18}%
+\contentsline {section}{\numberline {4.2}Martensit-Bildung}{18}%
+\contentsline {section}{\numberline {4.3}Martensit-Zerfall (TJ)}{19}%
+\contentsline {subsection}{\numberline {4.3.1}Parallelversuch}{20}%
+\contentsline {chapter}{\numberline {5}Ergebnisse}{21}%
+\contentsline {section}{\numberline {5.1}$\alpha _p$-Studie (PH)}{21}%
+\contentsline {section}{\numberline {5.2}Short Time Duplex Heat Treatment (STDA - short Time Duplex Anneal) (PH)}{23}%
+\contentsline {section}{\numberline {5.3}$\alpha _p$ - $\alpha '$ Wärmebehandlung (PH)}{29}%
+\contentsline {section}{\numberline {5.4}Zugversuche (PH)}{30}%
+\contentsline {chapter}{\numberline {6}Diskussion der Ergebnisse}{31}%
+\contentsline {section}{\numberline {6.1}Martensitbildung}{31}%
+\contentsline {paragraph}{$\alpha $ + $\alpha ^\prime $}{31}%
+\contentsline {section}{\numberline {6.2}Martensit-Zerfall}{32}%
+\contentsline {chapter}{\numberline {7}Fazit und Ausblick}{33}%
+\contentsline {chapter}{Literatur}{36}%
