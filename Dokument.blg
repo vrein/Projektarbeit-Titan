@@ -1,6 +1,28 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: Dokument.aux
 A level-1 auxiliary file: Kapitel/Letzte_Seite.aux
 A level-1 auxiliary file: Kapitel/eid_erkl.aux
-I found no \bibdata command---while reading file Dokument.aux
-I found no \bibstyle command---while reading file Dokument.aux
-(There were 2 error messages)
+White space in argument---line 195 of file Dokument.aux
+ : \citation{Short
+ :                 Time Duplex Heat Treatment}
+I'm skipping whatever remains of this command
+The style file: unsrt.bst
+Database file #1: Literatur.bib
+Warning--I didn't find a database entry for "ASMInternational.2020"
+Warning--I didn't find a database entry for "Paper.."
+Warning--there's a number but no volume in R.R.Boyer.1996
+Warning--there's a number but no volume in M.PetersJ.KumpfertC.WardC.Leyens.2003
+Warning--there's a number but no volume in A.D.Khawajia.2008
+Warning--there's a number but no volume in M.GeethaA.K.SinghR.AsokamaniA.K.Gogia.2009
+Warning--empty publisher in G.LutjeringJ.C.WilliamsA.Gysler.
+Warning--empty year in G.LutjeringJ.C.WilliamsA.Gysler.
+Warning--there's a number but no volume in A.K.Gogia.2005
+Warning--there's a number but no volume in D.EylonS.FujishiroF.H.Froes.1984
+Warning--empty publisher in Holt.1997
+Warning--empty school in ImmanuelFreiherrvonThungen.
+Warning--empty year in ImmanuelFreiherrvonThungen.
+Warning--there's a number but no volume in Ingelbrecht.1985
+Warning--there's a number but no volume in M.J.Berminghametal..2007
+Warning--empty year in S.L.SEMIATINJ.ETHOMASJr.andP.DADRAS.
+Warning--empty journal in YavarMansouri.
+Warning--empty year in YavarMansouri.
+(There was 1 error message)

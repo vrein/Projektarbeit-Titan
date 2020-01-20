@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.2)  20 JAN 2020 14:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.2)  20 JAN 2020 15:27
 entering extended mode
 **./Dokument.tex
 (Dokument.tex
@@ -758,11 +758,11 @@ File: ./Bilder/TUBraunschweig_4C.pdf Graphic file (type pdf)
 Package pdftex.def Info: ./Bilder/TUBraunschweig_4C.pdf  used on input line 11.
 
 (pdftex.def)             Requested size: 227.62204pt x 84.64775pt.
-<./Bilder/ifw_logo.pdf, id=2, 657.2053pt x 189.70876pt>
-File: ./Bilder/ifw_logo.pdf Graphic file (type pdf)
-<use ./Bilder/ifw_logo.pdf>
-Package pdftex.def Info: ./Bilder/ifw_logo.pdf  used on input line 11.
-(pdftex.def)             Requested size: 273.14922pt x 78.84634pt.
+<./Bilder/ifw_logo.png, id=2, 304.88907pt x 86.57344pt>
+File: ./Bilder/ifw_logo.png Graphic file (type png)
+<use ./Bilder/ifw_logo.png>
+Package pdftex.def Info: ./Bilder/ifw_logo.png  used on input line 11.
+(pdftex.def)             Requested size: 273.14922pt x 77.56396pt.
 
 Overfull \hbox (263.62207pt too wide) in paragraph at lines 8--14
  [] 
@@ -778,111 +778,14 @@ Non-PDF special ignored!
 <special> papersize=597.50787pt,845.04684pt
 
 {C:/Users/Patrick/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Bilder/
-ifw_logo.pdf> <./Bilder/TUBraunschweig_4C.pdf>]) (Dokument.toc)
+ifw_logo.png> <./Bilder/TUBraunschweig_4C.pdf>]) (Dokument.toc [1
+
+
+
+])
 \tf@toc=\write3
 \openout3 = `Dokument.toc'.
 
- [1
-
-
-
-]
-(Kapitel/Nomenklatur.tex
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.23 	$\epsilon$ \>
-                    Dehnung \\[0.2ex]
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-! LaTeX Error: Undefined tab position.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.24 	$\sigma$ \>
-                  Spannung \\[0.2ex]
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 31.
-
-) (Kapitel/Einleitung.tex [1
-
-]
-Kapitel 1.
-
-LaTeX Warning: Citation `Lutjering.2007' on page 2 undefined on input line 5.
-
-
-LaTeX Warning: Citation `ASMInternational.2020' on page 2 undefined on input li
-ne 5.
-
-
-LaTeX Warning: Citation `Lutjering.2007' on page 2 undefined on input line 8.
-
-) (Kapitel/Metallurgie.tex [2
-
-]
-Kapitel 2.
-
-LaTeX Warning: Citation `C.Leyens.2005' on page 3 undefined on input line 5.
-
-
-LaTeX Warning: Citation `Lutjering.2007' on page 3 undefined on input line 5.
-
-<./Bilder/hcp.png, id=33, 181.42781pt x 198.7425pt>
-File: ./Bilder/hcp.png Graphic file (type png)
-<use ./Bilder/hcp.png>
-Package pdftex.def Info: ./Bilder/hcp.png  used on input line 10.
-(pdftex.def)             Requested size: 136.5746pt x 149.61145pt.
-<Bilder/krz.png, id=34, 178.41656pt x 178.41656pt>
-File: Bilder/krz.png Graphic file (type png)
-<use Bilder/krz.png>
-Package pdftex.def Info: Bilder/krz.png  used on input line 13.
-(pdftex.def)             Requested size: 136.5746pt x 136.58076pt.
-[3
-
- <./Bilder/hcp.png (PNG copy)> <./Bilder/krz.png (PNG copy)>]
-<./Bilder/Tabelle 1.png, id=40, 1818.795pt x 720.44156pt>
-File: ./Bilder/Tabelle 1.png Graphic file (type png)
-<use ./Bilder/Tabelle 1.png>
-Package pdftex.def Info: ./Bilder/Tabelle 1.png  used on input line 28.
-(pdftex.def)             Requested size: 409.71689pt x 162.29022pt.
-
-
-LaTeX Warning: Citation `Lutjering.2007' on page 4 undefined on input line 29.
-
-
-LaTeX Warning: Citation `Lutjering.2007' on page 4 undefined on input line 29.
-
-
-LaTeX Warning: Citation `Lutjering.2007' on page 4 undefined on input line 33.
-
-
-LaTeX Warning: Citation `C.Leyens.2005' on page 4 undefined on input line 38.
-
-
-LaTeX Warning: Citation `C.Leyens.2005' on page 4 undefined on input line 41.
-
-
-LaTeX Warning: Citation `Lutjering.2007' on page 4 undefined on input line 41.
-
-
-LaTeX Warning: Citation `Boyer.2007' on page 4 undefined on input line 41.
-
-
-LaTeX Warning: Citation `M.J.Donachie.2010' on page 4 undefined on input line 4
-1.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -890,102 +793,71 @@ Make it at least 13.59999pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[4 <./Bilder/Tabelle 1.png>]
+[2] (Kapitel/Nomenklatur.tex
 
-LaTeX Warning: Citation `C.Leyens.2005' on page 5 undefined on input line 44.
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 32.
 
+) (Kapitel/Einleitung.tex [1
 
-LaTeX Warning: Citation `Lutjering.2007' on page 5 undefined on input line 44.
+]
+Kapitel 1.
 
+LaTeX Warning: Citation `ASMInternational.2020' on page 2 undefined on input li
+ne 5.
 
-LaTeX Warning: Citation `Boyer.2007' on page 5 undefined on input line 44.
+) (Kapitel/Metallurgie.tex [2
 
+]
+Kapitel 2.
+<./Bilder/hcp.png, id=36, 181.42781pt x 198.7425pt>
+File: ./Bilder/hcp.png Graphic file (type png)
+<use ./Bilder/hcp.png>
+Package pdftex.def Info: ./Bilder/hcp.png  used on input line 10.
+(pdftex.def)             Requested size: 136.5746pt x 149.61145pt.
+<Bilder/krz.png, id=37, 178.41656pt x 178.41656pt>
+File: Bilder/krz.png Graphic file (type png)
+<use Bilder/krz.png>
+Package pdftex.def Info: Bilder/krz.png  used on input line 13.
+(pdftex.def)             Requested size: 136.5746pt x 136.58076pt.
+[3
 
-LaTeX Warning: Citation `M.J.Donachie.2010' on page 5 undefined on input line 4
-4.
-
-
-LaTeX Warning: Citation `C.Leyens.2005' on page 5 undefined on input line 49.
-
-
-LaTeX Warning: Citation `Lutjering.2007' on page 5 undefined on input line 49.
-
-
-LaTeX Warning: Citation `Boyer.2007' on page 5 undefined on input line 49.
-
-
-LaTeX Warning: Citation `M.J.Donachie.2010' on page 5 undefined on input line 4
-9.
-
-
-LaTeX Warning: Citation `C.Leyens.2005' on page 5 undefined on input line 51.
-
-
-LaTeX Warning: Citation `Lutjering.2007' on page 5 undefined on input line 51.
-
-
-LaTeX Warning: Citation `Boyer.2007' on page 5 undefined on input line 51.
-
-
-LaTeX Warning: Citation `M.J.Donachie.2010' on page 5 undefined on input line 5
-1.
-
-
-LaTeX Warning: Citation `C.Leyens.2005' on page 5 undefined on input line 53.
-
-
-LaTeX Warning: Citation `Lutjering.2007' on page 5 undefined on input line 53.
-
-
-LaTeX Warning: Citation `Boyer.2007' on page 5 undefined on input line 53.
-
+ <./Bilder/hcp.png (PNG copy)> <./Bilder/krz.png (PNG copy)>]
+<./Bilder/Tabelle 1.png, id=43, 1818.795pt x 720.44156pt>
+File: ./Bilder/Tabelle 1.png Graphic file (type png)
+<use ./Bilder/Tabelle 1.png>
+Package pdftex.def Info: ./Bilder/Tabelle 1.png  used on input line 28.
+(pdftex.def)             Requested size: 409.71689pt x 162.29022pt.
+ [4 <./Bilder/Tabelle 1.png>]
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 5
 8.
+
 ("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 58.
-
-LaTeX Warning: Citation `Lutjering.2007' on page 5 undefined on input line 60.
-
-
-LaTeX Warning: Citation `Lutjering.2007' on page 5 undefined on input line 62.
-
 [5]
-<./Bilder/Abbildung 3.png, id=51, 1127.71312pt x 884.55469pt>
+<./Bilder/Abbildung 3.png, id=53, 1127.71312pt x 884.55469pt>
 File: ./Bilder/Abbildung 3.png Graphic file (type png)
 <use ./Bilder/Abbildung 3.png>
 Package pdftex.def Info: ./Bilder/Abbildung 3.png  used on input line 66.
 (pdftex.def)             Requested size: 318.66946pt x 249.95465pt.
-
-
-LaTeX Warning: Citation `Lutjering.2007' on page 6 undefined on input line 67.
-
-
-LaTeX Warning: Citation `Lutjering.2007' on page 6 undefined on input line 67.
-
-<./Bilder/Abbildung 5.png, id=52, 843.15pt x 618.05907pt>
+<./Bilder/Abbildung 5.png, id=54, 843.15pt x 618.05907pt>
 File: ./Bilder/Abbildung 5.png Graphic file (type png)
 <use ./Bilder/Abbildung 5.png>
 Package pdftex.def Info: ./Bilder/Abbildung 5.png  used on input line 73.
 (pdftex.def)             Requested size: 318.66946pt x 233.60115pt.
 
-LaTeX Warning: Citation `Lutjering.2007' on page 6 undefined on input line 74.
-
-
-LaTeX Warning: Citation `Lutjering.2007' on page 6 undefined on input line 74.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6 <./Bilder/Abbildung 3.png> <./Bilder/Abbildung 5.png>]
-<./Bilder/Abbildung 4.png, id=58, 1292.57906pt x 979.40906pt>
+<./Bilder/Abbildung 4.png, id=60, 1292.57906pt x 979.40906pt>
 File: ./Bilder/Abbildung 4.png Graphic file (type png)
 <use ./Bilder/Abbildung 4.png>
 Package pdftex.def Info: ./Bilder/Abbildung 4.png  used on input line 82.
 (pdftex.def)             Requested size: 273.14922pt x 206.9672pt.
-<./Bilder/Gefüge-Phasendiagramm.png, id=59, 1548.53531pt x 925.95938pt>
+<./Bilder/Gefüge-Phasendiagramm.png, id=61, 1548.53531pt x 925.95938pt>
 File: ./Bilder/Gefüge-Phasendiagramm.png Graphic file (type png)
 <use ./Bilder/Gefüge-Phasendiagramm.png>
 Package pdftex.def Info: ./Bilder/Gefüge-Phasendiagramm.png  used on input lin
@@ -994,184 +866,48 @@ e 93.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7 <./Bilder/Abbildung 4.png> <./Bilder/Gefüge-Phasendiagramm.png>]
-
-LaTeX Warning: Citation `C.Leyens.2005' on page 8 undefined on input line 106.
-
-
-LaTeX Warning: Citation `Lutjering.2007' on page 8 undefined on input line 106.
-
-
-
-LaTeX Warning: Citation `M.J.Donachie.2010' on page 8 undefined on input line 1
-06.
-
-
-LaTeX Warning: Citation `C.Leyens.2005' on page 8 undefined on input line 110.
-
-
-LaTeX Warning: Citation `Lutjering.2007' on page 8 undefined on input line 110.
-
-
-
-LaTeX Warning: Citation `Boyer.2007' on page 8 undefined on input line 112.
-
-
-LaTeX Warning: Citation `M.J.Donachie.2010' on page 8 undefined on input line 1
-12.
-
-
-LaTeX Warning: Citation `C.Leyens.2005' on page 8 undefined on input line 115.
-
-
-LaTeX Warning: Citation `Lutjering.2007' on page 8 undefined on input line 115.
-
-
-
-LaTeX Warning: Citation `M.J.Donachie.2010' on page 8 undefined on input line 1
-15.
-
-
-LaTeX Warning: Citation `C.Leyens.2005' on page 8 undefined on input line 117.
-
-
-LaTeX Warning: Citation `Lutjering.2007' on page 8 undefined on input line 117.
-
-
-
-LaTeX Warning: Citation `Boyer.2007' on page 8 undefined on input line 117.
-
-
-LaTeX Warning: Citation `M.J.Donachie.2010' on page 8 undefined on input line 1
-17.
-
-
-LaTeX Warning: Citation `C.Leyens.2005' on page 8 undefined on input line 119.
-
-
-LaTeX Warning: Citation `Lutjering.2007' on page 8 undefined on input line 119.
-
-
-
-LaTeX Warning: Citation `Boyer.2007' on page 8 undefined on input line 119.
-
-
-LaTeX Warning: Citation `C.Leyens.2005' on page 8 undefined on input line 119.
-
-
-LaTeX Warning: Citation `Lutjering.2007' on page 8 undefined on input line 119.
-
-
-
-LaTeX Warning: Citation `M.J.Donachie.2010' on page 8 undefined on input line 1
-19.
-
-
-LaTeX Warning: Citation `C.Leyens.2005' on page 8 undefined on input line 122.
-
-
-LaTeX Warning: Citation `R.R.Boyer.1996' on page 8 undefined on input line 122.
-
-
-
-LaTeX Warning: Citation `M.PetersJ.KumpfertC.WardC.Leyens.2003' on page 8 undef
-ined on input line 122.
-
-
-LaTeX Warning: Citation `Lutjering.2007' on page 8 undefined on input line 122.
-
-
-
-LaTeX Warning: Citation `A.D.Khawajia.2008' on page 8 undefined on input line 1
-22.
-
-
-LaTeX Warning: Citation `M.GeethaA.K.SinghR.AsokamaniA.K.Gogia.2009' on page 8 
-undefined on input line 122.
-
-
-LaTeX Warning: Citation `C.Leyens.2005' on page 8 undefined on input line 122.
-
-[8]
-
-Package caption Warning: \label without proper reference on input line 137.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `tab:PD-Ti6242' on page 9 undefined on input line 129.
-
-
-
-Package caption Warning: \label without proper reference on input line 166.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `tab:Zusammensetzung' on page 9 undefined on input lin
-e 130.
-
-<Bilder/Phasendiagram.png, id=68, 387.69844pt x 379.4175pt>
+ [7 <./Bilder/Abbildung 4.png> <./Bilder/Gefüge-Phasendiagramm.png>] [8]
+<Bilder/Phasendiagram.png, id=70, 387.69844pt x 379.4175pt>
 File: Bilder/Phasendiagram.png Graphic file (type png)
 <use Bilder/Phasendiagram.png>
 Package pdftex.def Info: Bilder/Phasendiagram.png  used on input line 135.
 (pdftex.def)             Requested size: 227.62204pt x 222.76018pt.
-[9 <./Bilder/Phasendiagram.png>]
 
-LaTeX Warning: Reference `fig:abbildung-7' on page 10 undefined on input line 1
-76.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<Bilder/Abbildung 4.png, id=73, 1292.57906pt x 979.40906pt>
+ [9]
+<Bilder/Abbildung 4.png, id=74, 1292.57906pt x 979.40906pt>
 File: Bilder/Abbildung 4.png Graphic file (type png)
 <use Bilder/Abbildung 4.png>
 Package pdftex.def Info: Bilder/Abbildung 4.png  used on input line 183.
 (pdftex.def)             Requested size: 364.19664pt x 275.9513pt.
 
-LaTeX Warning: Citation `Lutjering.2007' on page 10 undefined on input line 189
-.
+Underfull \vbox (badness 3679) has occurred while \output is active []
 
-[10 <./Bilder/Abbildung 4.png>]
+ [10 <./Bilder/Phasendiagram.png>]
+<./Bilder/TiAl.jpg, id=80, 374.90062pt x 463.7325pt>
+File: ./Bilder/TiAl.jpg Graphic file (type jpg)
+<use ./Bilder/TiAl.jpg>
+Package pdftex.def Info: ./Bilder/TiAl.jpg  used on input line 194.
+(pdftex.def)             Requested size: 273.14922pt x 337.89214pt.
 
-! LaTeX Error: File `Bilder/TiAl2' not found.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.194 ...aphics[width=0.6\textwidth]{Bilder/TiAl2}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+ [11 <./Bilder/Abbildung 4.png>]
 
+LaTeX Warning: Reference `Titanallg' on page 12 undefined on input line 204.
 
-LaTeX Warning: Reference `Titanallg' on page 11 undefined on input line 204.
-
-
-Package caption Warning: \label without proper reference on input line 137.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `tab:PD-Ti6242' on page 11 undefined on input line 205
-.
-
-
-LaTeX Warning: Citation `Prasad.2017' on page 11 undefined on input line 205.
-
-
-LaTeX Warning: Citation `C.Leyens.2005' on page 11 undefined on input line 231.
-
-
-) (Kapitel/Experimentelle_Methoden.tex [11]
+[12 <./Bilder/TiAl.jpg>]) (Kapitel/Experimentelle_Methoden.tex [13]
 Kapitel 3.
 
 Package caption Warning: \label without proper reference on input line 28.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `tab:Einbettpressen' on page 12 undefined on input lin
+LaTeX Warning: Reference `tab:Einbettpressen' on page 14 undefined on input lin
 e 10.
 
-[12
+[14
 
 ]
 
@@ -1182,204 +918,133 @@ LaTeX Warning: No positions in optional float specifier.
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 81.
 
-[13] [14]
+[15] [16]
 Underfull \vbox (badness 3514) has occurred while \output is active []
 
- [15]
-
-! LaTeX Error: File `./Bilder/Spgs-Dehnungs-Kurve_Dehngrenze' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.153 ...{./Bilder/Spgs-Dehnungs-Kurve_Dehngrenze}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-) (Kapitel/alphap-Studie.tex [16]
+ [17]
+<./Bilder/Spgs-Dehnungs-Kurve_Dehngrenze.png, id=108, 320.19624pt x 320.19624pt
+>
+File: ./Bilder/Spgs-Dehnungs-Kurve_Dehngrenze.png Graphic file (type png)
+<use ./Bilder/Spgs-Dehnungs-Kurve_Dehngrenze.png>
+Package pdftex.def Info: ./Bilder/Spgs-Dehnungs-Kurve_Dehngrenze.png  used on i
+nput line 153.
+(pdftex.def)             Requested size: 320.19545pt x 320.19545pt.
+)
+(Kapitel/alphap-Studie.tex [18 <./Bilder/Spgs-Dehnungs-Kurve_Dehngrenze.png>]
 Kapitel 4.
 
-LaTeX Warning: Reference `bib:' on page 17 undefined on input line 8.
+LaTeX Warning: Reference `bib:' on page 19 undefined on input line 8.
 
-[17
+[19
 
 ]
-<./Bilder/Abbildung 8.png, id=105, 1739.7497pt x 872.50969pt>
+<./Bilder/Abbildung 8.png, id=116, 1739.7497pt x 872.50969pt>
 File: ./Bilder/Abbildung 8.png Graphic file (type png)
 <use ./Bilder/Abbildung 8.png>
 Package pdftex.def Info: ./Bilder/Abbildung 8.png  used on input line 42.
 (pdftex.def)             Requested size: 455.24408pt x 228.31165pt.
-<./Bilder/Abbildung 20.png, id=106, 1223.32031pt x 920.68968pt>
+<./Bilder/Abbildung 20.png, id=117, 1223.32031pt x 920.68968pt>
 File: ./Bilder/Abbildung 20.png Graphic file (type png)
 <use ./Bilder/Abbildung 20.png>
 Package pdftex.def Info: ./Bilder/Abbildung 20.png  used on input line 51.
 (pdftex.def)             Requested size: 409.71689pt x 308.35217pt.
-
-
-LaTeX Warning: Citation `Lutjering.2007' on page 18 undefined on input line 56.
-
-
-[18 <./Bilder/Abbildung 8.png>] [19 <./Bilder/Abbildung 20.png>]
-
-LaTeX Warning: Citation `G.LutjeringJ.C.WilliamsA.Gysler.' on page 20 undefined
- on input line 114.
-
-) (Kapitel/Martensitbildung.tex [20]
+ [20 <./Bilder/Abbildung 8.png>] [21 <./Bilder/Abbildung 20.png>])
+(Kapitel/Martensitbildung.tex [22]
 Kapitel 5.
-! Undefined control sequence.
-<argument> \textdegree 
-                       
-l.16 ...n diesem Schritt Ti6242-Proben   bei 930°
-                                                  C und 950°C  geglüht. Au...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \textdegree 
-                       
-l.16 ...hritt Ti6242-Proben   bei 930°C und 950°
-                                                  C  geglüht. Außerdem sin...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-<./Bilder/Abbildung 9.png, id=118, 1391.95032pt x 1075.76906pt>
+<./Bilder/Abbildung 9.png, id=130, 1391.95032pt x 1075.76906pt>
 File: ./Bilder/Abbildung 9.png Graphic file (type png)
 <use ./Bilder/Abbildung 9.png>
 Package pdftex.def Info: ./Bilder/Abbildung 9.png  used on input line 26.
 (pdftex.def)             Requested size: 409.71689pt x 316.64328pt.
-[21
+[23
 
 ]
-<./Bilder/Abbildung 21.png, id=122, 1115.66812pt x 852.93657pt>
+<./Bilder/Abbildung 21.png, id=134, 1115.66812pt x 852.93657pt>
 File: ./Bilder/Abbildung 21.png Graphic file (type png)
 <use ./Bilder/Abbildung 21.png>
 Package pdftex.def Info: ./Bilder/Abbildung 21.png  used on input line 37.
 (pdftex.def)             Requested size: 364.19664pt x 278.42448pt.
-<./Bilder/Abbildung 10.png, id=123, 1680.2775pt x 622.57594pt>
+<./Bilder/Abbildung 10.png, id=135, 1680.2775pt x 622.57594pt>
 File: ./Bilder/Abbildung 10.png Graphic file (type png)
 <use ./Bilder/Abbildung 10.png>
 Package pdftex.def Info: ./Bilder/Abbildung 10.png  used on input line 44.
 (pdftex.def)             Requested size: 455.24408pt x 168.67723pt.
-<./Bilder/Abbildung 11.png, id=124, 1325.70282pt x 354.57469pt>
+<./Bilder/Abbildung 11.png, id=136, 1325.70282pt x 354.57469pt>
 File: ./Bilder/Abbildung 11.png Graphic file (type png)
 <use ./Bilder/Abbildung 11.png>
 Package pdftex.def Info: ./Bilder/Abbildung 11.png  used on input line 51.
 (pdftex.def)             Requested size: 455.24408pt x 121.7603pt.
-<./Bilder/Abbildung 12.png, id=125, 1243.64626pt x 331.2375pt>
+<./Bilder/Abbildung 12.png, id=137, 1243.64626pt x 331.2375pt>
 File: ./Bilder/Abbildung 12.png Graphic file (type png)
 <use ./Bilder/Abbildung 12.png>
 Package pdftex.def Info: ./Bilder/Abbildung 12.png  used on input line 58.
 (pdftex.def)             Requested size: 455.24408pt x 121.25194pt.
-<./Bilder/Abbildung 13.png, id=126, 1330.21968pt x 349.305pt>
+<./Bilder/Abbildung 13.png, id=138, 1330.21968pt x 349.305pt>
 File: ./Bilder/Abbildung 13.png Graphic file (type png)
 <use ./Bilder/Abbildung 13.png>
 Package pdftex.def Info: ./Bilder/Abbildung 13.png  used on input line 65.
 (pdftex.def)             Requested size: 455.24408pt x 119.54562pt.
- [22 <./Bilder/Abbildung 9.png>] [23 <./Bilder/Abbildung 21.png> <./Bilder/Abbi
-ldung 10.png> <./Bilder/Abbildung 11.png>] [24 <./Bilder/Abbildung 12.png> <./B
+ [24 <./Bilder/Abbildung 9.png>] [25 <./Bilder/Abbildung 21.png> <./Bilder/Abbi
+ldung 10.png> <./Bilder/Abbildung 11.png>] [26 <./Bilder/Abbildung 12.png> <./B
 ilder/Abbildung 13.png>]
-<./Bilder/Abbildung 14.png, id=143, 1230.84843pt x 951.555pt>
+<./Bilder/Abbildung 14.png, id=154, 1230.84843pt x 951.555pt>
 File: ./Bilder/Abbildung 14.png Graphic file (type png)
 <use ./Bilder/Abbildung 14.png>
 Package pdftex.def Info: ./Bilder/Abbildung 14.png  used on input line 99.
 (pdftex.def)             Requested size: 409.71689pt x 316.74379pt.
-<./Bilder/Abbildung 15.png, id=144, 1077.27469pt x 851.43094pt>
+<./Bilder/Abbildung 15.png, id=155, 1077.27469pt x 851.43094pt>
 File: ./Bilder/Abbildung 15.png Graphic file (type png)
 <use ./Bilder/Abbildung 15.png>
 Package pdftex.def Info: ./Bilder/Abbildung 15.png  used on input line 108.
 (pdftex.def)             Requested size: 409.71689pt x 323.81995pt.
- [25 <./Bilder/Abbildung 14.png>] [26 <./Bilder/Abbildung 15.png>]
-<./Bilder/Abbildung 16.png, id=153, 1132.98282pt x 305.64188pt>
+ [27 <./Bilder/Abbildung 14.png>] [28 <./Bilder/Abbildung 15.png>]
+<./Bilder/Abbildung 16.png, id=165, 1132.98282pt x 305.64188pt>
 File: ./Bilder/Abbildung 16.png Graphic file (type png)
 <use ./Bilder/Abbildung 16.png>
 Package pdftex.def Info: ./Bilder/Abbildung 16.png  used on input line 138.
 (pdftex.def)             Requested size: 455.24408pt x 122.80956pt.
-<./Bilder/Abbildung 17.png, id=154, 1242.89343pt x 327.47343pt>
+<./Bilder/Abbildung 17.png, id=166, 1242.89343pt x 327.47343pt>
 File: ./Bilder/Abbildung 17.png Graphic file (type png)
 <use ./Bilder/Abbildung 17.png>
 Package pdftex.def Info: ./Bilder/Abbildung 17.png  used on input line 145.
 (pdftex.def)             Requested size: 455.24408pt x 119.94405pt.
-<./Bilder/Abbildung 18.png, id=155, 1267.73625pt x 328.97906pt>
+<./Bilder/Abbildung 18.png, id=167, 1267.73625pt x 328.97906pt>
 File: ./Bilder/Abbildung 18.png Graphic file (type png)
 <use ./Bilder/Abbildung 18.png>
 Package pdftex.def Info: ./Bilder/Abbildung 18.png  used on input line 152.
 (pdftex.def)             Requested size: 455.24408pt x 118.1362pt.
 
-! Undefined control sequence.
-<argument> \textdegree 
-                       
-l.165 ...dlungskinetik von Alpha zu Beta bei 930°
-                                                  C zu niedrig ist, um beta ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \textdegree 
-                       
-l.166 Bei den Proben, die bei 950 °
-                                    C für 8 und 16 min geglüht wurden, sin...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [27 <./Bilder/Abbildung 16.png> <./Bilder/Abbildung 17.png> <./Bilder/Abbildun
-g 18.png>]) (Kapitel/Martensitzerfall.tex [28]
+ [29 <./Bilder/Abbildung 16.png> <./Bilder/Abbildung 17.png> <./Bilder/Abbildun
+g 18.png>]) (Kapitel/Martensitzerfall.tex [30]
 Kapitel 6.
 
-LaTeX Warning: Citation `Short Time Duplex Heat Treatment' on page 29 undefined
+LaTeX Warning: Citation `Short Time Duplex Heat Treatment' on page 31 undefined
  on input line 8.
 
-! Undefined control sequence.
-<argument> \textasciiacute 
-                           
-l.8 ...iell zerfallen. Das nadelförmige $\alpha´
-                                                  $ wandelt in $\alpha$ + $\...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
+LaTeX Warning: Citation `Paper..' on page 31 undefined on input line 10.
 
-LaTeX Warning: Citation `Paper..' on page 29 undefined on input line 10.
-
-[29
+[31
 
 ]
-<./Bilder/Abbildung 22.png, id=169, 1818.04219pt x 471.26062pt>
+<./Bilder/Abbildung 22.png, id=180, 1818.04219pt x 471.26062pt>
 File: ./Bilder/Abbildung 22.png Graphic file (type png)
 <use ./Bilder/Abbildung 22.png>
 Package pdftex.def Info: ./Bilder/Abbildung 22.png  used on input line 25.
 (pdftex.def)             Requested size: 455.24408pt x 118.00182pt.
-<./Bilder/Abbildung 23.png, id=170, 1796.96344pt x 462.97969pt>
+<./Bilder/Abbildung 23.png, id=181, 1796.96344pt x 462.97969pt>
 File: ./Bilder/Abbildung 23.png Graphic file (type png)
 <use ./Bilder/Abbildung 23.png>
 Package pdftex.def Info: ./Bilder/Abbildung 23.png  used on input line 32.
 (pdftex.def)             Requested size: 455.24408pt x 117.29175pt.
-<./Bilder/Abbildung 24.png, id=171, 1647.90656pt x 428.35031pt>
+<./Bilder/Abbildung 24.png, id=182, 1647.90656pt x 428.35031pt>
 File: ./Bilder/Abbildung 24.png Graphic file (type png)
 <use ./Bilder/Abbildung 24.png>
 Package pdftex.def Info: ./Bilder/Abbildung 24.png  used on input line 39.
 (pdftex.def)             Requested size: 455.24408pt x 118.33592pt.
-<./Bilder/Abbildung 25.png, id=172, 1734.48pt x 448.67625pt>
+<./Bilder/Abbildung 25.png, id=183, 1734.48pt x 448.67625pt>
 File: ./Bilder/Abbildung 25.png Graphic file (type png)
 <use ./Bilder/Abbildung 25.png>
 Package pdftex.def Info: ./Bilder/Abbildung 25.png  used on input line 46.
@@ -1392,1094 +1057,99 @@ Overfull \hbox (155.24377pt too wide) in paragraph at lines 76--1
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [30 <./Bilder/Abbildung 22.png> <./Bilder/Abbildung 23.png> <./Bilder/Abbildun
+ [32 <./Bilder/Abbildung 22.png> <./Bilder/Abbildung 23.png> <./Bilder/Abbildun
 g 24.png>]
-[31 <./Bilder/Abbildung 25.png>]
+[33 <./Bilder/Abbildung 25.png>]
 Kapitel 7.
-! Undefined control sequence.
-<argument> \textdegree 
-                       
-l.6 Dafür werden Ti-6242 Proben bei 983 °
-                                           C für 60 min geglüht und dann w...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+<./Bilder/SQ.png, id=194, 1586.92876pt x 797.22844pt>
+File: ./Bilder/SQ.png Graphic file (type png)
+<use ./Bilder/SQ.png>
+Package pdftex.def Info: ./Bilder/SQ.png  used on input line 13.
+(pdftex.def)             Requested size: 409.71689pt x 205.8269pt.
+[34
 
-! Undefined control sequence.
-<argument> \textdegree 
-                       
-l.8 ...en in diesem Schritt  die Proben bei  610°
-                                                  C  für 30 min angelassen ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-! LaTeX Error: File `Bilder/SQ' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.13 ...degraphics[width=0.9\textwidth]{Bilder/SQ}
-                                                  }
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-<./Bilder/Abbildung 19.png, id=183, 1294.08469pt x 489.32813pt>
+ <./Bilder/SQ.png>]
+<./Bilder/Abbildung 19.png, id=200, 1294.08469pt x 489.32813pt>
 File: ./Bilder/Abbildung 19.png Graphic file (type png)
 <use ./Bilder/Abbildung 19.png>
 Package pdftex.def Info: ./Bilder/Abbildung 19.png  used on input line 25.
 (pdftex.def)             Requested size: 409.71689pt x 154.92316pt.
-[32
-
-]
-<./Bilder/Abbildung 26.png, id=187, 1742.76094pt x 662.475pt>
+<./Bilder/Abbildung 26.png, id=201, 1742.76094pt x 662.475pt>
 File: ./Bilder/Abbildung 26.png Graphic file (type png)
 <use ./Bilder/Abbildung 26.png>
 Package pdftex.def Info: ./Bilder/Abbildung 26.png  used on input line 38.
 (pdftex.def)             Requested size: 455.24408pt x 173.04811pt.
-<./Bilder/Abbildung 27.png, id=188, 1749.53625pt x 667.74469pt>
+<./Bilder/Abbildung 27.png, id=202, 1749.53625pt x 667.74469pt>
 File: ./Bilder/Abbildung 27.png Graphic file (type png)
 <use ./Bilder/Abbildung 27.png>
 Package pdftex.def Info: ./Bilder/Abbildung 27.png  used on input line 45.
 (pdftex.def)             Requested size: 455.24408pt x 173.75217pt.
- [33 <./Bilder/Abbildung 19.png> <./Bilder/Abbildung 26.png>]
-! Undefined control sequence.
-<argument> \textdegree 
-                       
-l.75 ...ar bzw. war diese Transformation bei 610°
-                                                  C so langsam, dass sie inn...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-) (Kapitel/Zugversuche.tex [34 <./Bilder/Abbildung 27.png>]
+ [35 <./Bilder/Abbildung 19.png> <./Bilder/Abbildung 26.png>]) (Kapitel/Zugvers
+uche.tex [36 <./Bilder/Abbildung 27.png>]
 Kapitel 8.
 
-! Package array Error:  Illegal pream-token (\centering): `c' used.
+Overfull \hbox (240.2824pt too wide) in paragraph at lines 10--32
+ [][] 
+ []
 
-See the array package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 	\centering
-               
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+) (Kapitel/Fazit_und_Ausblick.tex [37
 
+]
+Kapitel 9.
+) (Kapitel/Letzte_Seite.tex [38
 
-! LaTeX Error: Not in outer par mode.
+]) [39] (Dokument.bbl [40
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 	\begin{table}(
-                   |c|c|c|c|c|c|c|c|c|)
-You've lost some text.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+]
+Underfull \hbox (badness 1314) in paragraph at lines 89--94
+[]\T1/cmr/m/n/10.95 Immanuel Frei-herr von Thun-gen.  \T1/cmr/m/it/10.95 Ef-fet
+ dwell: re-la-ti-on microstructure-microtexture-
+ []
 
-! Undefined control sequence.
-\@float@Hx ...ltovf \fi \global \setbox \@currbox 
-                                                  \color@vbox \normalcolor \...
-l.7 	\begin{table}(
-                   |c|c|c|c|c|c|c|c|c|)
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-! Missing number, treated as zero.
-<to be read again> 
-                   \vbox 
-l.7 	\begin{table}(
-                   |c|c|c|c|c|c|c|c|c|)
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
+Underfull \hbox (badness 1472) in paragraph at lines 118--121
+\T1/cmr/m/n/10.95 re-la-ti-on-ships for ti-6al-2sn-4zr-2mo-0.1si.  \T1/cmr/m/it
+/10.95 ME-TALL-UR-GI-CAL TRAN-SAC-TI-ONS A\T1/cmr/m/n/10.95 ,
+ []
 
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.8 		\hline
-            
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
+) [41] (Dokument.aux (Kapitel/Letzte_Seite.aux) (Kapitel/eid_erkl.aux))
 
-! Missing } inserted.
-<inserted text> 
-                }
-l.9 		Probe &
-              Bezeichnung & $d_0$ [mm] & $S_0$ [mm^2] & E [GPa] & $R_{p0,2}$...
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
+LaTeX Warning: There were undefined references.
 
-! Missing } inserted.
-<inserted text> 
-                }
-l.9 		Probe &
-              Bezeichnung & $d_0$ [mm] & $S_0$ [mm^2] & E [GPa] & $R_{p0,2}$...
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.9 		Probe &
-              Bezeichnung & $d_0$ [mm] & $S_0$ [mm^2] & E [GPa] & $R_{p0,2}$...
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.9 		Probe &
-              Bezeichnung & $d_0$ [mm] & $S_0$ [mm^2] & E [GPa] & $R_{p0,2}$...
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.9 		Probe &
-              Bezeichnung & $d_0$ [mm] & $S_0$ [mm^2] & E [GPa] & $R_{p0,2}$...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.9 		Probe & Bezeichnung &
-                            $d_0$ [mm] & $S_0$ [mm^2] & E [GPa] & $R_{p0,2}$...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.9 		Probe & Bezeichnung & $d_0$ [mm] &
-                                         $S_0$ [mm^2] & E [GPa] & $R_{p0,2}$...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.9 ...obe & Bezeichnung & $d_0$ [mm] & $S_0$ [mm^
-                                                  2] & E [GPa] & $R_{p0,2}$ ...
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.9 ...& Bezeichnung & $d_0$ [mm] & $S_0$ [mm^2] &
-                                                   E [GPa] & $R_{p0,2}$ [MPa...
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.9 ...& Bezeichnung & $d_0$ [mm] & $S_0$ [mm^2] &
-                                                   E [GPa] & $R_{p0,2}$ [MPa...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.9 ...ung & $d_0$ [mm] & $S_0$ [mm^2] & E [GPa] &
-                                                   $R_{p0,2}$ [MPa]& $R_m$ [...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.9 ... $S_0$ [mm^2] & E [GPa] & $R_{p0,2}$ [MPa]&
-                                                   $R_m$ [MPa]& $A_g$ [\%]& ...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.9 ... & E [GPa] & $R_{p0,2}$ [MPa]& $R_m$ [MPa]&
-                                                   $A_g$ [\%]& $A$ [\%]\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.9 ... $R_{p0,2}$ [MPa]& $R_m$ [MPa]& $A_g$ [\%]&
-                                                   $A$ [\%]\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.11 		1 &
-           AR1 & 5,06 & 20,11 & 128 & 956 & 1019&4,8&17,9 \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.11 		1 & AR1 &
-                 5,06 & 20,11 & 128 & 956 & 1019&4,8&17,9 \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.11 		1 & AR1 & 5,06 &
-                        20,11 & 128 & 956 & 1019&4,8&17,9 \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.11 		1 & AR1 & 5,06 & 20,11 &
-                                128 & 956 & 1019&4,8&17,9 \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.11 		1 & AR1 & 5,06 & 20,11 & 128 &
-                                      956 & 1019&4,8&17,9 \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.11 		1 & AR1 & 5,06 & 20,11 & 128 & 956 &
-                                            1019&4,8&17,9 \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.11 		1 & AR1 & 5,06 & 20,11 & 128 & 956 & 1019&
-                                                 4,8&17,9 \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.11 ...AR1 & 5,06 & 20,11 & 128 & 956 & 1019&4,8&
-                                                  17,9 \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.13 		2 &
-           AR2&5,04&19,95&122&946&1013&5,1&15,7\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.13 		2 & AR2&
-               5,04&19,95&122&946&1013&5,1&15,7\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.13 		2 & AR2&5,04&
-                    19,95&122&946&1013&5,1&15,7\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.13 		2 & AR2&5,04&19,95&
-                          122&946&1013&5,1&15,7\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.13 		2 & AR2&5,04&19,95&122&
-                              946&1013&5,1&15,7\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.13 		2 & AR2&5,04&19,95&122&946&
-                                  1013&5,1&15,7\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.13 		2 & AR2&5,04&19,95&122&946&1013&
-                                       5,1&15,7\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.13 		2 & AR2&5,04&19,95&122&946&1013&5,1&
-                                           15,7\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.15 		3 &
-           983°C/1h/AC + 950°C/16min/WQ + 610°C/16min/AC& 5,11&20,51& 122...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Undefined control sequence.
-<argument> \textdegree 
-                       
-l.15 		3 & 983°
-                C/1h/AC + 950°C/16min/WQ + 610°C/16min/AC& 5,11&20,51& 122...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \textdegree 
-                       
-l.15 		3 & 983°C/1h/AC + 950°
-                               C/16min/WQ + 610°C/16min/AC& 5,11&20,51& 122...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \textdegree 
-                       
-l.15 		3 & 983°C/1h/AC + 950°C/16min/WQ + 610°
-                                                 C/16min/AC& 5,11&20,51& 122...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.15 ...1h/AC + 950°C/16min/WQ + 610°C/16min/AC&
-                                                   5,11&20,51& 122&1015&1085...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.15 ...+ 950°C/16min/WQ + 610°C/16min/AC& 5,11&
-                                                  20,51& 122&1015&1085&2,1&3,0
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.15 ...�C/16min/WQ + 610°C/16min/AC& 5,11&20,51&
-                                                   122&1015&1085&2,1&3,0
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.15 ...min/WQ + 610°C/16min/AC& 5,11&20,51& 122&
-                                                  1015&1085&2,1&3,0
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.15 ...Q + 610°C/16min/AC& 5,11&20,51& 122&1015&
-                                                  1085&2,1&3,0
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.15 ...10°C/16min/AC& 5,11&20,51& 122&1015&1085&
-                                                  2,1&3,0
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.15 ...C/16min/AC& 5,11&20,51& 122&1015&1085&2,1&
-                                                  3,0
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Misplaced \noalign.
-\hline ->\noalign 
-                  {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.16 		\hline
-             
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-! You can't use `\hrule' here except with leaders.
-\hline ->\noalign {\ifnum 0=`}\fi \hrule 
-                                         \@height \arrayrulewidth \futurelet...
-l.16 		\hline
-             
-To put a horizontal rule in an hbox or an alignment,
-you should use \leaders or \hrulefill (see The TeXbook).
-
-! Missing number, treated as zero.
-<to be read again> 
-                   \futurelet 
-l.16 		\hline
-             
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-! Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \futurelet 
-l.16 		\hline
-             
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.17 		4 &
-           983°C/1h/AC + 950°C/16min/WQ + 610°C/16min/AC&5,16& 20,91& 117...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Undefined control sequence.
-<argument> \textdegree 
-                       
-l.17 		4 & 983°
-                C/1h/AC + 950°C/16min/WQ + 610°C/16min/AC&5,16& 20,91& 117...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \textdegree 
-                       
-l.17 		4 & 983°C/1h/AC + 950°
-                               C/16min/WQ + 610°C/16min/AC&5,16& 20,91& 117...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \textdegree 
-                       
-l.17 		4 & 983°C/1h/AC + 950°C/16min/WQ + 610°
-                                                 C/16min/AC&5,16& 20,91& 117...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.17 ...1h/AC + 950°C/16min/WQ + 610°C/16min/AC&
-                                                  5,16& 20,91& 117 & 1007& 1...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.17 ... + 950°C/16min/WQ + 610°C/16min/AC&5,16&
-                                                   20,91& 117 & 1007& 1090& ...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.17 ...�C/16min/WQ + 610°C/16min/AC&5,16& 20,91&
-                                                   117 & 1007& 1090& 1,7&  1...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.17 ...in/WQ + 610°C/16min/AC&5,16& 20,91& 117 &
-                                                   1007& 1090& 1,7&  1,9 \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.17 ...+ 610°C/16min/AC&5,16& 20,91& 117 & 1007&
-                                                   1090& 1,7&  1,9 \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.17 ...�C/16min/AC&5,16& 20,91& 117 & 1007& 1090&
-                                                   1,7&  1,9 \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.17 ...min/AC&5,16& 20,91& 117 & 1007& 1090& 1,7&
-                                                    1,9 \\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.19 		5 &
-           983°C/1h/WQ + 610°C/30min/AC&5,04 &19,95& 120& 952& 1033& 1,9 &...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Undefined control sequence.
-<argument> \textdegree 
-                       
-l.19 		5 & 983°
-                C/1h/WQ + 610°C/30min/AC&5,04 &19,95& 120& 952& 1033& 1,9 &...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \textdegree 
-                       
-l.19 		5 & 983°C/1h/WQ + 610°
-                               C/30min/AC&5,04 &19,95& 120& 952& 1033& 1,9 &...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.19 		5 & 983°C/1h/WQ + 610°C/30min/AC&
-                                          5,04 &19,95& 120& 952& 1033& 1,9 &...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.19 		5 & 983°C/1h/WQ + 610°C/30min/AC&5,04 &
-                                                19,95& 120& 952& 1033& 1,9 &...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.19 ...83°C/1h/WQ + 610°C/30min/AC&5,04 &19,95&
-                                                   120& 952& 1033& 1,9 &2,5\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.19 .../1h/WQ + 610°C/30min/AC&5,04 &19,95& 120&
-                                                   952& 1033& 1,9 &2,5\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.19 ...Q + 610°C/30min/AC&5,04 &19,95& 120& 952&
-                                                   1033& 1,9 &2,5\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.19 ...0°C/30min/AC&5,04 &19,95& 120& 952& 1033&
-                                                   1,9 &2,5\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.19 ...0min/AC&5,04 &19,95& 120& 952& 1033& 1,9 &
-                                                  2,5\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.21 		6 &
-           983°C/1h/WQ + 610°C/30min/AC&5,02& 19,79& 124& 968& 1023 &1,0 &...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Undefined control sequence.
-<argument> \textdegree 
-                       
-l.21 		6 & 983°
-                C/1h/WQ + 610°C/30min/AC&5,02& 19,79& 124& 968& 1023 &1,0 &...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \textdegree 
-                       
-l.21 		6 & 983°C/1h/WQ + 610°
-                               C/30min/AC&5,02& 19,79& 124& 968& 1023 &1,0 &...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.21 		6 & 983°C/1h/WQ + 610°C/30min/AC&
-                                          5,02& 19,79& 124& 968& 1023 &1,0 &...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.21 		6 & 983°C/1h/WQ + 610°C/30min/AC&5,02&
-                                                19,79& 124& 968& 1023 &1,0 &...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.21 ...83°C/1h/WQ + 610°C/30min/AC&5,02& 19,79&
-                                                   124& 968& 1023 &1,0 & 2,0\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.21 .../1h/WQ + 610°C/30min/AC&5,02& 19,79& 124&
-                                                   968& 1023 &1,0 & 2,0\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.21 ...Q + 610°C/30min/AC&5,02& 19,79& 124& 968&
-                                                   1023 &1,0 & 2,0\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.21 ...°C/30min/AC&5,02& 19,79& 124& 968& 1023 &
-                                                  1,0 & 2,0\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.21 ...0min/AC&5,02& 19,79& 124& 968& 1023 &1,0 &
-                                                   2,0\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.23 		7 &
-           983°C/1h/AC + 950°C/16min/WQ&5,17& 20,99& 113& 925& 1042& 1,9& ...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Undefined control sequence.
-<argument> \textdegree 
-                       
-l.23 		7 & 983°
-                C/1h/AC + 950°C/16min/WQ&5,17& 20,99& 113& 925& 1042& 1,9& ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \textdegree 
-                       
-l.23 		7 & 983°C/1h/AC + 950°
-                               C/16min/WQ&5,17& 20,99& 113& 925& 1042& 1,9& ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.23 		7 & 983°C/1h/AC + 950°C/16min/WQ&
-                                          5,17& 20,99& 113& 925& 1042& 1,9& ...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.23 		7 & 983°C/1h/AC + 950°C/16min/WQ&5,17&
-                                                20,99& 113& 925& 1042& 1,9& ...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.23 ...83°C/1h/AC + 950°C/16min/WQ&5,17& 20,99&
-                                                   113& 925& 1042& 1,9& 2,1\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.23 .../1h/AC + 950°C/16min/WQ&5,17& 20,99& 113&
-                                                   925& 1042& 1,9& 2,1\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.23 ...C + 950°C/16min/WQ&5,17& 20,99& 113& 925&
-                                                   1042& 1,9& 2,1\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.23 ...0°C/16min/WQ&5,17& 20,99& 113& 925& 1042&
-                                                   1,9& 2,1\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.23 ...16min/WQ&5,17& 20,99& 113& 925& 1042& 1,9&
-                                                   2,1\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.25 		5 &
-           983°C/1h/AC + 950°C/16min/WQ&5,12& 20,59& 118& 952& 1063& 1,3& ...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Undefined control sequence.
-<argument> \textdegree 
-                       
-l.25 		5 & 983°
-                C/1h/AC + 950°C/16min/WQ&5,12& 20,59& 118& 952& 1063& 1,3& ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-<argument> \textdegree 
-                       
-l.25 		5 & 983°C/1h/AC + 950°
-                               C/16min/WQ&5,12& 20,59& 118& 952& 1063& 1,3& ...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.25 		5 & 983°C/1h/AC + 950°C/16min/WQ&
-                                          5,12& 20,59& 118& 952& 1063& 1,3& ...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.25 		5 & 983°C/1h/AC + 950°C/16min/WQ&5,12&
-                                                20,59& 118& 952& 1063& 1,3& ...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.25 ...83°C/1h/AC + 950°C/16min/WQ&5,12& 20,59&
-                                                   118& 952& 1063& 1,3& 1054...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.25 .../1h/AC + 950°C/16min/WQ&5,12& 20,59& 118&
-                                                   952& 1063& 1,3& 1054 &1,4\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.25 ...C + 950°C/16min/WQ&5,12& 20,59& 118& 952&
-                                                   1063& 1,3& 1054 &1,4\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.25 ...0°C/16min/WQ&5,12& 20,59& 118& 952& 1063&
-                                                   1,3& 1054 &1,4\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.25 ...16min/WQ&5,12& 20,59& 118& 952& 1063& 1,3&
-                                                   1054 &1,4\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.25 ...Q&5,12& 20,59& 118& 952& 1063& 1,3& 1054 &
-                                                  1,4\\
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-! Missing \endgroup inserted.
-<inserted text> 
-                \endgroup 
-l.27 	\end{table}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.27 	\end{table}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.27 	\end{table}
-                 
-I'm guessing that you meant to end an alignment here.
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.27 	\end{table}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.27 	\end{table}
-                 
-(That makes 100 errors; please try again.) 
+ ) 
 Here is how much of TeX's memory you used:
- 18715 strings out of 492484
- 361817 string characters out of 3120696
- 394232 words of memory out of 3000000
+ 18718 strings out of 492484
+ 362341 string characters out of 3120696
+ 394301 words of memory out of 3000000
  22794 multiletter control sequences out of 15000+200000
  556439 words of font info for 93 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,12n,67p,1992b,601s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ecti1095.pk> <C:\Users\Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecbx1440.pk> <C:\Users\Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/
+ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\Patrick\AppData\Local\MiKTeX\2
+.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Patrick\AppData\Lo
+cal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\Patric
+k\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\
+Users\Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1
+728.pk> <C:\Users\Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/
+dpi600\ecbx1200.pk><C:/Users/Patrick/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmex10.pfb><C:/Users/Patrick/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Patrick/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Patri
+ck/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><
+C:/Users/Patrick/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr10.pfb><C:/Users/Patrick/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmr6.pfb><C:/Users/Patrick/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Patrick/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Patrick/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/P
+atrick/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.p
+fb>
+Output written on Dokument.pdf (44 pages, 38752805 bytes).
+PDF statistics:
+ 662 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 177 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-!  ==> Fatal error occurred, no output PDF file produced!
