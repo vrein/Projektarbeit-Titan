@@ -1,11 +1,14 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.2)  5 JAN 2020 20:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7050 64-bit) (preloaded format=pdflatex 2019.6.12)  14 JAN 2020 18:58
 entering extended mode
 **./Dokument.tex
 (Dokument.tex
-LaTeX2e <2019-10-01> patch level 3
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls"
-Document Class: report 2019/10/25 v1.4k Standard LaTeX document class
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fleqn.clo"
+LaTeX2e <2018-12-01>
+
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cl
+s"
+Document Class: report 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fleqn.clo
+"
 File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
 \mathindent=\dimen102
 Applying: [2015/01/01] Make \[ robust on input line 50.
@@ -14,9 +17,10 @@ Already applied: [0000/00/00] Make \[ robust on input line 62.
 Applying: [2015/01/01] Make \] robust on input line 74.
 LaTeX Info: Redefining \] on input line 75.
 Already applied: [0000/00/00] Make \] robust on input line 83.
-) ("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size11.cl
+)
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size11.cl
 o"
-File: size11.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@chapter=\count81
@@ -31,127 +35,126 @@ File: size11.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen103
 )
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
-x.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graph
+icx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.
-sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyva
+l.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphic
-s.sty"
-Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graph
+ics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.st
-y"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.
+sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gra
-phics.cfg"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\g
+raphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: dvips.def on input line 105.
+Package graphics Info: Driver file: dvips.def on input line 99.
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\dvi
-ps.def"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\d
+vips.def"
 File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
 ))
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
 )
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.st
-y"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.
+sty"
 Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
 )
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty
-"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.s
+ty"
 Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
- ("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def"
+
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1enc.def
+"
 File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.st
-y"
-Package: babel 2019/11/14 3.36 The Babel package
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.
+sty"
+Package: babel 2019/05/04 3.31 The Babel package
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.d
-ef"
-File: switch.def 2019/11/14 3.36 Babel switching mechanism
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch
+.def"
+File: switch.def 2019/05/04 3.31 Babel switching mechanism
 )
 *************************************
 * Local config file bblopts.cfg used
 *
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cf
-g"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.
+cfg"
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-german\ger
-man.ldf"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-german\g
+erman.ldf"
 Language: german 2018/12/08 v2.11 German support for babel (pre-1996 orthograph
 y)
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-german\ger
-manb.ldf"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-german\g
+ermanb.ldf"
 Language: germanb 2018/12/08 v2.11 German support for babel (pre-1996 orthograp
 hy)
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.de
-f"
-File: babel.def 2019/11/14 3.36 Babel common definitions
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.
+def"
+File: babel.def 2019/05/04 3.31 Babel common definitions
 \babel@savecnt=\count89
 \U@D=\dimen106
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel
-.def")
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbab
+el.def")
 \bbl@dirlevel=\count90
 )
 Package babel Info: Making " an active character on input line 135.
 )))
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/parskip\parskip.
-sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/parskip\parski
+p.sty"
 Package: parskip 2019-01-16 v2.0c non-zero parskip adjustments
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptio
-ns.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvopt
+ions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcm
-ds.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltx
+cmds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvset
-keys.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvs
+etkeys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwa
-rerr.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\inf
+warerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexc
-mds.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ete
+xcmds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex
-.sty"
-Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.st
-y"
-Package: iftex 2019/11/07 v1.0c TeX engine tests
-)))))
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbo
-x.sty"
-Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifl
+uatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etool
+box.sty"
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count91
 ))
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhd
-r.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancy
+hdr.sty"
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip43
@@ -164,13 +167,13 @@ s
 \f@nch@O@olf=\skip50
 \f@nch@O@orf=\skip51
 )
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.
-sty"
-Package: caption 2019/10/18 v3.4a Customizing captions (AR)
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\captio
+n.sty"
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3
-.sty"
-Package: caption3 2019/09/09 v1.8e caption3 kernel (AR)
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\captio
+n3.sty"
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 64.
 \captionmargin=\dimen107
 \captionmargin@=\dimen108
@@ -179,34 +182,34 @@ Package caption3 Info: TeX engine: e-TeX on input line 64.
 \caption@indent=\dimen111
 \caption@parindent=\dimen112
 \caption@hangindent=\dimen113
-Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count92
-\c@continuedfloat=\count93
+\c@ContinuedFloat=\count93
 )
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.s
-ty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color
+.sty"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\col
-or.cfg"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\c
+olor.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdf
-tex.def"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\p
+dftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multiro
-w.sty"
-Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multi
+row.sty"
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
 \multirow@colwidth=\skip52
 \multirow@cntb=\count94
 \multirow@dima=\skip53
 \bigstrutjot=\dimen114
 )
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.st
+y"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count95
 \float@exts=\toks17
@@ -214,29 +217,27 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks18
 \@floatcapt=\box28
 )
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siunitx.
-sty"
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.s
-ty"
-Package: expl3 2019-11-07 L3 programming layer (loader) 
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siunit
+x.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3
+.sty"
+Package: expl3 2019-05-28 L3 programming layer (loader) 
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3-c
-ode.tex"
-Package: expl3 2019-11-07 L3 programming layer (code)
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3
+-code.tex"
+Package: expl3 2019-05-28 L3 programming layer (code)
 \c_max_int=\count96
 \l_tmpa_int=\count97
 \l_tmpb_int=\count98
 \g_tmpa_int=\count99
 \g_tmpb_int=\count100
-\l__seq_internal_a_int=\count101
-\l__seq_internal_b_int=\count102
-\g__kernel_prg_map_int=\count103
-\c__ior_term_noprompt_ior=\count104
-\c_log_iow=\count105
-\l_iow_line_count_int=\count106
-\l__iow_line_target_int=\count107
-\l__iow_one_indent_int=\count108
-\l__iow_indent_int=\count109
+\g__kernel_prg_map_int=\count101
+\c__ior_term_ior=\count102
+\c_log_iow=\count103
+\l_iow_line_count_int=\count104
+\l__iow_line_target_int=\count105
+\l__iow_one_indent_int=\count106
+\l__iow_indent_int=\count107
 \c_zero_dim=\dimen115
 \c_max_dim=\dimen116
 \l_tmpa_dim=\dimen117
@@ -255,80 +256,78 @@ Package: expl3 2019-11-07 L3 programming layer (code)
 \l_tmpb_muskip=\muskip13
 \g_tmpa_muskip=\muskip14
 \g_tmpb_muskip=\muskip15
-\l_keys_choice_int=\count110
-\l__intarray_loop_int=\count111
+\l_keys_choice_int=\count108
+\l__intarray_loop_int=\count109
 \c__intarray_sp_dim=\dimen121
-\g__intarray_font_int=\count112
-\c__fp_leading_shift_int=\count113
-\c__fp_middle_shift_int=\count114
-\c__fp_trailing_shift_int=\count115
-\c__fp_big_leading_shift_int=\count116
-\c__fp_big_middle_shift_int=\count117
-\c__fp_big_trailing_shift_int=\count118
-\c__fp_Bigg_leading_shift_int=\count119
-\c__fp_Bigg_middle_shift_int=\count120
-\c__fp_Bigg_trailing_shift_int=\count121
-\c__kernel_randint_max_int=\count122
-\g__fp_array_int=\count123
-\l__fp_array_loop_int=\count124
-\l__sort_length_int=\count125
-\l__sort_min_int=\count126
-\l__sort_top_int=\count127
-\l__sort_max_int=\count128
-\l__sort_true_max_int=\count129
-\l__sort_block_int=\count130
-\l__sort_begin_int=\count131
-\l__sort_end_int=\count132
-\l__sort_A_int=\count133
-\l__sort_B_int=\count134
-\l__sort_C_int=\count135
-\l__str_internal_int=\count136
-\c__str_replacement_char_int=\count137
-\l__tl_analysis_normal_int=\count138
-\l__tl_analysis_index_int=\count139
-\l__tl_analysis_nesting_int=\count140
-\l__tl_analysis_type_int=\count141
-\l__regex_internal_a_int=\count142
-\l__regex_internal_b_int=\count143
-\l__regex_internal_c_int=\count144
-\l__regex_balance_int=\count145
-\l__regex_group_level_int=\count146
-\l__regex_mode_int=\count147
-\c__regex_cs_in_class_mode_int=\count148
-\c__regex_cs_mode_int=\count149
-\l__regex_catcodes_int=\count150
-\l__regex_default_catcodes_int=\count151
-\c__regex_catcode_D_int=\count152
-\c__regex_catcode_S_int=\count153
-\c__regex_catcode_L_int=\count154
-\c__regex_catcode_O_int=\count155
-\c__regex_catcode_A_int=\count156
-\c__regex_all_catcodes_int=\count157
-\l__regex_show_lines_int=\count158
-\l__regex_min_state_int=\count159
-\l__regex_max_state_int=\count160
-\l__regex_left_state_int=\count161
-\l__regex_right_state_int=\count162
-\l__regex_capturing_group_int=\count163
-\l__regex_min_pos_int=\count164
-\l__regex_max_pos_int=\count165
-\l__regex_curr_pos_int=\count166
-\l__regex_start_pos_int=\count167
-\l__regex_success_pos_int=\count168
-\l__regex_curr_char_int=\count169
-\l__regex_curr_catcode_int=\count170
-\l__regex_last_char_int=\count171
-\l__regex_case_changed_char_int=\count172
-\l__regex_curr_state_int=\count173
-\l__regex_step_int=\count174
-\l__regex_min_active_int=\count175
-\l__regex_max_active_int=\count176
-\l__regex_replacement_csnames_int=\count177
-\l__regex_match_count_int=\count178
-\l__regex_min_submatch_int=\count179
-\l__regex_submatch_int=\count180
-\l__regex_zeroth_submatch_int=\count181
-\g__regex_trace_regex_int=\count182
+\g__intarray_font_int=\count110
+\c__fp_leading_shift_int=\count111
+\c__fp_middle_shift_int=\count112
+\c__fp_trailing_shift_int=\count113
+\c__fp_big_leading_shift_int=\count114
+\c__fp_big_middle_shift_int=\count115
+\c__fp_big_trailing_shift_int=\count116
+\c__fp_Bigg_leading_shift_int=\count117
+\c__fp_Bigg_middle_shift_int=\count118
+\c__fp_Bigg_trailing_shift_int=\count119
+\c__kernel_randint_max_int=\count120
+\g__fp_array_int=\count121
+\l__fp_array_loop_int=\count122
+\l__sort_length_int=\count123
+\l__sort_min_int=\count124
+\l__sort_top_int=\count125
+\l__sort_max_int=\count126
+\l__sort_true_max_int=\count127
+\l__sort_block_int=\count128
+\l__sort_begin_int=\count129
+\l__sort_end_int=\count130
+\l__sort_A_int=\count131
+\l__sort_B_int=\count132
+\l__sort_C_int=\count133
+\l__tl_analysis_normal_int=\count134
+\l__tl_analysis_index_int=\count135
+\l__tl_analysis_nesting_int=\count136
+\l__tl_analysis_type_int=\count137
+\l__regex_internal_a_int=\count138
+\l__regex_internal_b_int=\count139
+\l__regex_internal_c_int=\count140
+\l__regex_balance_int=\count141
+\l__regex_group_level_int=\count142
+\l__regex_mode_int=\count143
+\c__regex_cs_in_class_mode_int=\count144
+\c__regex_cs_mode_int=\count145
+\l__regex_catcodes_int=\count146
+\l__regex_default_catcodes_int=\count147
+\c__regex_catcode_D_int=\count148
+\c__regex_catcode_S_int=\count149
+\c__regex_catcode_L_int=\count150
+\c__regex_catcode_O_int=\count151
+\c__regex_catcode_A_int=\count152
+\c__regex_all_catcodes_int=\count153
+\l__regex_show_lines_int=\count154
+\l__regex_min_state_int=\count155
+\l__regex_max_state_int=\count156
+\l__regex_left_state_int=\count157
+\l__regex_right_state_int=\count158
+\l__regex_capturing_group_int=\count159
+\l__regex_min_pos_int=\count160
+\l__regex_max_pos_int=\count161
+\l__regex_curr_pos_int=\count162
+\l__regex_start_pos_int=\count163
+\l__regex_success_pos_int=\count164
+\l__regex_curr_char_int=\count165
+\l__regex_curr_catcode_int=\count166
+\l__regex_last_char_int=\count167
+\l__regex_case_changed_char_int=\count168
+\l__regex_curr_state_int=\count169
+\l__regex_step_int=\count170
+\l__regex_min_active_int=\count171
+\l__regex_max_active_int=\count172
+\l__regex_replacement_csnames_int=\count173
+\l__regex_match_count_int=\count174
+\l__regex_min_submatch_int=\count175
+\l__regex_submatch_int=\count176
+\l__regex_zeroth_submatch_int=\count177
+\g__regex_trace_regex_int=\count178
 \c_empty_box=\box29
 \l_tmpa_box=\box30
 \l_tmpb_box=\box31
@@ -372,40 +371,40 @@ Package: expl3 2019-11-07 L3 programming layer (code)
 \l__coffin_display_offset_dim=\dimen144
 \l__coffin_display_x_dim=\dimen145
 \l__coffin_display_y_dim=\dimen146
-\g__char_data_ior=\read1
-
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\l3depre
-cation.def"
-File: l3deprecation.def 2019-04-06 v L3 Deprecated functions
-))
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3back
-end-pdfmode.def"
-File: l3backend-pdfmode.def 2019-04-06 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count183
-\l__pdf_internal_box=\box47
-))
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xpars
-e\xparse.sty"
-Package: xparse 2019-10-11 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count184
-\g__xparse_grabber_int=\count185
-\l__xparse_m_args_int=\count186
-\l__xparse_v_nesting_int=\count187
+\g__file_internal_ior=\read1
+\l__seq_internal_a_int=\count179
+\l__seq_internal_b_int=\count180
+\c__deprecation_minus_one=\count181
 )
-Package: siunitx 2019/10/10 v2.7t A comprehensive (SI) units package
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\l3pdf
+mode.def"
+File: l3pdfmode.def 2019-04-06 v L3 Experimental driver: PDF mode
+\l__driver_internal_box=\box47
+\l__driver_color_stack_int=\count182
+))
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xpa
+rse\xparse.sty"
+Package: xparse 2019-05-28 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count183
+\g__xparse_grabber_int=\count184
+\l__xparse_m_args_int=\count185
+\l__xparse_v_nesting_int=\count186
+)
+Package: siunitx 2018/05/17 v2.7s A comprehensive (SI) units package
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.
-sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstex
+t.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.s
-ty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen
+.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks19
 \ex@=\dimen147
 ))
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
-Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.st
+y"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
 \col@sep=\dimen148
 \ar@mcellbox=\box48
 \extrarowheight=\dimen149
@@ -414,33 +413,33 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \backup@length=\skip61
 \ar@cellbox=\box49
 )
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/l3key
-s2e\l3keys2e.sty"
-Package: l3keys2e 2019-10-11 LaTeX2e option processing using LaTeX3 keys
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/l3k
+eys2e\l3keys2e.sty"
+Package: l3keys2e 2019-05-28 LaTeX2e option processing using LaTeX3 keys
 )
 \l__siunitx_tmp_box=\box50
 \l__siunitx_tmp_dim=\dimen150
-\l__siunitx_tmp_int=\count188
-\l__siunitx_number_mantissa_length_int=\count189
-\l__siunitx_number_uncert_length_int=\count190
-\l__siunitx_round_int=\count191
-\l__siunitx_process_decimal_int=\count192
-\l__siunitx_process_uncertainty_int=\count193
-\l__siunitx_process_fixed_int=\count194
-\l__siunitx_process_integer_min_int=\count195
-\l__siunitx_process_precision_int=\count196
-\l__siunitx_group_min_int=\count197
+\l__siunitx_tmp_int=\count187
+\l__siunitx_number_mantissa_length_int=\count188
+\l__siunitx_number_uncert_length_int=\count189
+\l__siunitx_round_int=\count190
+\l__siunitx_process_decimal_int=\count191
+\l__siunitx_process_uncertainty_int=\count192
+\l__siunitx_process_fixed_int=\count193
+\l__siunitx_process_integer_min_int=\count194
+\l__siunitx_process_precision_int=\count195
+\l__siunitx_group_min_int=\count196
 \l__siunitx_angle_marker_box=\box51
 \l__siunitx_angle_unit_box=\box52
 \l__siunitx_angle_marker_dim=\dimen151
 \l__siunitx_angle_unit_dim=\dimen152
-\l__siunitx_unit_int=\count198
-\l__siunitx_unit_denominator_int=\count199
-\l__siunitx_unit_numerator_int=\count266
-\l__siunitx_unit_prefix_int=\count267
-\l__siunitx_unit_prefix_base_int=\count268
-\l__siunitx_unit_prefix_gram_int=\count269
-\l__siunitx_number_product_int=\count270
+\l__siunitx_unit_int=\count197
+\l__siunitx_unit_denominator_int=\count198
+\l__siunitx_unit_numerator_int=\count199
+\l__siunitx_unit_prefix_int=\count266
+\l__siunitx_unit_prefix_base_int=\count267
+\l__siunitx_unit_prefix_gram_int=\count268
+\l__siunitx_number_product_int=\count269
 \c__siunitx_one_fill_skip=\skip62
 \l__siunitx_table_unit_align_skip=\skip63
 \l__siunitx_table_exponent_dim=\dimen153
@@ -459,50 +458,50 @@ Package: l3keys2e 2019-10-11 LaTeX2e option processing using LaTeX3 keys
 \l__siunitx_table_number_align_skip=\skip64
 \l__siunitx_table_text_align_skip=\skip65
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\trans
-lator.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\tra
+nslator.sty"
 Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
 ))
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.
-sty"
-Package: amsmath 2019/11/16 v2.17d AMS math features
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmat
+h.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
 \@mathmargin=\skip66
 
 For additional information on amsmath, use the `?' option.
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.s
-ty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy
+.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen162
 )
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.s
-ty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn
+.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count271
-LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count272
-\leftroot@=\count273
-LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count274
-\DOTSCASE@=\count275
-LaTeX Info: Redefining \ldots on input line 486.
-LaTeX Info: Redefining \dots on input line 489.
-LaTeX Info: Redefining \cdots on input line 610.
+\inf@bad=\count270
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count271
+\leftroot@=\count272
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count273
+\DOTSCASE@=\count274
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
 \Mathstrutbox@=\box57
 \strutbox@=\box58
 \big@size=\dimen163
-LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count276
-\c@MaxMatrixCols=\count277
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count275
+\c@MaxMatrixCols=\count276
 \dotsspace@=\muskip16
-\c@parentequation=\count278
-\dspbrk@lvl=\count279
+\c@parentequation=\count277
+\dspbrk@lvl=\count278
 \tag@help=\toks21
-\row@=\count280
-\column@=\count281
-\maxfields@=\count282
+\row@=\count279
+\column@=\count280
+\maxfields@=\count281
 \andhelp@=\toks22
 \eqnshift@=\dimen164
 \alignsep@=\dimen165
@@ -514,81 +513,81 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
 \multlinegap=\skip67
 \multlinetaggap=\skip68
 \mathdisplay@stack=\toks24
-LaTeX Info: Redefining \[ on input line 2858.
-LaTeX Info: Redefining \] on input line 2859.
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
 )
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfig\subfig.st
-y"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfig\subfig.
+sty"
 Package: subfig 2005/06/28 ver: 1.3 subfig package
-\c@KVtest=\count283
+\c@KVtest=\count282
 \sf@farskip=\skip69
 \sf@captopadj=\dimen170
 \sf@capskip=\skip70
 \sf@nearskip=\skip71
-\c@subfigure=\count284
-\c@subfigure@save=\count285
-\c@lofdepth=\count286
-\c@subtable=\count287
-\c@subtable@save=\count288
-\c@lotdepth=\count289
+\c@subfigure=\count283
+\c@subfigure@save=\count284
+\c@lofdepth=\count285
+\c@subtable=\count286
+\c@subtable@save=\count287
+\c@lotdepth=\count288
 \sf@top=\skip72
 \sf@bottom=\skip73
 )
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setspac
-e.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setsp
+ace.sty"
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/blindtext\blindt
-ext.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/blindtext\blin
+dtext.sty"
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\xspace.sty
-"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\xspace.s
+ty"
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count290
-\c@Blindtext=\count291
-\c@blind@countparstart=\count292
-\blind@countxx=\count293
-\blindtext@numBlindtext=\count294
-\blind@countyy=\count295
-\c@blindlist=\count296
-\c@blindlistlevel=\count297
-\c@blindlist@level=\count298
-\blind@listitem=\count299
-\c@blind@listcount=\count300
-\c@blind@levelcount=\count301
-\blind@mathformula=\count302
-\blind@Mathformula=\count303
-\c@blind@randomcount=\count304
-\c@blind@randommax=\count305
-\c@blind@pangramcount=\count306
-\c@blind@pangrammax=\count307
+\c@blindtext=\count289
+\c@Blindtext=\count290
+\c@blind@countparstart=\count291
+\blind@countxx=\count292
+\blindtext@numBlindtext=\count293
+\blind@countyy=\count294
+\c@blindlist=\count295
+\c@blindlistlevel=\count296
+\c@blindlist@level=\count297
+\blind@listitem=\count298
+\c@blind@listcount=\count299
+\c@blind@levelcount=\count300
+\blind@mathformula=\count301
+\blind@Mathformula=\count302
+\c@blind@randomcount=\count303
+\c@blind@randommax=\count304
+\c@blind@pangramcount=\count305
+\c@blind@pangrammax=\count306
 )
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb
-.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssy
+mb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfont
-s.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfo
+nts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
-LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty
+"
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count308
-\calc@Bcount=\count309
+\calc@Acount=\count307
+\calc@Bcount=\count308
 \calc@Adimen=\dimen171
 \calc@Bdimen=\dimen172
 \calc@Askip=\skip74
 \calc@Bskip=\skip75
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count310
+\calc@Ccount=\count309
 \calc@Cskip=\skip76
 ) (Dokument.aux (Kapitel/Letzte_Seite.aux) (Kapitel/eid_erkl.aux))
 \openout1 = `Dokument.aux'.
@@ -610,53 +609,59 @@ Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp
--pdf.mkii"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\su
+pp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count311
+\scratchcounter=\count310
 \scratchdimen=\dimen173
 \scratchbox=\box59
-\nofMPsegments=\count312
-\nofMParguments=\count313
+\nofMPsegments=\count311
+\nofMParguments=\count312
 \everyMPshowfont=\toks25
-\MPscratchCnt=\count314
+\MPscratchCnt=\count313
 \MPscratchDim=\dimen174
-\MPnumerator=\count315
-\makeMPintoPDFobject=\count316
+\MPnumerator=\count314
+\makeMPintoPDFobject=\count315
 \everyMPtoPDFconversion=\toks26
 )
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\eps
-topdf-base.sty"
-Package: epstopdf-base 2019/11/24 v2.7 Base part for package epstopdf
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epsto
+pdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.
-sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfex
+t.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdef
-inekeys.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvd
+efinekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdfte
-xcmds.sty"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdf
+texcmds.sty"
 Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.
+sty"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-42.
+38.
 Package grfext Info: Graphics extension search list:
 (grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 460.
+(grfext)             \AppendGraphicsExtensions on input line 456.
 )
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.dfu"
-File: ts1enc.dfu 2019/07/11 v1.2j UTF-8 support for inputenc
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.df
+u"
+File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
    defining Unicode char U+00A4 (decimal 164)
@@ -726,30 +731,26 @@ File: ts1enc.dfu 2019/07/11 v1.2j UTF-8 support for inputenc
    defining Unicode char U+25E6 (decimal 9702)
    defining Unicode char U+25EF (decimal 9711)
    defining Unicode char U+266A (decimal 9834)
-   defining Unicode char U+27E8 (decimal 10216)
-   defining Unicode char U+27E9 (decimal 10217)
    defining Unicode char U+FEFF (decimal 65279)
 )
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\trans
-lator-basic-dictionary-English.dict"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator\tra
+nslator-basic-dictionary-English.dict"
 Dictionary: translator-basic-dictionary, Language: English 
 )
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siunitx-
-abbreviations.cfg"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siunit
+x-abbreviations.cfg"
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 122
-.
+LaTeX Font Info:    Try loading font information for U+msa on input line 122.
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd
-"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.
+fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 122
-.
+LaTeX Font Info:    Try loading font information for U+msb on input line 122.
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd
-"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.
+fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (Kapitel/Titelseite.tex
 <./Bilder/TUBraunschweig_4C.pdf, id=1, 199.74625pt x 74.2775pt>
@@ -777,14 +778,104 @@ Overfull \hbox (19.45007pt too wide) in paragraph at lines 54--66
 Non-PDF special ignored!
 <special> papersize=597.50787pt,845.04684pt
 
-{C:/Users/Patrick/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Bilder/
-ifw_logo.pdf> <./Bilder/TUBraunschweig_4C.pdf>]) (Dokument.toc [1
-
-
-
-])
+{C:/Users/vrein_000/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Bilde
+r/ifw_logo.pdf> <./Bilder/TUBraunschweig_4C.pdf>]) (Dokument.toc)
 \tf@toc=\write3
 \openout3 = `Dokument.toc'.
+
+
+(Kapitel/Einleitung.tex [1
+
+
+
+]
+Kapitel 1.
+) (Kapitel/Metallurgie.tex [2
+
+]
+Kapitel 2.
+
+LaTeX Warning: Citation `C.Leyens.2005' on page 3 undefined on input line 6.
+
+
+LaTeX Warning: Citation `Lutjering.2007' on page 3 undefined on input line 6.
+
+<./Bilder/hcp.png, id=30, 181.42781pt x 198.7425pt>
+File: ./Bilder/hcp.png Graphic file (type png)
+<use ./Bilder/hcp.png>
+Package pdftex.def Info: ./Bilder/hcp.png  used on input line 11.
+(pdftex.def)             Requested size: 136.5746pt x 149.61145pt.
+<Bilder/krz.png, id=31, 178.41656pt x 178.41656pt>
+File: Bilder/krz.png Graphic file (type png)
+<use Bilder/krz.png>
+Package pdftex.def Info: Bilder/krz.png  used on input line 14.
+(pdftex.def)             Requested size: 136.5746pt x 136.58076pt.
+[3
+
+ <./Bilder/hcp.png (PNG copy)> <./Bilder/krz.png (PNG copy)>]
+
+LaTeX Warning: File `Bilder/Tabelle 1.png' not found on input line 32.
+
+<Bilder/Tabelle 1.png, id=37, 1882.78406pt x 852.18375pt>
+File: Bilder/Tabelle 1.png Graphic file (type png)
+<use Bilder/Tabelle 1.png>
+Package pdftex.def Info: Bilder/Tabelle 1.png  used on input line 32.
+(pdftex.def)             Requested size: 455.24408pt x 206.04965pt.
+
+LaTeX Warning: Citation `Boyer.2007' on page 4 undefined on input line 33.
+
+
+LaTeX Warning: Citation `M.J.Donachie.2010' on page 4 undefined on input line 3
+3.
+
+
+LaTeX Warning: Citation `Boyer.2007' on page 4 undefined on input line 33.
+
+
+LaTeX Warning: Citation `M.J.Donachie.2010' on page 4 undefined on input line 3
+3.
+
+
+LaTeX Warning: Citation `Lutjering.2007' on page 4 undefined on input line 38.
+
+
+LaTeX Warning: File `./Bilder/Tabelle 2.png' not found on input line 42.
+
+<./Bilder/Tabelle 2.png, id=39, 900.36375pt x 1053.1847pt>
+File: ./Bilder/Tabelle 2.png Graphic file (type png)
+<use ./Bilder/Tabelle 2.png>
+Package pdftex.def Info: ./Bilder/Tabelle 2.png  used on input line 42.
+(pdftex.def)             Requested size: 364.19664pt x 426.00716pt.
+
+LaTeX Warning: Citation `D.EylonS.FujishiroF.H.Froes.1984' on page 4 undefined 
+on input line 43.
+
+
+LaTeX Warning: Citation `P.A.Blenkinsop.1984' on page 4 undefined on input line
+ 43.
+
+
+LaTeX Warning: Citation `A.K.Gogia.2005' on page 4 undefined on input line 43.
+
+
+LaTeX Warning: Citation `D.EylonS.FujishiroF.H.Froes.1984' on page 4 undefined 
+on input line 43.
+
+
+LaTeX Warning: Citation `P.A.Blenkinsop.1984' on page 4 undefined on input line
+ 43.
+
+
+LaTeX Warning: Citation `A.K.Gogia.2005' on page 4 undefined on input line 43.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation `C.Leyens.2005' on page 4 undefined on input line 48.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -793,53 +884,75 @@ Make it at least 13.59999pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[2] (Kapitel/Nomenklatur.tex [3
+[4 <./Bilder/Tabelle 1.png>]
 
-]) (Kapitel/Einleitung.tex [1]
-Kapitel 1.
-) (Kapitel/Metallurgie.tex [2
-
-]
-Kapitel 2.
-<./Bilder/hcp.png, id=40, 181.42781pt x 198.7425pt>
-File: ./Bilder/hcp.png Graphic file (type png)
-<use ./Bilder/hcp.png>
-Package pdftex.def Info: ./Bilder/hcp.png  used on input line 11.
-(pdftex.def)             Requested size: 136.5746pt x 149.61145pt.
-<Bilder/krz.png, id=41, 178.41656pt x 178.41656pt>
-File: Bilder/krz.png Graphic file (type png)
-<use Bilder/krz.png>
-Package pdftex.def Info: Bilder/krz.png  used on input line 14.
-(pdftex.def)             Requested size: 136.5746pt x 136.58076pt.
-[3
-
- <./Bilder/hcp.png (PNG copy)> <./Bilder/krz.png (PNG copy)>]
-<Bilder/Tabelle 1.png, id=48, 1882.78406pt x 852.18375pt>
-File: Bilder/Tabelle 1.png Graphic file (type png)
-<use Bilder/Tabelle 1.png>
-Package pdftex.def Info: Bilder/Tabelle 1.png  used on input line 32.
-(pdftex.def)             Requested size: 455.24408pt x 206.04965pt.
-<./Bilder/Tabelle 2.png, id=50, 900.36375pt x 1053.1847pt>
-File: ./Bilder/Tabelle 2.png Graphic file (type png)
-<use ./Bilder/Tabelle 2.png>
-Package pdftex.def Info: ./Bilder/Tabelle 2.png  used on input line 42.
-(pdftex.def)             Requested size: 364.19664pt x 426.00716pt.
+LaTeX Warning: Citation `C.Leyens.2005' on page 5 undefined on input line 51.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Citation `Lutjering.2007' on page 5 undefined on input line 51.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Citation `Boyer.2007' on page 5 undefined on input line 51.
 
- [4 <./Bilder/Tabelle 1.png>]
-Underfull \vbox (badness 2772) has occurred while \output is active []
+
+LaTeX Warning: Citation `M.J.Donachie.2010' on page 5 undefined on input line 5
+1.
+
+
+LaTeX Warning: Citation `C.Leyens.2005' on page 5 undefined on input line 54.
+
+
+LaTeX Warning: Citation `Lutjering.2007' on page 5 undefined on input line 54.
+
+
+LaTeX Warning: Citation `Boyer.2007' on page 5 undefined on input line 54.
+
+
+LaTeX Warning: Citation `M.J.Donachie.2010' on page 5 undefined on input line 5
+4.
+
+
+Underfull \vbox (badness 1990) has occurred while \output is active []
 
  [5 <./Bilder/Tabelle 2.png>]
-<./Bilder/Abbildung 2.png, id=59, 876.27374pt x 973.38657pt>
+
+LaTeX Warning: Citation `C.Leyens.2005' on page 6 undefined on input line 57.
+
+
+LaTeX Warning: Citation `Lutjering.2007' on page 6 undefined on input line 57.
+
+
+LaTeX Warning: Citation `Boyer.2007' on page 6 undefined on input line 57.
+
+
+LaTeX Warning: Citation `M.J.Donachie.2010' on page 6 undefined on input line 5
+7.
+
+
+LaTeX Warning: Citation `Boyer.2007' on page 6 undefined on input line 60.
+
+
+LaTeX Warning: Citation `M.J.Donachie.2010' on page 6 undefined on input line 6
+0.
+
+
+LaTeX Warning: Citation `C.Leyens.2005' on page 6 undefined on input line 63.
+
+
+LaTeX Warning: File `./Bilder/Abbildung 2.png' not found on input line 68.
+
+<./Bilder/Abbildung 2.png, id=49, 876.27374pt x 973.38657pt>
 File: ./Bilder/Abbildung 2.png Graphic file (type png)
 <use ./Bilder/Abbildung 2.png>
 Package pdftex.def Info: ./Bilder/Abbildung 2.png  used on input line 68.
 (pdftex.def)             Requested size: 318.66946pt x 353.98354pt.
+
+LaTeX Warning: Citation `M.J.Donachie.2010' on page 6 undefined on input line 6
+9.
+
+
+LaTeX Warning: Citation `M.J.Donachie.2010' on page 6 undefined on input line 6
+9.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -848,32 +961,115 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [6]
+
+LaTeX Warning: Citation `C.Leyens.2005' on page 7 undefined on input line 76.
+
+
+LaTeX Warning: Citation `Lutjering.2007' on page 7 undefined on input line 76.
+
+
+LaTeX Warning: Citation `Boyer.2007' on page 7 undefined on input line 76.
+
+
+LaTeX Warning: Citation `M.J.Donachie.2010' on page 7 undefined on input line 7
+6.
+
+
+LaTeX Warning: Citation `C.Leyens.2005' on page 7 undefined on input line 78.
+
+
+LaTeX Warning: Citation `Lutjering.2007' on page 7 undefined on input line 78.
+
+
+LaTeX Warning: Citation `Boyer.2007' on page 7 undefined on input line 78.
+
+
+LaTeX Warning: Citation `M.J.Donachie.2010' on page 7 undefined on input line 7
+8.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7 <./Bilder/Abbildung 2.png>]
-<./Bilder/Abbildung 6.png, id=67, 1888.05376pt x 580.41844pt>
+
+LaTeX Warning: File `./Bilder/Abbildung 6.png' not found on input line 84.
+
+<./Bilder/Abbildung 6.png, id=58, 1888.05376pt x 580.41844pt>
 File: ./Bilder/Abbildung 6.png Graphic file (type png)
 <use ./Bilder/Abbildung 6.png>
 Package pdftex.def Info: ./Bilder/Abbildung 6.png  used on input line 84.
 (pdftex.def)             Requested size: 364.19664pt x 111.95451pt.
-<./Bilder/Abbildung 7.png, id=68, 1805.9972pt x 679.03688pt>
+
+LaTeX Warning: Citation `M.J.Berminghametal..2007' on page 8 undefined on input
+ line 85.
+
+
+LaTeX Warning: Citation `M.J.Berminghametal..2007' on page 8 undefined on input
+ line 85.
+
+
+LaTeX Warning: Citation `C.Leyens.2005' on page 8 undefined on input line 90.
+
+
+LaTeX Warning: Citation `Lutjering.2007' on page 8 undefined on input line 90.
+
+
+LaTeX Warning: Citation `Boyer.2007' on page 8 undefined on input line 90.
+
+
+LaTeX Warning: Citation `M.J.Donachie.2010' on page 8 undefined on input line 9
+0.
+
+
+LaTeX Warning: Citation `C.Leyens.2005' on page 8 undefined on input line 91.
+
+
+LaTeX Warning: Citation `Lutjering.2007' on page 8 undefined on input line 91.
+
+
+LaTeX Warning: Citation `Boyer.2007' on page 8 undefined on input line 91.
+
+
+LaTeX Warning: File `./Bilder/Abbildung 7.png' not found on input line 95.
+
+<./Bilder/Abbildung 7.png, id=59, 1805.9972pt x 679.03688pt>
 File: ./Bilder/Abbildung 7.png Graphic file (type png)
 <use ./Bilder/Abbildung 7.png>
 Package pdftex.def Info: ./Bilder/Abbildung 7.png  used on input line 95.
 (pdftex.def)             Requested size: 409.71689pt x 154.05113pt.
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
-03.
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+LaTeX Warning: Citation `M.PetersJ.KumpfertC.WardC.Leyens.2003' on page 8 undef
+ined on input line 96.
+
+
+LaTeX Warning: Citation `M.PetersJ.KumpfertC.WardC.Leyens.2003' on page 8 undef
+ined on input line 96.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 103.
+
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd
+"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 103.
-<./Bilder/Abbildung 3.png, id=69, 1127.71312pt x 884.55469pt>
+
+
+LaTeX Warning: File `./Bilder/Abbildung 3.png' not found on input line 107.
+
+<./Bilder/Abbildung 3.png, id=60, 1127.71312pt x 884.55469pt>
 File: ./Bilder/Abbildung 3.png Graphic file (type png)
 <use ./Bilder/Abbildung 3.png>
 Package pdftex.def Info: ./Bilder/Abbildung 3.png  used on input line 107.
 (pdftex.def)             Requested size: 318.66946pt x 249.95465pt.
+
+LaTeX Warning: Citation `Lutjering.2007' on page 8 undefined on input line 108.
+
+
+
+LaTeX Warning: Citation `Lutjering.2007' on page 8 undefined on input line 108.
+
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -881,323 +1077,223 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8 <./Bilder/Abbildung 6.png> <./Bilder/Abbildung 7.png>]
-<./Bilder/Abbildung 4.jpg, id=75, 668.7384pt x 501.072pt>
+
+LaTeX Warning: Citation `Lutjering.2007' on page 9 undefined on input line 114.
+
+
+
+LaTeX Warning: File `./Bilder/Abbildung 4.jpg' not found on input line 118.
+
+<./Bilder/Abbildung 4.jpg, id=66, 668.7384pt x 501.072pt>
 File: ./Bilder/Abbildung 4.jpg Graphic file (type jpg)
 <use ./Bilder/Abbildung 4.jpg>
 Package pdftex.def Info: ./Bilder/Abbildung 4.jpg  used on input line 118.
 (pdftex.def)             Requested size: 318.66946pt x 238.77625pt.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-19.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 119.
 
-("C:\Users\Patrick\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.fd"
+("C:\Users\vrein_000\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1cmr.fd
+"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-Underfull \vbox (badness 1127) has occurred while \output is active []
 
- [9 <./Bilder/Abbildung 3.png> <./Bilder/Abbildung 4.jpg>]
-<./Bilder/Abbildung 5.png, id=82, 843.15pt x 618.05907pt>
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation `Lutjering.2007' on page 9 undefined on input line 124.
+
+
+
+LaTeX Warning: File `./Bilder/Abbildung 5.png' not found on input line 129.
+
+<./Bilder/Abbildung 5.png, id=67, 843.15pt x 618.05907pt>
 File: ./Bilder/Abbildung 5.png Graphic file (type png)
 <use ./Bilder/Abbildung 5.png>
 Package pdftex.def Info: ./Bilder/Abbildung 5.png  used on input line 129.
 (pdftex.def)             Requested size: 318.66946pt x 233.60115pt.
- [10 <./Bilder/Abbildung 5.png>]
-<./Bilder/Tabelle 3.png, id=87, 1604.99625pt x 1106.63437pt>
+
+LaTeX Warning: Citation `Lutjering.2007' on page 9 undefined on input line 130.
+
+
+
+LaTeX Warning: Citation `Lutjering.2007' on page 9 undefined on input line 130.
+
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Citation `C.Leyens.2005' on page 9 undefined on input line 141.
+
+
+LaTeX Warning: Citation `Lutjering.2007' on page 9 undefined on input line 141.
+
+
+
+LaTeX Warning: Citation `M.J.Donachie.2010' on page 9 undefined on input line 1
+41.
+
+
+LaTeX Warning: Citation `C.Leyens.2005' on page 9 undefined on input line 145.
+
+
+LaTeX Warning: Citation `Lutjering.2007' on page 9 undefined on input line 145.
+
+
+[9 <./Bilder/Abbildung 3.png>]
+
+LaTeX Warning: Citation `Boyer.2007' on page 10 undefined on input line 147.
+
+
+LaTeX Warning: Citation `M.J.Donachie.2010' on page 10 undefined on input line 
+147.
+
+
+LaTeX Warning: Citation `C.Leyens.2005' on page 10 undefined on input line 151.
+
+
+
+LaTeX Warning: Citation `Lutjering.2007' on page 10 undefined on input line 151
+.
+
+
+LaTeX Warning: Citation `M.J.Donachie.2010' on page 10 undefined on input line 
+151.
+
+
+LaTeX Warning: Citation `C.Leyens.2005' on page 10 undefined on input line 154.
+
+
+
+LaTeX Warning: Citation `Lutjering.2007' on page 10 undefined on input line 154
+.
+
+
+LaTeX Warning: Citation `M.J.Donachie.2010' on page 10 undefined on input line 
+154.
+
+
+LaTeX Warning: Citation `C.Leyens.2005' on page 10 undefined on input line 156.
+
+
+
+LaTeX Warning: Citation `Lutjering.2007' on page 10 undefined on input line 156
+.
+
+
+LaTeX Warning: Citation `Boyer.2007' on page 10 undefined on input line 156.
+
+
+LaTeX Warning: Citation `M.J.Donachie.2010' on page 10 undefined on input line 
+156.
+
+[10 <./Bilder/Abbildung 4.jpg>]
+
+LaTeX Warning: Citation `C.Leyens.2005' on page 11 undefined on input line 158.
+
+
+
+LaTeX Warning: Citation `Lutjering.2007' on page 11 undefined on input line 158
+.
+
+
+LaTeX Warning: Citation `Boyer.2007' on page 11 undefined on input line 158.
+
+
+LaTeX Warning: Citation `C.Leyens.2005' on page 11 undefined on input line 158.
+
+
+
+LaTeX Warning: Citation `Lutjering.2007' on page 11 undefined on input line 158
+.
+
+
+LaTeX Warning: Citation `M.J.Donachie.2010' on page 11 undefined on input line 
+158.
+
+
+LaTeX Warning: File `./Bilder/Tabelle 3.png' not found on input line 162.
+
+<./Bilder/Tabelle 3.png, id=76, 1604.99625pt x 1106.63437pt>
 File: ./Bilder/Tabelle 3.png Graphic file (type png)
 <use ./Bilder/Tabelle 3.png>
 Package pdftex.def Info: ./Bilder/Tabelle 3.png  used on input line 162.
 (pdftex.def)             Requested size: 409.71689pt x 282.50041pt.
 
+LaTeX Warning: Citation `Boyer.2007' on page 11 undefined on input line 163.
+
+
+LaTeX Warning: Citation `Boyer.2007' on page 11 undefined on input line 163.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [11]
+ [11 <./Bilder/Abbildung 5.png>]
+
+LaTeX Warning: Citation `C.Leyens.2005' on page 12 undefined on input line 170.
+
+
+
+LaTeX Warning: Citation `R.R.Boyer.1996' on page 12 undefined on input line 170
+.
+
+
+LaTeX Warning: Citation `M.PetersJ.KumpfertC.WardC.Leyens.2003' on page 12 unde
+fined on input line 170.
+
+
+LaTeX Warning: Citation `Lutjering.2007' on page 12 undefined on input line 170
+.
+
 
 LaTeX Warning: Citation `A.D.KhawajiaI.K.KutubkhanahaJ.M.Wieb.2008' on page 12 
 undefined on input line 170.
 
 
+LaTeX Warning: Citation `M.GeethaA.K.SinghR.AsokamaniA.K.Gogia.2009' on page 12
+ undefined on input line 170.
+
+
+LaTeX Warning: Citation `C.Leyens.2005' on page 12 undefined on input line 170.
+
+
+
+LaTeX Warning: Citation `ImmanuelFreiherrvonThungen.' on page 12 undefined on i
+nput line 177.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [12 <./Bilder/Tabelle 3.png>]
-<Bilder/Phasendiagram.png, id=95, 387.69844pt x 379.4175pt>
+<Bilder/Phasendiagram.png, id=86, 387.69844pt x 379.4175pt>
 File: Bilder/Phasendiagram.png Graphic file (type png)
 <use Bilder/Phasendiagram.png>
 Package pdftex.def Info: Bilder/Phasendiagram.png  used on input line 184.
 (pdftex.def)             Requested size: 227.62204pt x 222.76018pt.
 
+
+LaTeX Warning: Citation `M.J.Donachie.2010' on page 13 undefined on input line 
+185.
+
+
+LaTeX Warning: Citation `M.J.Donachie.2010' on page 13 undefined on input line 
+185.
+
+
+LaTeX Warning: Citation `M.J.Donachie.2010' on page 13 undefined on input line 
+214.
+
+
+LaTeX Warning: Citation `M.J.Donachie.2010' on page 13 undefined on input line 
+214.
+
+
+LaTeX Warning: Citation `C.Leyens.2005' on page 13 undefined on input line 219.
+
+
+
 Underfull \vbox (badness 1383) has occurred while \output is active []
 
  [13 <./Bilder/Phasendiagram.png>]
-<Bilder/Duplexgefüge.jpg, id=100, 668.7384pt x 501.072pt>
-File: Bilder/Duplexgefüge.jpg Graphic file (type jpg)
-<use Bilder/Duplexgefüge.jpg>
-Package pdftex.def Info: Bilder/Duplexgefüge.jpg  used on input line 232.
-(pdftex.def)             Requested size: 364.19664pt x 272.89151pt.
-<Bilder/TiAl.jpg, id=101, 374.90062pt x 463.7325pt>
-File: Bilder/TiAl.jpg Graphic file (type jpg)
-<use Bilder/TiAl.jpg>
-Package pdftex.def Info: Bilder/TiAl.jpg  used on input line 243.
-(pdftex.def)             Requested size: 273.14922pt x 337.89214pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [14 <./Bilder/Duplexgefüge.jpg>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [15 <./Bilder/TiAl.jpg>]
-<Bilder/TiMo.jpg, id=109, 785.93625pt x 405.01312pt>
-File: Bilder/TiMo.jpg Graphic file (type jpg)
-<use Bilder/TiMo.jpg>
-Package pdftex.def Info: Bilder/TiMo.jpg  used on input line 299.
-(pdftex.def)             Requested size: 409.71689pt x 211.1395pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 319--319
-[][]|\T1/cmr/m/n/10.95 Ela-ti-sche Ei-gen-schaf-ten bei Raum-tem-pe-ra-tur von 
-Ti6242Si (An-nea-led
- []
-
-[16 <./Bilder/TiMo.jpg>]
-<Bilder/Compressor spool.png, id=113, 408.77719pt x 475.02469pt>
-File: Bilder/Compressor spool.png Graphic file (type png)
-<use Bilder/Compressor spool.png>
-Package pdftex.def Info: Bilder/Compressor spool.png  used on input line 343.
-(pdftex.def)             Requested size: 204.85844pt x 238.06262pt.
-<Bilder/Impeller.png, id=114, 424.58624pt x 348.55219pt>
-File: Bilder/Impeller.png Graphic file (type png)
-<use Bilder/Impeller.png>
-Package pdftex.def Info: Bilder/Impeller.png  used on input line 346.
-(pdftex.def)             Requested size: 204.85844pt x 168.17537pt.
-<Bilder/Titan.jpg, id=115, 505.89pt x 444.15938pt>
-File: Bilder/Titan.jpg Graphic file (type jpg)
-<use Bilder/Titan.jpg>
-Package pdftex.def Info: Bilder/Titan.jpg  used on input line 350.
-(pdftex.def)             Requested size: 204.85844pt x 179.86322pt.
-) (Kapitel/Experimentelle_Methoden.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [17]
-[18 <./Bilder/Compressor spool.png> <./Bilder/Impeller.png> <./Bilder/Titan.jpg
->]
-Kapitel 3.
-[19
-
-]
-Underfull \vbox (badness 2735) has occurred while \output is active []
-
- [20]
-[21]) (Kapitel/Durchfuehrung.tex [22]
-Kapitel 4.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [23
-
-]
-<Bilder/ts-stda.png, id=147, 523.9575pt x 355.3275pt>
-File: Bilder/ts-stda.png Graphic file (type png)
-<use Bilder/ts-stda.png>
-Package pdftex.def Info: Bilder/ts-stda.png  used on input line 32.
-(pdftex.def)             Requested size: 409.71689pt x 277.85916pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [24 <./Bilder/ts-stda.png>]) (Kapitel/Ergebnisse.tex [25]
-Kapitel 5.
-<./Bilder/Abbildung 8.png, id=155, 1722.435pt x 889.07156pt>
-File: ./Bilder/Abbildung 8.png Graphic file (type png)
-<use ./Bilder/Abbildung 8.png>
-Package pdftex.def Info: ./Bilder/Abbildung 8.png  used on input line 9.
-(pdftex.def)             Requested size: 409.71689pt x 211.48227pt.
-<./Bilder/Abbildung 20.png, id=156, 1224.07312pt x 918.43124pt>
-File: ./Bilder/Abbildung 20.png Graphic file (type png)
-<use ./Bilder/Abbildung 20.png>
-Package pdftex.def Info: ./Bilder/Abbildung 20.png  used on input line 18.
-(pdftex.def)             Requested size: 409.71689pt x 307.4136pt.
-[26
-
- <./Bilder/Abbildung 8.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [27 <./Bilder/Abbildung 20.png>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [28]
-<./Bilder/Abbildung 9.png, id=169, 1391.95032pt x 1075.76906pt>
-File: ./Bilder/Abbildung 9.png Graphic file (type png)
-<use ./Bilder/Abbildung 9.png>
-Package pdftex.def Info: ./Bilder/Abbildung 9.png  used on input line 87.
-(pdftex.def)             Requested size: 409.71689pt x 316.64328pt.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `!tbp') on input line 94.
-
-<./Bilder/Abbildung 10.png, id=170, 1872.9975pt x 402.75468pt>
-File: ./Bilder/Abbildung 10.png Graphic file (type png)
-<use ./Bilder/Abbildung 10.png>
-Package pdftex.def Info: ./Bilder/Abbildung 10.png  used on input line 96.
-(pdftex.def)             Requested size: 409.71689pt x 88.10236pt.
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `!tbp') on input line 101.
-
-<./Bilder/Abbildung 11.png, id=171, 1796.21063pt x 379.4175pt>
-File: ./Bilder/Abbildung 11.png Graphic file (type png)
-<use ./Bilder/Abbildung 11.png>
-Package pdftex.def Info: ./Bilder/Abbildung 11.png  used on input line 103.
-(pdftex.def)             Requested size: 409.71689pt x 86.5405pt.
-[29 <./Bilder/Abbildung 9.png> <./Bilder/Abbildung 10.png> <./Bilder/Abbildung 
-11.png>]
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `!tbp') on input line 110.
-
-<./Bilder/Abbildung 12.png, id=178, 1689.31125pt x 357.58594pt>
-File: ./Bilder/Abbildung 12.png Graphic file (type png)
-<use ./Bilder/Abbildung 12.png>
-Package pdftex.def Info: ./Bilder/Abbildung 12.png  used on input line 112.
-(pdftex.def)             Requested size: 409.71689pt x 86.72812pt.
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `!tbp') on input line 117.
-
-<./Bilder/Abbildung 13.png, id=179, 1790.94093pt x 375.65344pt>
-File: ./Bilder/Abbildung 13.png Graphic file (type png)
-<use ./Bilder/Abbildung 13.png>
-Package pdftex.def Info: ./Bilder/Abbildung 13.png  used on input line 119.
-(pdftex.def)             Requested size: 409.71689pt x 85.93991pt.
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `!tbp') on input line 126.
-
-<./Bilder/Abbildung 21.png, id=180, 1115.66812pt x 852.93657pt>
-File: ./Bilder/Abbildung 21.png Graphic file (type png)
-<use ./Bilder/Abbildung 21.png>
-Package pdftex.def Info: ./Bilder/Abbildung 21.png  used on input line 128.
-(pdftex.def)             Requested size: 364.19664pt x 278.42448pt.
-
-Underfull \vbox (badness 1127) has occurred while \output is active []
-
- [30 <./Bilder/Abbildung 12.png> <./Bilder/Abbildung 13.png> <./Bilder/Abbildun
-g 21.png>]
-<./Bilder/Abbildung 14.png, id=187, 1230.84843pt x 951.555pt>
-File: ./Bilder/Abbildung 14.png Graphic file (type png)
-<use ./Bilder/Abbildung 14.png>
-Package pdftex.def Info: ./Bilder/Abbildung 14.png  used on input line 162.
-(pdftex.def)             Requested size: 409.71689pt x 316.74379pt.
-
-[31 <./Bilder/Abbildung 14.png>]
-<./Bilder/Abbildung 15.png, id=192, 1077.27469pt x 851.43094pt>
-File: ./Bilder/Abbildung 15.png Graphic file (type png)
-<use ./Bilder/Abbildung 15.png>
-Package pdftex.def Info: ./Bilder/Abbildung 15.png  used on input line 171.
-(pdftex.def)             Requested size: 409.71689pt x 323.81995pt.
-<./Bilder/Abbildung 16.png, id=193, 1536.49031pt x 328.22626pt>
-File: ./Bilder/Abbildung 16.png Graphic file (type png)
-<use ./Bilder/Abbildung 16.png>
-Package pdftex.def Info: ./Bilder/Abbildung 16.png  used on input line 201.
-(pdftex.def)             Requested size: 409.71689pt x 87.52043pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `!tbp') on input line 206.
-
-<./Bilder/Abbildung 17.png, id=194, 1696.08656pt x 355.3275pt>
-File: ./Bilder/Abbildung 17.png Graphic file (type png)
-<use ./Bilder/Abbildung 17.png>
-Package pdftex.def Info: ./Bilder/Abbildung 17.png  used on input line 208.
-(pdftex.def)             Requested size: 409.71689pt x 85.83336pt.
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `!tbp') on input line 213.
-
-<./Bilder/Abbildung 18.png, id=195, 1714.90688pt x 356.0803pt>
-File: ./Bilder/Abbildung 18.png Graphic file (type png)
-<use ./Bilder/Abbildung 18.png>
-Package pdftex.def Info: ./Bilder/Abbildung 18.png  used on input line 215.
-(pdftex.def)             Requested size: 409.71689pt x 85.06981pt.
-[32 <./Bilder/Abbildung 15.png>]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[33 <./Bilder/Abbildung 16.png> <./Bilder/Abbildung 17.png> <./Bilder/Abbildung
- 18.png>]
-<./Bilder/Abbildung 19.png, id=207, 1324.19719pt x 998.22937pt>
-File: ./Bilder/Abbildung 19.png Graphic file (type png)
-<use ./Bilder/Abbildung 19.png>
-Package pdftex.def Info: ./Bilder/Abbildung 19.png  used on input line 258.
-(pdftex.def)             Requested size: 409.71689pt x 308.85387pt.
- [34 <./Bilder/Abbildung 19.png>])
-(Kapitel/Diskussion_der_Ergebnisse.tex [35]
-Kapitel 6.
-[36
-
-]) (Kapitel/Fazit_und_Ausblick.tex [37]
-Kapitel 7.
-) (Kapitel/Letzte_Seite.tex [38
-
-]) [39] (Dokument.bbl
-Underfull \hbox (badness 1314) in paragraph at lines 62--67
-[]\T1/cmr/m/n/10.95 Immanuel Frei-herr von Thun-gen.  \T1/cmr/m/it/10.95 Ef-fet
- dwell: re-la-ti-on microstructure-microtexture-
- []
-
-[40
-
-]
-Underfull \hbox (badness 1472) in paragraph at lines 118--121
-\T1/cmr/m/n/10.95 re-la-ti-on-ships for ti-6al-2sn-4zr-2mo-0.1si.  \T1/cmr/m/it
-/10.95 ME-TALL-UR-GI-CAL TRAN-SAC-TI-ONS A\T1/cmr/m/n/10.95 ,
- []
-
-) [41] (Dokument.aux (Kapitel/Letzte_Seite.aux) (Kapitel/eid_erkl.aux))
-
-LaTeX Warning: There were undefined references.
-
- ) 
-Here is how much of TeX's memory you used:
- 18761 strings out of 492484
- 363008 string characters out of 3120696
- 394190 words of memory out of 3000000
- 22831 multiletter control sequences out of 15000+200000
- 559594 words of font info for 98 fonts, out of 3000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 51i,12n,67p,2021b,1123s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ecrm0900.pk> <C:\Users\Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecbx0900.pk> <C:\Users\Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/
-ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Patrick\AppData\Local\MiKTeX\2
-.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\Patrick\AppData\Lo
-cal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Patric
-k\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\
-Users\Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2
-074.pk> <C:\Users\Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/
-dpi600\ecbx2488.pk> <C:\Users\Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/
-jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\Patrick\AppData\Local\MiKTeX\2.9\font
-s/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\Patrick\AppData\Local\MiK
-TeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\Patrick\AppDa
-ta\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk><C:/Users/Pa
-trick/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.p
-fb><C:/Users/Patrick/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmmi10.pfb><C:/Users/Patrick/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Patrick/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Patrick/AppData/Local/
-Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Patrick/
-AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/U
-sers/Patrick/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mr8.pfb><C:/Users/Patrick/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmsy10.pfb><C:/Users/Patrick/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Patrick/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Dokument.pdf (45 pages, 29009424 bytes).
-PDF statistics:
- 773 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 182 words of extra memory for PDF output out of 10000 (max. 10000000)
-
