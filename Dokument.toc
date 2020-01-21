@@ -16,38 +16,38 @@
 \contentsline {section}{\numberline {2.2}Ti-6242 (ZB)}{9}%
 \contentsline {subsection}{\numberline {2.2.1}Zusammensetzung}{9}%
 \contentsline {subsection}{\numberline {2.2.2}Gefügestruktur}{10}%
-\contentsline {subsection}{\numberline {2.2.3}Mechanische Eigenschaften}{12}%
-\contentsline {subsection}{\numberline {2.2.4}Verwendung}{13}%
-\contentsline {chapter}{\numberline {3}Experimentelle Methoden}{14}%
-\contentsline {section}{\numberline {3.1}Metallografische Präparation (VR)}{14}%
-\contentsline {subsection}{\numberline {3.1.1}Trennen}{14}%
-\contentsline {subsection}{\numberline {3.1.2}Einbetten}{14}%
-\contentsline {subsection}{\numberline {3.1.3}Schleifen/Polieren}{14}%
-\contentsline {subsection}{\numberline {3.1.4}Ätzen}{15}%
-\contentsline {section}{\numberline {3.2}Untersuchung der Mikrostruktur (TJ)}{15}%
-\contentsline {subsection}{\numberline {3.2.1}Lichtmikroskop}{15}%
-\contentsline {subsection}{\numberline {3.2.2}Rasterelektronenmikroskopie (REM)}{16}%
-\contentsline {subsection}{\numberline {3.2.3}Feldemission REM}{16}%
-\contentsline {subsection}{\numberline {3.2.4}$\alpha _{p}$-Volumenanteil Analyse}{17}%
-\contentsline {section}{\numberline {3.3}Mechanische Prüfverfahren (VR)}{17}%
-\contentsline {subsection}{\numberline {3.3.1}Härteprüfung}{17}%
-\contentsline {subsection}{\numberline {3.3.2}Zugversuch}{18}%
-\contentsline {chapter}{\numberline {4}$\alpha _p$-Studie}{19}%
-\contentsline {section}{\numberline {4.1}As-received-Proben (VR)}{19}%
-\contentsline {section}{\numberline {4.2}Durchführung (VR)}{19}%
-\contentsline {section}{\numberline {4.3}Ergebnisse (PH)}{19}%
-\contentsline {section}{\numberline {4.4}Diskussion der Ergebnisse (VR)}{22}%
-\contentsline {chapter}{\numberline {5}Martensitbildung}{23}%
-\contentsline {section}{\numberline {5.1}Durchführung (ZB)}{23}%
-\contentsline {section}{\numberline {5.2}Ergebnisse (PH)}{23}%
-\contentsline {section}{\numberline {5.3}Diskussion der Ergebnisse (ZB)}{30}%
-\contentsline {chapter}{\numberline {6}Martensitzerfall}{31}%
-\contentsline {section}{\numberline {6.1}Durchführung (TJ)}{31}%
-\contentsline {section}{\numberline {6.2}Ergebnisse (PH)}{31}%
-\contentsline {section}{\numberline {6.3}Diskussion der Ergebnisse (TJ)}{33}%
-\contentsline {chapter}{\numberline {7}Parallelversuch}{34}%
-\contentsline {paragraph}{Glühen und Abschrecken}{36}%
-\contentsline {paragraph}{Anlassen}{36}%
-\contentsline {chapter}{\numberline {8}Zugversuche }{37}%
-\contentsline {chapter}{\numberline {9}Fazit und Ausblick}{38}%
-\contentsline {chapter}{Literatur}{41}%
+\contentsline {subsection}{\numberline {2.2.3}Mechanische Eigenschaften}{10}%
+\contentsline {subsection}{\numberline {2.2.4}Verwendung}{12}%
+\contentsline {chapter}{\numberline {3}Experimentelle Methoden}{13}%
+\contentsline {section}{\numberline {3.1}Metallografische Präparation (VR)}{13}%
+\contentsline {subsection}{\numberline {3.1.1}Trennen}{13}%
+\contentsline {subsection}{\numberline {3.1.2}Einbetten}{13}%
+\contentsline {subsection}{\numberline {3.1.3}Schleifen/Polieren}{13}%
+\contentsline {subsection}{\numberline {3.1.4}Ätzen}{14}%
+\contentsline {section}{\numberline {3.2}Untersuchung der Mikrostruktur (TJ)}{14}%
+\contentsline {subsection}{\numberline {3.2.1}Lichtmikroskop}{14}%
+\contentsline {subsection}{\numberline {3.2.2}Rasterelektronenmikroskopie (REM)}{15}%
+\contentsline {subsection}{\numberline {3.2.3}Feldemission REM}{15}%
+\contentsline {subsection}{\numberline {3.2.4}$\alpha _{p}$-Volumenanteil Analyse}{16}%
+\contentsline {section}{\numberline {3.3}Mechanische Prüfverfahren (VR)}{16}%
+\contentsline {subsection}{\numberline {3.3.1}Härteprüfung}{16}%
+\contentsline {subsection}{\numberline {3.3.2}Zugversuch}{17}%
+\contentsline {chapter}{\numberline {4}$\alpha _p$-Studie}{18}%
+\contentsline {section}{\numberline {4.1}As-received-Proben (VR)}{18}%
+\contentsline {section}{\numberline {4.2}Durchführung (VR)}{18}%
+\contentsline {section}{\numberline {4.3}Ergebnisse (PH)}{18}%
+\contentsline {section}{\numberline {4.4}Diskussion der Ergebnisse (VR)}{20}%
+\contentsline {chapter}{\numberline {5}Martensitbildung}{22}%
+\contentsline {section}{\numberline {5.1}Durchführung (ZB)}{22}%
+\contentsline {section}{\numberline {5.2}Ergebnisse (PH)}{22}%
+\contentsline {section}{\numberline {5.3}Diskussion der Ergebnisse (ZB)}{29}%
+\contentsline {chapter}{\numberline {6}Martensitzerfall}{30}%
+\contentsline {section}{\numberline {6.1}Durchführung (TJ)}{30}%
+\contentsline {section}{\numberline {6.2}Ergebnisse (PH)}{30}%
+\contentsline {section}{\numberline {6.3}Diskussion der Ergebnisse (TJ)}{32}%
+\contentsline {chapter}{\numberline {7}Strategie 2}{33}%
+\contentsline {paragraph}{Glühen und Abschrecken}{35}%
+\contentsline {paragraph}{Anlassen}{35}%
+\contentsline {chapter}{\numberline {8}Zugversuche }{36}%
+\contentsline {chapter}{\numberline {9}Fazit und Ausblick}{37}%
+\contentsline {chapter}{Literatur}{40}%
