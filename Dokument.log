@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.2)  22 JAN 2020 18:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.2)  22 JAN 2020 18:51
 entering extended mode
 **./Dokument.tex
 (Dokument.tex
@@ -1462,31 +1462,47 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [33 <./Bilder/Abbildung 19.png> <./Bilder/Abbildung 26.png>])
 (Kapitel/Zugversuche.tex [34 <./Bilder/Abbildung 27.png>]
 Kapitel 8.
-
-LaTeX Warning: Reference `fig' on page 35 undefined on input line 67.
-
 [35
 
 ]
+<./Bilder/Zugproben_kaputt.png, id=214, 3035.34pt x 3436.84pt>
+File: ./Bilder/Zugproben_kaputt.png Graphic file (type png)
+<use ./Bilder/Zugproben_kaputt.png>
+Package pdftex.def Info: ./Bilder/Zugproben_kaputt.png  used on input line 44.
+(pdftex.def)             Requested size: 273.14922pt x 309.24982pt.
+<./Bilder/Vergleich vor und nach Zerfall.png, id=215, 1204.5pt x 903.375pt>
+File: ./Bilder/Vergleich vor und nach Zerfall.png Graphic file (type png)
+<use ./Bilder/Vergleich vor und nach Zerfall.png>
+Package pdftex.def Info: ./Bilder/Vergleich vor und nach Zerfall.png  used on i
+nput line 51.
+(pdftex.def)             Requested size: 318.66946pt x 239.00728pt.
+<./Bilder/Vergleich aller Proben.png, id=216, 1204.5pt x 903.375pt>
+File: ./Bilder/Vergleich aller Proben.png Graphic file (type png)
+<use ./Bilder/Vergleich aller Proben.png>
+Package pdftex.def Info: ./Bilder/Vergleich aller Proben.png  used on input lin
+e 58.
+(pdftex.def)             Requested size: 318.66946pt x 239.00728pt.
 
-LaTeX Warning: Reference `MZ1' on page 36 undefined on input line 71.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 75--79
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
-) (Kapitel/Fazit_und_Ausblick.tex [36]
-Kapitel 9.
-) (Kapitel/Letzte_Seite.tex [37
+[36 <./Bilder/Zugproben_kaputt.png>] [37 <./Bilder/Vergleich vor und nach Zerfa
+ll.png (PNG copy)> <./Bilder/Vergleich aller Proben.png>]
 
-]) [38] (Dokument.bbl
+LaTeX Warning: Reference `MZ1' on page 38 undefined on input line 101.
+
+) (Kapitel/Fazit_und_Ausblick.tex [38]
+Kapitel 9.
+) (Kapitel/Letzte_Seite.tex [39
+
+]) [40] (Dokument.bbl
 Underfull \hbox (badness 1314) in paragraph at lines 52--57
 []\T1/cmr/m/n/10.95 Immanuel Frei-herr von Thun-gen.  \T1/cmr/m/it/10.95 Ef-fet
  dwell: re-la-ti-on microstructure-microtexture-
  []
 
-[39
+[41
 
 ]
 Underfull \hbox (badness 1472) in paragraph at lines 118--121
@@ -1521,16 +1537,19 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-) [40] (Dokument.aux (Kapitel/Letzte_Seite.aux) (Kapitel/eid_erkl.aux))
+) [42] (Dokument.aux (Kapitel/Letzte_Seite.aux) (Kapitel/eid_erkl.aux))
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 19866 strings out of 492484
- 380319 string characters out of 3120696
- 403325 words of memory out of 3000000
- 23921 multiletter control sequences out of 15000+200000
+ 19893 strings out of 492484
+ 381275 string characters out of 3120696
+ 403335 words of memory out of 3000000
+ 23945 multiletter control sequences out of 15000+200000
  557138 words of font info for 94 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,12n,67p,1971b,601s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1557,9 +1576,9 @@ cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Pat
 rick/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb
 ><C:/Users/Patrick/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmsy8.pfb>
-Output written on Dokument.pdf (43 pages, 36860363 bytes).
+Output written on Dokument.pdf (45 pages, 53932217 bytes).
 PDF statistics:
- 685 PDF objects out of 1000 (max. 8388607)
+ 695 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 187 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 202 words of extra memory for PDF output out of 10000 (max. 10000000)
 

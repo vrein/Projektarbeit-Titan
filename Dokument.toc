@@ -45,7 +45,7 @@
 \contentsline {section}{\numberline {8.1}Durchführung (ZB)}{35}%
 \contentsline {section}{\numberline {8.2}Ergebnisse (VR)}{35}%
 \contentsline {section}{\numberline {8.3}Diskussion der Ergebnisse (ZB)}{36}%
-\contentsline {paragraph}{Strategie 1}{36}%
-\contentsline {paragraph}{Strategie 2}{36}%
-\contentsline {chapter}{\numberline {9}Fazit und Ausblick}{37}%
-\contentsline {chapter}{Literatur}{40}%
+\contentsline {paragraph}{Strategie 1}{38}%
+\contentsline {paragraph}{Strategie 2}{38}%
+\contentsline {chapter}{\numberline {9}Fazit und Ausblick}{39}%
+\contentsline {chapter}{Literatur}{42}%
