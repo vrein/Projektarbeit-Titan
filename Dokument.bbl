@@ -6,6 +6,17 @@ Gerd L{\"u}tjering and James~C. Williams.
 \newblock Engineering materials and processes. Springer-Verlag, Berlin,
   Heidelberg, 2. ed. edition, 2007.
 
+\bibitem{M.J.Donachie.2010}
+{M.J. Donachie}.
+\newblock {\em Titanium: A Technical Guide, Second ed.}
+\newblock {ASM international}, 2010.
+
+\bibitem{Morita.2005}
+Tatsuro Morita, Kei Hatsuoka, Takashi Iizuka, and Kazuhiro Kawasaki.
+\newblock Strengthening of ti--6al--4v alloy by short-time duplex heat
+  treatment.
+\newblock {\em MATERIALS TRANSACTIONS}, 46(7):1681--1686, 2005.
+
 \bibitem{C.Leyens.2005}
 {C. Leyens} and {M. Peters}.
 \newblock {\em Titanium and titanium alloys: Fundamentals and applications}.
@@ -15,11 +26,6 @@ Gerd L{\"u}tjering and James~C. Williams.
 Rodney Boyer, Gerhard Welsch, and E.~W. Collings.
 \newblock {\em Materials properties handbook}.
 \newblock {ASM international}, 2007.
-
-\bibitem{M.J.Donachie.2010}
-{M.J. Donachie}.
-\newblock {\em Titanium: A Technical Guide, Second ed.}
-\newblock {ASM international}, 2010.
 
 \bibitem{R.R.Boyer.1996}
 {R.R. Boyer}.
@@ -42,25 +48,26 @@ Rodney Boyer, Gerhard Welsch, and E.~W. Collings.
   -- a review.
 \newblock {\em Progress in Materials Science}, (54):397--425, 2009.
 
-\bibitem{Zwicker.2014}
-U.~Zwicker.
-\newblock {\em Titan und Titanlegierungen}.
-\newblock Springer, Berlin, Heidelberg, 2014.
+\bibitem{ImmanuelFreiherrvonThungen.}
+{Immanuel Freiherr von Thungen}.
+\newblock {\em Effet dwell: relation
+  microstructure-microtexture-propri{\'e}t{\'e}s
+  m{\'e}caniquesdel'alliagedetitaneTi6242. Autre.}
+\newblock Dissertation.
 
 \bibitem{Prasad.2017}
 N.~Eswara Prasad and R.~J.~H. Wanhill, editors.
 \newblock {\em Aerospace materials and material technologies}.
 \newblock Indian Institute of Metals series. Springer, Singapore, 2017.
 
+\bibitem{Zwicker.2014}
+U.~Zwicker.
+\newblock {\em Titan und Titanlegierungen}.
+\newblock Springer, Berlin, Heidelberg, 2014.
+
 \bibitem{G.LutjeringJ.C.WilliamsA.Gysler.}
 {G. L{\"u}tjering, J. C. Williams, A. Gysler}.
 \newblock {\em Microstructure and Mechanical Properties of Titanium Alloys}.
-
-\bibitem{Morita.2005}
-Tatsuro Morita, Kei Hatsuoka, Takashi Iizuka, and Kazuhiro Kawasaki.
-\newblock Strengthening of ti--6al--4v alloy by short-time duplex heat
-  treatment.
-\newblock {\em MATERIALS TRANSACTIONS}, 46(7):1681--1686, 2005.
 
 \bibitem{A.K.Gogia.2005}
 {A.K. Gogia}.
@@ -91,13 +98,6 @@ John~M. Holt, Harold Mindlin, and C.~Y. Ho.
 \newblock {\em Structural alloys handbook}.
 \newblock 1997.
 
-\bibitem{ImmanuelFreiherrvonThungen.}
-{Immanuel Freiherr von Thungen}.
-\newblock {\em Effet dwell: relation
-  microstructure-microtexture-propri{\'e}t{\'e}s
-  m{\'e}caniquesdel'alliagedetitaneTi6242. Autre.}
-\newblock Dissertation.
-
 \bibitem{Ingelbrecht.1985}
 C.~D. Ingelbrecht.
 \newblock The effect of step-quenching on the tensile properties and
@@ -122,7 +122,7 @@ C.~D. Ingelbrecht.
 \bibitem{Tarzimoghadam.2015}
 Z.~Tarzimoghadam, S.~Sandl{\"o}bes, K.~G. Pradeep, and D.~Raabe.
 \newblock Microstructure design and mechanical properties in a
-  near-$\alpha$ ti--4mo alloy.
+  near-\textgreek{a} ti--4mo alloy.
 \newblock {\em Acta Materialia}, 97:291--304, 2015.
 
 \bibitem{TIMET.2000}
@@ -135,8 +135,8 @@ TIMET.
 
 \bibitem{Wang.2018}
 C.~H. Wang, H.~Jiang, and G.~H. Cao.
-\newblock Effects of step-quenching on the $\alpha''$ martensitic
-  transformation, $\alpha$ precipitation, and mechanical properties of
+\newblock Effects of step-quenching on the \textgreek{a}$''$ martensitic
+  transformation, \textgreek{a} precipitation, and mechanical properties of
   multiphase ti--10mo alloy.
 \newblock {\em Journal of Materials Science}, 53(16):11765--11778, 2018.
 
