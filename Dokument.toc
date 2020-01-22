@@ -1,6 +1,6 @@
 \babel@toc {german}{}
 \contentsline {chapter}{Nomenklatur}{1}%
-\contentsline {chapter}{\numberline {1}Einleitung}{2}%
+\contentsline {chapter}{\numberline {1}Einleitung (VR)}{2}%
 \contentsline {chapter}{\numberline {2}Metallurgie}{3}%
 \contentsline {section}{\numberline {2.1}Metallurgie von Titan und Titanlegierungen (PH)}{3}%
 \contentsline {subsection}{\numberline {2.1.1}Klassifizierung von Titan und Titanlegierungen}{3}%
@@ -8,51 +8,41 @@
 \contentsline {paragraph}{$\alpha $- und near-$\alpha $-Legierungen}{4}%
 \contentsline {paragraph}{$\alpha $+$\beta $-Legierungen}{5}%
 \contentsline {subsection}{\numberline {2.1.2}Mikrostrukturen in Titanlegierungen}{5}%
-\contentsline {subsection}{\numberline {2.1.3}Eigenschaften von Titanlegierungen}{8}%
-\contentsline {paragraph}{$\alpha $-Legierungen}{8}%
-\contentsline {paragraph}{Near-$\alpha $-Legierungen}{8}%
+\contentsline {subsection}{\numberline {2.1.3}Eigenschaften von Titanlegierungen}{7}%
+\contentsline {paragraph}{$\alpha $-Legierungen}{7}%
+\contentsline {paragraph}{Near-$\alpha $-Legierungen}{7}%
 \contentsline {paragraph}{$\alpha +\beta $-Legierungen}{8}%
-\contentsline {subsection}{\numberline {2.1.4}Verwendung von Titan und Titanlegierungen}{9}%
+\contentsline {subsection}{\numberline {2.1.4}Verwendung von Titan und Titanlegierungen}{8}%
 \contentsline {section}{\numberline {2.2}Ti-6242 (ZB)}{9}%
 \contentsline {subsection}{\numberline {2.2.1}Zusammensetzung}{9}%
-\contentsline {subsection}{\numberline {2.2.2}Gefügestruktur}{10}%
+\contentsline {subsection}{\numberline {2.2.2}Gefügestruktur}{9}%
 \contentsline {subsection}{\numberline {2.2.3}Mechanische Eigenschaften}{10}%
-\contentsline {subsection}{\numberline {2.2.4}Verwendung}{12}%
-\contentsline {chapter}{\numberline {3}Experimentelle Methoden}{14}%
-\contentsline {section}{\numberline {3.1}Metallografische Präparation (VR)}{14}%
-\contentsline {subsection}{\numberline {3.1.1}Trennen}{14}%
-\contentsline {subsection}{\numberline {3.1.2}Einbetten}{14}%
-\contentsline {subsection}{\numberline {3.1.3}Schleifen/Polieren}{14}%
-\contentsline {subsection}{\numberline {3.1.4}Ätzen}{15}%
-\contentsline {section}{\numberline {3.2}Untersuchung der Mikrostruktur (TJ)}{16}%
-\contentsline {subsection}{\numberline {3.2.1}Lichtmikroskop}{16}%
-\contentsline {subsection}{\numberline {3.2.2}Rasterelektronenmikroskopie (REM)}{16}%
-\contentsline {subsection}{\numberline {3.2.3}Feldemission REM}{17}%
-\contentsline {subsection}{\numberline {3.2.4}$\alpha _{p}$-Volumenanteil Analyse}{17}%
-\contentsline {section}{\numberline {3.3}Mechanische Prüfverfahren (VR)}{17}%
-\contentsline {subsection}{\numberline {3.3.1}Härteprüfung}{17}%
-\contentsline {subsection}{\numberline {3.3.2}Zugversuch}{18}%
-\contentsline {chapter}{\numberline {4}$\alpha _p$-Studie}{20}%
-\contentsline {section}{\numberline {4.1}As-received-Proben (VR)}{20}%
-\contentsline {section}{\numberline {4.2}Durchführung (VR)}{20}%
-\contentsline {section}{\numberline {4.3}Ergebnisse (PH)}{20}%
-\contentsline {section}{\numberline {4.4}Diskussion der Ergebnisse (VR)}{22}%
-\contentsline {chapter}{\numberline {5}Martensitbildung}{24}%
-\contentsline {section}{\numberline {5.1}Durchführung (ZB)}{24}%
-\contentsline {section}{\numberline {5.2}Ergebnisse (PH)}{24}%
-\contentsline {section}{\numberline {5.3}Diskussion der Ergebnisse (ZB)}{31}%
-\contentsline {chapter}{\numberline {6}Martensitzerfall}{32}%
-\contentsline {section}{\numberline {6.1}Durchführung (TJ)}{32}%
-\contentsline {section}{\numberline {6.2}Ergebnisse (PH)}{32}%
-\contentsline {section}{\numberline {6.3}Diskussion der Ergebnisse (TJ)}{34}%
-\contentsline {chapter}{\numberline {7}Strategie 2}{35}%
-\contentsline {paragraph}{Glühen und Abschrecken}{37}%
-\contentsline {paragraph}{Anlassen}{37}%
-\contentsline {chapter}{\numberline {8}Zugversuche }{38}%
-\contentsline {section}{\numberline {8.1}Durchführung}{38}%
-\contentsline {section}{\numberline {8.2}Ergebnisse}{38}%
-\contentsline {section}{\numberline {8.3}Diskussion der Ergebnisse}{38}%
-\contentsline {paragraph}{Strategie 1}{38}%
-\contentsline {paragraph}{Strategie 2}{39}%
-\contentsline {chapter}{\numberline {9}Fazit und Ausblick}{40}%
-\contentsline {chapter}{Literatur}{43}%
+\contentsline {subsection}{\numberline {2.2.4}Verwendung}{11}%
+\contentsline {chapter}{\numberline {3}Experimentelle Methoden}{13}%
+\contentsline {section}{\numberline {3.1}Metallografische Präparation (VR)}{13}%
+\contentsline {section}{\numberline {3.2}Untersuchung der Mikrostruktur (TJ)}{15}%
+\contentsline {section}{\numberline {3.3}Mechanische Prüfverfahren (VR)}{16}%
+\contentsline {chapter}{\numberline {4}$\alpha _p$-Studie}{18}%
+\contentsline {section}{\numberline {4.1}As-received-Proben (VR)}{18}%
+\contentsline {section}{\numberline {4.2}Durchführung (VR)}{18}%
+\contentsline {section}{\numberline {4.3}Ergebnisse (PH)}{18}%
+\contentsline {section}{\numberline {4.4}Diskussion der Ergebnisse (VR)}{20}%
+\contentsline {chapter}{\numberline {5}Martensitbildung}{22}%
+\contentsline {section}{\numberline {5.1}Durchführung (ZB)}{22}%
+\contentsline {section}{\numberline {5.2}Ergebnisse (PH)}{23}%
+\contentsline {section}{\numberline {5.3}Diskussion der Ergebnisse (ZB)}{28}%
+\contentsline {chapter}{\numberline {6}Martensitzerfall}{29}%
+\contentsline {section}{\numberline {6.1}Durchführung (TJ)}{29}%
+\contentsline {section}{\numberline {6.2}Ergebnisse (PH)}{29}%
+\contentsline {section}{\numberline {6.3}Diskussion der Ergebnisse (TJ)}{30}%
+\contentsline {chapter}{\numberline {7}Strategie 2}{32}%
+\contentsline {paragraph}{Glühen und Abschrecken}{34}%
+\contentsline {paragraph}{Anlassen}{34}%
+\contentsline {chapter}{\numberline {8}Zugversuche }{35}%
+\contentsline {section}{\numberline {8.1}Durchführung (ZB)}{35}%
+\contentsline {section}{\numberline {8.2}Ergebnisse (VR)}{35}%
+\contentsline {section}{\numberline {8.3}Diskussion der Ergebnisse (ZB)}{36}%
+\contentsline {paragraph}{Strategie 1}{36}%
+\contentsline {paragraph}{Strategie 2}{36}%
+\contentsline {chapter}{\numberline {9}Fazit und Ausblick}{37}%
+\contentsline {chapter}{Literatur}{40}%
