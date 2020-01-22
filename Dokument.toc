@@ -34,7 +34,7 @@
 \contentsline {chapter}{\numberline {6}Martensitzerfall}{29}%
 \contentsline {section}{\numberline {6.1}Durchführung (TJ)}{29}%
 \contentsline {section}{\numberline {6.2}Ergebnisse (PH)}{29}%
-\contentsline {section}{\numberline {6.3}Diskussion der Ergebnisse (TJ)}{31}%
+\contentsline {section}{\numberline {6.3}Diskussion der Ergebnisse (TJ)}{30}%
 \contentsline {chapter}{\numberline {7}Strategie 2}{32}%
 \contentsline {paragraph}{Glühen und Abschrecken}{34}%
 \contentsline {paragraph}{Anlassen}{34}%
