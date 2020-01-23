@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.2)  22 JAN 2020 18:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.2)  23 JAN 2020 13:44
 entering extended mode
 **./Dokument.tex
 (Dokument.tex
@@ -1172,22 +1172,15 @@ ifw_logo.png> <./Bilder/TUBraunschweig_4C.pdf>])
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
 less on input line 141.
 
-(Dokument.toc [1
-
-
-
-])
+(Dokument.toc)
 \tf@toc=\write3
 \openout3 = `Dokument.toc'.
 
+ [1
 
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
-Make it at least 13.59999pt.
-We now make it that large for the rest of the document.
-This may cause the page layout to be inconsistent, however.
 
-[2]
+]
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
 less on input line 154.
@@ -1210,12 +1203,12 @@ Kapitel 1.
 
 ]
 Kapitel 2.
-<./Bilder/hcp.png, id=36, 181.42781pt x 198.7425pt>
+<./Bilder/hcp.png, id=34, 181.42781pt x 198.7425pt>
 File: ./Bilder/hcp.png Graphic file (type png)
 <use ./Bilder/hcp.png>
 Package pdftex.def Info: ./Bilder/hcp.png  used on input line 12.
 (pdftex.def)             Requested size: 136.5746pt x 149.61145pt.
-<Bilder/krz.png, id=37, 178.41656pt x 178.41656pt>
+<Bilder/krz.png, id=35, 178.41656pt x 178.41656pt>
 File: Bilder/krz.png Graphic file (type png)
 <use Bilder/krz.png>
 Package pdftex.def Info: Bilder/krz.png  used on input line 15.
@@ -1223,12 +1216,19 @@ Package pdftex.def Info: Bilder/krz.png  used on input line 15.
 [3
 
  <./Bilder/hcp.png (PNG copy)> <./Bilder/krz.png (PNG copy)>]
-<./Bilder/Tabelle 1.png, id=43, 1818.795pt x 720.44156pt>
+<./Bilder/Tabelle 1.png, id=41, 1818.795pt x 720.44156pt>
 File: ./Bilder/Tabelle 1.png Graphic file (type png)
 <use ./Bilder/Tabelle 1.png>
 Package pdftex.def Info: ./Bilder/Tabelle 1.png  used on input line 30.
 (pdftex.def)             Requested size: 409.71689pt x 162.29022pt.
- [4 <./Bilder/Tabelle 1.png>]
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Make it at least 13.59999pt.
+We now make it that large for the rest of the document.
+This may cause the page layout to be inconsistent, however.
+
+[4 <./Bilder/Tabelle 1.png>]
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 6
 0.
 
@@ -1238,30 +1238,30 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 60.
 [5]
-<./Bilder/Abbildung 3.png, id=53, 1127.71312pt x 884.55469pt>
+<./Bilder/Abbildung 3.png, id=50, 1127.71312pt x 884.55469pt>
 File: ./Bilder/Abbildung 3.png Graphic file (type png)
 <use ./Bilder/Abbildung 3.png>
 Package pdftex.def Info: ./Bilder/Abbildung 3.png  used on input line 68.
 (pdftex.def)             Requested size: 273.14922pt x 214.25455pt.
-<./Bilder/Abbildung 5.png, id=54, 843.15pt x 618.05907pt>
+<./Bilder/Abbildung 5.png, id=51, 843.15pt x 618.05907pt>
 File: ./Bilder/Abbildung 5.png Graphic file (type png)
 <use ./Bilder/Abbildung 5.png>
 Package pdftex.def Info: ./Bilder/Abbildung 5.png  used on input line 75.
 (pdftex.def)             Requested size: 273.14922pt x 200.22551pt.
  [6 <./Bilder/Abbildung 3.png> <./Bilder/Abbildung 5.png>]
-<./Bilder/Abbildung 4.png, id=60, 1292.57906pt x 979.40906pt>
+<./Bilder/Abbildung 4.png, id=57, 1292.57906pt x 979.40906pt>
 File: ./Bilder/Abbildung 4.png Graphic file (type png)
 <use ./Bilder/Abbildung 4.png>
 Package pdftex.def Info: ./Bilder/Abbildung 4.png  used on input line 84.
 (pdftex.def)             Requested size: 227.62204pt x 172.4602pt.
-<./Bilder/Gefüge-Phasendiagramm.png, id=61, 1548.53531pt x 925.95938pt>
+<./Bilder/Gefüge-Phasendiagramm.png, id=58, 1548.53531pt x 925.95938pt>
 File: ./Bilder/Gefüge-Phasendiagramm.png Graphic file (type png)
 <use ./Bilder/Gefüge-Phasendiagramm.png>
 Package pdftex.def Info: ./Bilder/Gefüge-Phasendiagramm.png  used on input lin
 e 93.
 (pdftex.def)             Requested size: 409.71689pt x 244.98245pt.
  [7 <./Bilder/Abbildung 4.png> <./Bilder/Gefüge-Phasendiagramm.png>] [8]
-<Bilder/Phasendiagram.png, id=70, 1267.73625pt x 1030.60031pt>
+<Bilder/Phasendiagram.png, id=67, 1267.73625pt x 1030.60031pt>
 File: Bilder/Phasendiagram.png Graphic file (type png)
 <use Bilder/Phasendiagram.png>
 Package pdftex.def Info: Bilder/Phasendiagram.png  used on input line 133.
@@ -1271,18 +1271,18 @@ Package pdftex.def Info: Bilder/Phasendiagram.png  used on input line 133.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [9 <./Bilder/Phasendiagram.png>] [10]
-<./Bilder/Compressor spool.png, id=79, 408.77719pt x 475.02469pt>
+<./Bilder/Compressor spool.png, id=75, 408.77719pt x 475.02469pt>
 File: ./Bilder/Compressor spool.png Graphic file (type png)
 <use ./Bilder/Compressor spool.png>
 Package pdftex.def Info: ./Bilder/Compressor spool.png  used on input line 218.
 
 (pdftex.def)             Requested size: 409.71689pt x 476.14699pt.
-<./Bilder/Impeller.png, id=80, 424.58624pt x 348.55219pt>
+<./Bilder/Impeller.png, id=76, 424.58624pt x 348.55219pt>
 File: ./Bilder/Impeller.png Graphic file (type png)
 <use ./Bilder/Impeller.png>
 Package pdftex.def Info: ./Bilder/Impeller.png  used on input line 225.
 (pdftex.def)             Requested size: 318.66946pt x 261.61559pt.
-<Bilder/Titan.jpg, id=81, 505.89pt x 444.15938pt>
+<Bilder/Titan.jpg, id=77, 505.89pt x 444.15938pt>
 File: Bilder/Titan.jpg Graphic file (type jpg)
 <use Bilder/Titan.jpg>
 Package pdftex.def Info: Bilder/Titan.jpg  used on input line 234.
@@ -1293,18 +1293,13 @@ n.jpg>]
 Kapitel 3.
 [13
 
-]
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 40.
-
-[14] [15] [16]
-<./Bilder/Spgs-Dehnungs-Kurve_Dehngrenze.png, id=108, 320.19624pt x 320.19624pt
+] [14] [15] [16]
+<./Bilder/Spgs-Dehnungs-Kurve_Dehngrenze.png, id=104, 320.19624pt x 320.19624pt
 >
 File: ./Bilder/Spgs-Dehnungs-Kurve_Dehngrenze.png Graphic file (type png)
 <use ./Bilder/Spgs-Dehnungs-Kurve_Dehngrenze.png>
 Package pdftex.def Info: ./Bilder/Spgs-Dehnungs-Kurve_Dehngrenze.png  used on i
-nput line 158.
+nput line 159.
 (pdftex.def)             Requested size: 273.14922pt x 273.15501pt.
 ) (Kapitel/alphap-Studie.tex [17 <./Bilder/Spgs-Dehnungs-Kurve_Dehngrenze.png>]
 
@@ -1312,12 +1307,12 @@ Kapitel 4.
 [18
 
 ]
-<./Bilder/Abbildung 8.png, id=116, 1739.7497pt x 872.50969pt>
+<./Bilder/Abbildung 8.png, id=113, 1739.7497pt x 872.50969pt>
 File: ./Bilder/Abbildung 8.png Graphic file (type png)
 <use ./Bilder/Abbildung 8.png>
 Package pdftex.def Info: ./Bilder/Abbildung 8.png  used on input line 44.
 (pdftex.def)             Requested size: 455.24408pt x 228.31165pt.
-<./Bilder/Abbildung 20.png, id=117, 1223.32031pt x 920.68968pt>
+<./Bilder/Abbildung 20.png, id=114, 1223.32031pt x 920.68968pt>
 File: ./Bilder/Abbildung 20.png Graphic file (type png)
 <use ./Bilder/Abbildung 20.png>
 Package pdftex.def Info: ./Bilder/Abbildung 20.png  used on input line 53.
@@ -1327,101 +1322,105 @@ Package pdftex.def Info: ./Bilder/Abbildung 20.png  used on input line 53.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [19 <./Bilder/Abbildung 8.png> <./Bilder/Abbildung 20.png>])
-(Kapitel/Martensitbildung.tex [20] [21]
+(Kapitel/Martensitbildung.tex [20]
 Kapitel 5.
-<./Bilder/Martensit einzeln.png, id=129, 955.31906pt x 794.97pt>
+<./Bilder/Martensit einzeln.png, id=123, 955.31906pt x 794.97pt>
 File: ./Bilder/Martensit einzeln.png Graphic file (type png)
 <use ./Bilder/Martensit einzeln.png>
 Package pdftex.def Info: ./Bilder/Martensit einzeln.png  used on input line 10.
 
-(pdftex.def)             Requested size: 318.66946pt x 265.17938pt.
+(pdftex.def)             Requested size: 273.14922pt x 227.29662pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
-[22
+[21
 
  <./Bilder/Martensit einzeln.png>]
-<./Bilder/Abbildung 9.png, id=135, 1391.95032pt x 1075.76906pt>
+<./Bilder/Abbildung 9.png, id=128, 1391.95032pt x 1075.76906pt>
 File: ./Bilder/Abbildung 9.png Graphic file (type png)
 <use ./Bilder/Abbildung 9.png>
 Package pdftex.def Info: ./Bilder/Abbildung 9.png  used on input line 25.
-(pdftex.def)             Requested size: 409.71689pt x 316.64328pt.
-<./Bilder/Abbildung 21.png, id=136, 1115.66812pt x 852.93657pt>
+(pdftex.def)             Requested size: 455.24408pt x 351.8368pt.
+<./Bilder/Abbildung 21.png, id=129, 1115.66812pt x 852.93657pt>
 File: ./Bilder/Abbildung 21.png Graphic file (type png)
 <use ./Bilder/Abbildung 21.png>
 Package pdftex.def Info: ./Bilder/Abbildung 21.png  used on input line 36.
 (pdftex.def)             Requested size: 364.19664pt x 278.42448pt.
-<./Bilder/Abbildung 10.png, id=137, 1680.2775pt x 622.57594pt>
+<./Bilder/Abbildung 10.png, id=130, 1680.2775pt x 622.57594pt>
 File: ./Bilder/Abbildung 10.png Graphic file (type png)
 <use ./Bilder/Abbildung 10.png>
 Package pdftex.def Info: ./Bilder/Abbildung 10.png  used on input line 43.
 (pdftex.def)             Requested size: 455.24408pt x 168.67723pt.
-<./Bilder/Abbildung 11.png, id=138, 1325.70282pt x 354.57469pt>
+<./Bilder/Abbildung 11.png, id=131, 1325.70282pt x 354.57469pt>
 File: ./Bilder/Abbildung 11.png Graphic file (type png)
 <use ./Bilder/Abbildung 11.png>
 Package pdftex.def Info: ./Bilder/Abbildung 11.png  used on input line 50.
 (pdftex.def)             Requested size: 455.24408pt x 121.7603pt.
-<./Bilder/Abbildung 12.png, id=139, 1243.64626pt x 331.2375pt>
+<./Bilder/Abbildung 12.png, id=132, 1243.64626pt x 331.2375pt>
 File: ./Bilder/Abbildung 12.png Graphic file (type png)
 <use ./Bilder/Abbildung 12.png>
 Package pdftex.def Info: ./Bilder/Abbildung 12.png  used on input line 57.
 (pdftex.def)             Requested size: 455.24408pt x 121.25194pt.
-<./Bilder/Abbildung 13.png, id=140, 1330.21968pt x 349.305pt>
+<./Bilder/Abbildung 13.png, id=133, 1330.21968pt x 349.305pt>
 File: ./Bilder/Abbildung 13.png Graphic file (type png)
 <use ./Bilder/Abbildung 13.png>
 Package pdftex.def Info: ./Bilder/Abbildung 13.png  used on input line 64.
 (pdftex.def)             Requested size: 455.24408pt x 119.54562pt.
- [23 <./Bilder/Abbildung 9.png>] [24 <./Bilder/Abbildung 21.png> <./Bilder/Abbi
-ldung 10.png> <./Bilder/Abbildung 11.png>] [25 <./Bilder/Abbildung 12.png> <./B
+ [22 <./Bilder/Abbildung 9.png>] [23 <./Bilder/Abbildung 21.png> <./Bilder/Abbi
+ldung 10.png> <./Bilder/Abbildung 11.png>] [24 <./Bilder/Abbildung 12.png> <./B
 ilder/Abbildung 13.png>]
-<./Bilder/Abbildung 14.png, id=156, 1230.84843pt x 951.555pt>
+<./Bilder/Abbildung 14.png, id=150, 1230.84843pt x 951.555pt>
 File: ./Bilder/Abbildung 14.png Graphic file (type png)
 <use ./Bilder/Abbildung 14.png>
-Package pdftex.def Info: ./Bilder/Abbildung 14.png  used on input line 98.
-(pdftex.def)             Requested size: 409.71689pt x 316.74379pt.
-<./Bilder/Abbildung 15.png, id=157, 1077.27469pt x 851.43094pt>
+Package pdftex.def Info: ./Bilder/Abbildung 14.png  used on input line 100.
+(pdftex.def)             Requested size: 455.24408pt x 351.93916pt.
+<./Bilder/Abbildung 15.png, id=151, 1077.27469pt x 851.43094pt>
 File: ./Bilder/Abbildung 15.png Graphic file (type png)
 <use ./Bilder/Abbildung 15.png>
-Package pdftex.def Info: ./Bilder/Abbildung 15.png  used on input line 107.
-(pdftex.def)             Requested size: 409.71689pt x 323.81995pt.
- [26 <./Bilder/Abbildung 14.png>]
-<./Bilder/Abbildung 16.png, id=162, 1132.98282pt x 305.64188pt>
+Package pdftex.def Info: ./Bilder/Abbildung 15.png  used on input line 109.
+(pdftex.def)             Requested size: 455.24408pt x 359.80716pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[25 <./Bilder/Abbildung 14.png>]
+<./Bilder/Abbildung 16.png, id=156, 1132.98282pt x 305.64188pt>
 File: ./Bilder/Abbildung 16.png Graphic file (type png)
 <use ./Bilder/Abbildung 16.png>
-Package pdftex.def Info: ./Bilder/Abbildung 16.png  used on input line 137.
+Package pdftex.def Info: ./Bilder/Abbildung 16.png  used on input line 139.
 (pdftex.def)             Requested size: 455.24408pt x 122.80956pt.
-<./Bilder/Abbildung 17.png, id=163, 1242.89343pt x 327.47343pt>
+<./Bilder/Abbildung 17.png, id=157, 1242.89343pt x 327.47343pt>
 File: ./Bilder/Abbildung 17.png Graphic file (type png)
 <use ./Bilder/Abbildung 17.png>
-Package pdftex.def Info: ./Bilder/Abbildung 17.png  used on input line 144.
+Package pdftex.def Info: ./Bilder/Abbildung 17.png  used on input line 146.
 (pdftex.def)             Requested size: 455.24408pt x 119.94405pt.
-<./Bilder/Abbildung 18.png, id=164, 1267.73625pt x 328.97906pt>
+<./Bilder/Abbildung 18.png, id=158, 1267.73625pt x 328.97906pt>
 File: ./Bilder/Abbildung 18.png Graphic file (type png)
 <use ./Bilder/Abbildung 18.png>
-Package pdftex.def Info: ./Bilder/Abbildung 18.png  used on input line 151.
+Package pdftex.def Info: ./Bilder/Abbildung 18.png  used on input line 153.
 (pdftex.def)             Requested size: 455.24408pt x 118.1362pt.
- [27 <./Bilder/Abbildung 15.png> <./Bilder/Abbildung 16.png>])
-(Kapitel/Martensitzerfall.tex [28 <./Bilder/Abbildung 17.png> <./Bilder/Abbildu
-ng 18.png>]
+ [26 <./Bilder/Abbildung 15.png>] [27 <./Bilder/Abbildung 16.png> <./Bilder/Abb
+ildung 17.png> <./Bilder/Abbildung 18.png>])
+(Kapitel/Martensitzerfall.tex [28]
 Kapitel 6.
-<./Bilder/Abbildung 22.png, id=176, 1818.04219pt x 471.26062pt>
+<./Bilder/Abbildung 22.png, id=172, 1818.04219pt x 471.26062pt>
 File: ./Bilder/Abbildung 22.png Graphic file (type png)
 <use ./Bilder/Abbildung 22.png>
 Package pdftex.def Info: ./Bilder/Abbildung 22.png  used on input line 18.
 (pdftex.def)             Requested size: 455.24408pt x 118.00182pt.
-<./Bilder/Abbildung 23.png, id=177, 1796.96344pt x 462.97969pt>
+<./Bilder/Abbildung 23.png, id=173, 1796.96344pt x 462.97969pt>
 File: ./Bilder/Abbildung 23.png Graphic file (type png)
 <use ./Bilder/Abbildung 23.png>
 Package pdftex.def Info: ./Bilder/Abbildung 23.png  used on input line 25.
 (pdftex.def)             Requested size: 455.24408pt x 117.29175pt.
-<./Bilder/Abbildung 24.png, id=178, 1647.90656pt x 428.35031pt>
+<./Bilder/Abbildung 24.png, id=174, 1647.90656pt x 428.35031pt>
 File: ./Bilder/Abbildung 24.png Graphic file (type png)
 <use ./Bilder/Abbildung 24.png>
 Package pdftex.def Info: ./Bilder/Abbildung 24.png  used on input line 32.
 (pdftex.def)             Requested size: 455.24408pt x 118.33592pt.
-<./Bilder/Abbildung 25.png, id=179, 1734.48pt x 448.67625pt>
+<./Bilder/Abbildung 25.png, id=175, 1734.48pt x 448.67625pt>
 File: ./Bilder/Abbildung 25.png Graphic file (type png)
 <use ./Bilder/Abbildung 25.png>
 Package pdftex.def Info: ./Bilder/Abbildung 25.png  used on input line 39.
@@ -1432,29 +1431,29 @@ Package pdftex.def Info: ./Bilder/Abbildung 25.png  used on input line 39.
 ng 24.png> <./Bilder/Abbildung 25.png>]) (Kapitel/Parallelversuch.tex
 [31]
 Kapitel 7.
-<./Bilder/SQ.png, id=193, 1586.92876pt x 797.22844pt>
+<./Bilder/SQ.png, id=190, 1586.92876pt x 797.22844pt>
 File: ./Bilder/SQ.png Graphic file (type png)
 <use ./Bilder/SQ.png>
 Package pdftex.def Info: ./Bilder/SQ.png  used on input line 12.
 (pdftex.def)             Requested size: 409.71689pt x 205.8269pt.
-<./Bilder/Abbildung 19.png, id=194, 1294.08469pt x 489.32813pt>
+<./Bilder/Abbildung 19.png, id=191, 1294.08469pt x 489.32813pt>
 File: ./Bilder/Abbildung 19.png Graphic file (type png)
 <use ./Bilder/Abbildung 19.png>
 Package pdftex.def Info: ./Bilder/Abbildung 19.png  used on input line 23.
-(pdftex.def)             Requested size: 455.24408pt x 172.14099pt.
+(pdftex.def)             Requested size: 409.71689pt x 154.92316pt.
 [32
 
  <./Bilder/SQ.png>]
-<./Bilder/Abbildung 26.png, id=199, 1742.76094pt x 662.475pt>
+<./Bilder/Abbildung 26.png, id=196, 1742.76094pt x 662.475pt>
 File: ./Bilder/Abbildung 26.png Graphic file (type png)
 <use ./Bilder/Abbildung 26.png>
 Package pdftex.def Info: ./Bilder/Abbildung 26.png  used on input line 34.
-(pdftex.def)             Requested size: 455.24408pt x 173.04811pt.
-<./Bilder/Abbildung 27.png, id=200, 1749.53625pt x 667.74469pt>
+(pdftex.def)             Requested size: 409.71689pt x 155.7423pt.
+<./Bilder/Abbildung 27.png, id=197, 1749.53625pt x 667.74469pt>
 File: ./Bilder/Abbildung 27.png Graphic file (type png)
 <use ./Bilder/Abbildung 27.png>
 Package pdftex.def Info: ./Bilder/Abbildung 27.png  used on input line 41.
-(pdftex.def)             Requested size: 455.24408pt x 173.75217pt.
+(pdftex.def)             Requested size: 409.71689pt x 156.36981pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1465,120 +1464,75 @@ Kapitel 8.
 [35
 
 ]
-<./Bilder/Zugproben_kaputt.png, id=214, 3035.34pt x 3436.84pt>
+<./Bilder/Zugproben_kaputt.png, id=211, 738.50906pt x 870.25125pt>
 File: ./Bilder/Zugproben_kaputt.png Graphic file (type png)
 <use ./Bilder/Zugproben_kaputt.png>
 Package pdftex.def Info: ./Bilder/Zugproben_kaputt.png  used on input line 44.
-(pdftex.def)             Requested size: 273.14922pt x 309.24982pt.
-<./Bilder/Vergleich vor und nach Zerfall.png, id=215, 1204.5pt x 903.375pt>
+(pdftex.def)             Requested size: 273.14922pt x 321.86841pt.
+<./Bilder/Vergleich vor und nach Zerfall.png, id=212, 1204.5pt x 903.375pt>
 File: ./Bilder/Vergleich vor und nach Zerfall.png Graphic file (type png)
 <use ./Bilder/Vergleich vor und nach Zerfall.png>
 Package pdftex.def Info: ./Bilder/Vergleich vor und nach Zerfall.png  used on i
 nput line 51.
-(pdftex.def)             Requested size: 318.66946pt x 239.00728pt.
-<./Bilder/Vergleich aller Proben.png, id=216, 1204.5pt x 903.375pt>
+(pdftex.def)             Requested size: 364.19664pt x 273.15117pt.
+<./Bilder/Vergleich aller Proben.png, id=213, 1204.5pt x 903.375pt>
 File: ./Bilder/Vergleich aller Proben.png Graphic file (type png)
 <use ./Bilder/Vergleich aller Proben.png>
 Package pdftex.def Info: ./Bilder/Vergleich aller Proben.png  used on input lin
 e 58.
-(pdftex.def)             Requested size: 318.66946pt x 239.00728pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 95--96
-
- []
-
-[36 <./Bilder/Zugproben_kaputt.png>] [37 <./Bilder/Vergleich vor und nach Zerfa
-ll.png (PNG copy)> <./Bilder/Vergleich aller Proben.png>]
-
-LaTeX Warning: Reference `MZ1' on page 38 undefined on input line 101.
-
-) (Kapitel/Fazit_und_Ausblick.tex [38]
+(pdftex.def)             Requested size: 364.19664pt x 273.15117pt.
+ [36 <./Bilder/Zugproben_kaputt.png>] [37 <./Bilder/Vergleich vor und nach Zerf
+all.png (PNG copy)> <./Bilder/Vergleich aller Proben.png>])
+(Kapitel/Fazit_und_Ausblick.tex [38]
 Kapitel 9.
-) (Kapitel/Letzte_Seite.tex [39
+) (Kapitel/eid_erkl.tex [39
 
-]) [40] (Dokument.bbl
+]) [40
+
+] (Dokument.bbl
 Underfull \hbox (badness 1314) in paragraph at lines 52--57
 []\T1/cmr/m/n/10.95 Immanuel Frei-herr von Thun-gen.  \T1/cmr/m/it/10.95 Ef-fet
  dwell: re-la-ti-on microstructure-microtexture-
  []
 
-[41
+) [41
 
-]
-Underfull \hbox (badness 1472) in paragraph at lines 118--121
-\T1/cmr/m/n/10.95 re-la-ti-on-ships for ti-6al-2sn-4zr-2mo-0.1si.  \T1/cmr/m/it
-/10.95 ME-TALL-UR-GI-CAL TRAN-SAC-TI-ONS A\T1/cmr/m/n/10.95 ,
- []
-
-! Undefined control sequence.
-l.125   near-\textgreek
-                       {a} ti--4mo alloy.
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.138 ...fects of step-quenching on the \textgreek
-                                                  {a}$''$ martensitic
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.139   transformation, \textgreek
-                                  {a} precipitation, and mechanical properti...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-) [42] (Dokument.aux (Kapitel/Letzte_Seite.aux) (Kapitel/eid_erkl.aux))
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+] (Dokument.aux (Kapitel/Letzte_Seite.aux) (Kapitel/eid_erkl.aux)) ) 
 Here is how much of TeX's memory you used:
- 19893 strings out of 492484
- 381275 string characters out of 3120696
- 403335 words of memory out of 3000000
- 23945 multiletter control sequences out of 15000+200000
+ 19879 strings out of 492484
+ 381002 string characters out of 3120696
+ 403274 words of memory out of 3000000
+ 23931 multiletter control sequences out of 15000+200000
  557138 words of font info for 94 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  51i,12n,67p,1971b,601s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi60
-0\ecbi1200.pk> <C:\Users\Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecti1095.pk> <C:\Users\Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/
-ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Patrick\AppData\Local\MiKTeX\2
-.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\Patrick\AppData\Lo
-cal\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Patric
-k\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\
-Users\Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1
-095.pk> <C:\Users\Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/
-dpi600\ecbx1728.pk> <C:\Users\Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/
-jknappen/ec/dpi600\ecbx1200.pk><C:/Users/Patrick/AppData/Local/Programs/MiKTeX 
-2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Patrick/AppData/Local/P
-rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Patrick/
-AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:
-/Users/Patrick/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmmi8.pfb><C:/Users/Patrick/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmr10.pfb><C:/Users/Patrick/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Patrick/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Patrick/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Pat
-rick/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb
-><C:/Users/Patrick/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmsy8.pfb>
-Output written on Dokument.pdf (45 pages, 53932217 bytes).
+ <C:\Users\
+Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1200.pk
+> <C:\Users\Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600
+\ecbx1440.pk> <C:\Users\Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknapp
+en/ec/dpi600\ecti1095.pk> <C:\Users\Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/l
+jfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\Patrick\AppData\Local\MiKTeX\2.
+9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Patrick\AppData\Loc
+al\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\Patrick
+\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\U
+sers\Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx17
+28.pk> <C:\Users\Patrick\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/d
+pi600\ecbx1200.pk><C:/Users/Patrick/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmex10.pfb><C:/Users/Patrick/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Patrick/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Patric
+k/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C
+:/Users/Patrick/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmr10.pfb><C:/Users/Patrick/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmr6.pfb><C:/Users/Patrick/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Patrick/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Patrick/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Pa
+trick/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pf
+b>
+Output written on Dokument.pdf (43 pages, 39520789 bytes).
 PDF statistics:
- 695 PDF objects out of 1000 (max. 8388607)
+ 687 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  202 words of extra memory for PDF output out of 10000 (max. 10000000)
 

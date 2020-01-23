@@ -1,6 +1,11 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: Dokument.aux
 A level-1 auxiliary file: Kapitel/Letzte_Seite.aux
 A level-1 auxiliary file: Kapitel/eid_erkl.aux
+I couldn't open auxiliary file empty_page.aux
+---line 7 of file Dokument.aux
+ : \@input{empty_page.aux
+ :                       }
+I'm skipping whatever remains of this command
 The style file: unsrt.bst
 Database file #1: Literatur.bib
 Warning--there's a number but no volume in R.R.Boyer.1996
@@ -11,12 +16,4 @@ Warning--empty school in ImmanuelFreiherrvonThungen.
 Warning--empty year in ImmanuelFreiherrvonThungen.
 Warning--empty publisher in G.LutjeringJ.C.WilliamsA.Gysler.
 Warning--empty year in G.LutjeringJ.C.WilliamsA.Gysler.
-Warning--there's a number but no volume in A.K.Gogia.2005
-Warning--there's a number but no volume in D.EylonS.FujishiroF.H.Froes.1984
-Warning--empty publisher in Holt.1997
-Warning--there's a number but no volume in Ingelbrecht.1985
-Warning--there's a number but no volume in M.J.Berminghametal..2007
-Warning--empty year in S.L.SEMIATINJ.ETHOMASJr.andP.DADRAS.
-Warning--empty journal in YavarMansouri.
-Warning--empty year in YavarMansouri.
-(There were 16 warnings)
+(There was 1 error message)
